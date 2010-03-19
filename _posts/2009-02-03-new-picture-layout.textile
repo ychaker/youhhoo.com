@@ -1,0 +1,19 @@
+---
+layout: post
+title: New Picture Layout
+categories: 
+- technology
+tags:
+- javascript
+- lightbox
+- photo album
+- ruby
+- ruby on rails
+- thickbox
+---
+
+p. When I first started working on my website, the main function I thought it would serve was to be a place people can view my pictures. I live away from most of my close friends and some of them are not big on things life facebook or any social media for that matter. Pictures are a nice way to capture certain moments that I want to share with my friends and my own website would be the easiest mean to do it. I chose RoR as the programming language of choice because I had worked with it before and saw its power, but as I was trying to find other applications or plug-ins that would help me build the photo album part, I was not impressed by the solutions that were available. I managed to use something for the uploading part but wasn't happy about it either. I was getting busier at work and wanted a quick solution so I went with the first thing I found and hacked at it for a little while until I got something functional. 
+
+p. I knew the solution was temporary and that I would go back to work on it, unfortunately I didn't get the time to do it until now. I wasn't going to touch the part related to uploading the images because that would imply a bigger overhaul than I had time for, but I definitely needed to improve on the way the images were displayed and laid out. I previously had used lightbox on different projects that were not done using RoR and used some javascript libraries in a RoR to create popups to display but that required more custom work and I knew that there must be some lightbox like method for images in RoR application. When I first looked around, I found the <a href="http://jquery.com/demo/thickbox/" target="_blank">Thicbox</a> project and it looked good enough to be what I wanted to use. It worked very well to display a single image in a popup window, but i could not get it to work for multiple images in an album and have it show them in a slides how manner. So I decided to look some more for another solution, and finally landed on the lightbox page I was looking for all along. I don't know why I didn't land on this page earlier, specially that I specifically searched for lightbox solutions, but when I finally found it I was able to make the quick changes to the site and make it have the easy and friendly feel I was hoping to provide from the get go. The lightbox project I used can be found at Loeksh Dhakar's <a href="http://www.lokeshdhakar.com/projects/lightbox2/">page</a>.
+
+p. I should thank the people who worked on both the Thickbox project and the Lightbox project. Their efforts are behind the new and smooth look of the album page. ENJOY!

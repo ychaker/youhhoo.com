@@ -1,0 +1,31 @@
+---
+layout: post
+title: RoR Triumph!
+categories: 
+- technology
+tags:
+- deploy
+- dreamhost
+- ruby on rails
+- youhhoo.com
+---
+
+p. Ruby on Rails is magical, if you've worked with it before you know what I mean. Building my own website is a little experiment and exercise that I wanted to take on to utilize Ruby on Rails. The site as it stands is simple and does not seem like a good candidate for RoR. The idea for me was to develop something easy and deploy it to gain the experience in actually deploying a Rails app. To make it interesting, I created a way to post messages on the front page remotely by simply signing in and filling the message form. This takes away the pain of actually modifying the HTML code every time I need to post a message. This is not fancy by any means, but it does the job. And now that I have something setup it becomes easy to add new features as the site grows.
+
+p. Deploying the new site was not easy. The simplest things are never easy! I
+
+p. I am hosting my site on DreamHost and they seem to have a good offering. They do support Ruby on Rails which is very good and important! They also have a very helpful support wiki that was crucial for me to be able to successfully deploy the site. The following links were the guides that I used:
+
+p. "http://wiki.dreamhost.com/Ruby_on_Rails":http://wiki.dreamhost.com/Ruby_on_Rails
+
+p. "http://wiki.dreamhost.com/Capistrano":http://wiki.dreamhost.com/Capistrano
+
+p. and it is very important to pay attention to every step and executing it precisely as mentioned on the wiki. If you don't , you'll find yourself repeating the process multiple times because of some stupid thing that you left out. The biggest problem i faced was the following error:
+
+p. FastCGI: incomplete headers (0 bytes) received from server
+
+p. and if you "google" it you will get many results. It seems to be a common problem. The solution to it though is not always the same, the error message is generic for more than just one error. The article that I read suggested a few solutions, the one that worked for me was the ruby environment path. I had the wrong path in the dispatch.* files. It serves well to run 'ruby which' and get the correct path because it might vary from one case to the other. So I refreshed the page after I was done and success! It worked and I could let out a sigh of relief. A few hours later I wanted to play around with my new "baby" but it was not working , AGAIN! It was late at night and I was frustrated because I had been working on it for the entire day, so I left it as is and decided not to work on it until the next day.
+
+p. I spent hours and hours the next morning trying to figure out what the problem was in vein. I was about to give up until I got the GENIUS idea of contacting the DreamHost support. I told them what my problem was and amazingly they got back to me within an hour or two with the problem solved. It turned out that duplicate Apache service entries were running and creating confusion. Just to be safe, I ran my own script that hits the page multiple times and returns the time the task took and creates a log file. I let that scrip run for a while and results looked good.
+
+p. It took me 3 days to create the HTML version for the site, most of it spent on the background image. Then it took me another day to migrate what I had to RoR and one more day to redeploy and get everything running. It was a great experience for me and next time should be much easier!

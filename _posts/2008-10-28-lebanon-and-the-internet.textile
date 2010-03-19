@@ -1,0 +1,14 @@
+---
+layout: post
+title: Lebanon and the Internet?
+categories: 
+- social
+- opinion
+- technology
+tags:
+- arab
+- lebanon
+- web
+---
+
+p. There has been a lot of discussion at my work about introducing to the US government the WEB 3.0 technologies. This got me thinking about how Lebanon is represented on the web and it seems to me that every arabic website was made on a Windows 3.1 machine using basic HTML and Crayons (<a href="http://www.crayola.com/">http://www.crayola.com/</a>), i.e. by a two-year old!!! Not even WEB 0.1!?!?!?! I do not claim to build "beautiful" things, but at least I am assured that when I create a sign up page that requires you to activate your account from your email you actually get that email instead of a smtp error page (example: <a href="http://www.divx4arab.com/">http://www.divx4arab.com/</a>) or an error page even before you are able to attempt to sign up (example: <a href="http://www.arabfilms.org/signup.php">http://www.arabfilms.org/signup.php</a>). That's of course regardless of the cluttered page full of ads for all sorts of random things (including the couple pornographic ads that have become a regular for some of these sites!). I can never find anything I am looking for at a website oriented for the arab community. This is specially true for Lebanese sites like <a href="http://www.lebanon.com/">http://www.lebanon.com/</a> which was last redesigned in 1995. That page is so long and full of moving objects and pictures that my eyes hurt before I can find even a hint of something resembling what I am trying to find. The sad part is that I can not blame the site admin for all these faults, the poor guy is getting paid about 350,000.00 L.L. a month which amounts to about 1,000.00 L.L. an hour (or $0.66), that's just enough for the sandwich he orders for lunch during his working hours. Unfortunately this is not the cause but a symptom of the actual causes which range from "Nobody cares" to "Internet connections in Lebanon are so slow, people can't even open these pages to care" to "We have other things to worry about that are more important". Most of these causes stem from the current mentality and situation in the country so they are somewhat justifiable. Unfortunately, the country does need a makeover of its image for it to survive and luckily Lebanese expatriates care enough about it and are large in numbers that a few have decided to make their own little project to create web portals about Lebanon and for Lebanese people. I just have not been satisfied with any, or maybe don't even know about most of these projects. I have therefore decided to start my own, but I am struggling to figure out the scope, the content, the target demographics...So this is my call for help from anyone who has the slightest inclination towards a better future for this small but beloved country!

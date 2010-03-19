@@ -1,0 +1,49 @@
+---
+layout: post
+title: I will_paginate, and then some!
+categories: 
+- technology
+tags:
+- RoR
+- ruby
+- ruby on rails
+- will_paginate
+---
+
+p. The best part about using an open source technology is the contribution from the community. Many of us look for the same basic functionality out of what were are developing, and one of those functionality is pagination. In a framework like RoR we do not have to worry about re-inventing the wheel. That's where cool plugins like <a href="github.com/mislav/will_paginate/wikis" target="_blank">will_paginate</a> make a developer's life so much easier. This plugin allows you to limit the number of objects you display per page and add the little toolbar at the end that allows the user to navigate through the pages. All of that is done by just adding one line of code.
+
+p. The website for the plugin list 4 methods to install and use the plugin:
+
+* use the gem (recommended);
+* install as Rails plugin using git;
+* download tarballs;
+* export from <span class="caps">SVN</span> (obsolete, strongly discouraged).
+
+p. I have used will_paginate in other projects and installing it as a gem worked very well and here's the few things I have deducted from my experience with it:
+
+p. Pros:
+
+* less files to carry with the app
+* installs as a gem
+* a check can be added in the config.rb file to make sure that the gem exists in the environment and gives a warning when deploying
+
+p. Cons:
+
+* Dependent on the server environment and the assumption that the developer has full access to it and has permissions to install it
+* take a long time to install and update the gem
+
+p. on the other hand, when I was trying to use it for this site, I ran into a couple of problems getting it to work and one of the reason is me not having the ability to install the gem on the servers the site is hosted on. So I went with plan B and installed it as a Rails plugin and here's what I think of that:
+
+p. Pros:
+
+* installs very very fast
+* developer does not have to worry about the server environment
+* do not have to worry about updates and changes
+
+p. Cons:
+
+* you have to commit one giant plugin with the app (but that is only done once)
+
+p. The differences between the two methods are that drastic to make one better than the other and have me recommend it to everyone else. I did get in the habit of vendoring rails and I do like to have everything my application is dependent on in one place. That is why I tend to prefer the plugin way over the gem way.
+
+p. For my <a href="http://www.youhhoo.com">site</a> I used will_paginate to enhance how I display albums and images, you should <a href="http://site.youhhoo.com/albums/display">check</a> them out.

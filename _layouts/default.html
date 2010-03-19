@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+	"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>{{ page.title }}</title>
+		<meta name="author" content="Youssef Chaker" />
+		<link rel="stylesheet" type="text/css" href="/css/main.css" media="screen, projection" />
+		<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	</head>
+	
+	<body>
+		<div id='wrapper'>
+			
+			<div id='header'>
+				<h1><a href='/' title='Youssef Chaker'>Youssef Chaker</a></h1>
+			</div>
+			
+			<div id='nav' >
+				<ul>
+					<li><a href='/' title='Home Page' >Home</a>
+					<li><a href='/about.html' title='About Me Page' >About Me</a>
+					<li><a href='/resume.html' title='(Resume Page' >Resume</a>
+					<li><a href='/posts.html' title='Blog Page' >Blog</a>
+				</ul>
+				
+				{% include tag_cloud.html %}
+				
+				{% include cat_cloud.html %}
+			</div>
+			
+			
+			
+			<div id='content'>
+					{{ content }}
+			</div>
+			
+			<div style='clear:both;'></div>
+			
+			<div id='footer'>
+				Licensed under the <a href='http://creativecommons.org/licenses/by-sa/3.0/us/'>Creative Commons</a> and powered by <a href='http://github.com/mojombo/jekyll'>Jekyll</a>.
+			</div>
+			
+		</div>
+		
+		<!-- Google Analytics -->
+		<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-5219787-1");
+		pageTracker._setDomainName(".youhhoo.com");
+		pageTracker._trackPageview();
+		} catch(err) {}</script>
+		
+		<!-- Disqus Comments -->
+		<script type="text/javascript">
+		//<![CDATA[
+		(function() {
+			var links = document.getElementsByTagName('a');
+			var query = '?';
+			for(var i = 0; i < links.length; i++) {
+			if(links[i].href.indexOf('#disqus_thread') >= 0) {
+				query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+			}
+			}
+			document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/whichrubycmsshouldiuser/get_num_replies.js' + query + '"></' + 'script>');
+		})();
+		//]]>
+		</script>
+		
+		<!-- Twitter -->
+		<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
+		<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/ychaker.json?callback=twitterCallback2&amp;count=3"></script>
+	</body>
+</html>

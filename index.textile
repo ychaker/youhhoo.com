@@ -1,0 +1,60 @@
+---
+layout: default
+title: Youssef Chaker
+---
+
+	
+<div id='brief' class='blue'>
+	<div id='info' class='white'>
+		
+div(headshot). !/images/headshot.png(Head Shot Image)!
+
+p. **Youssef Chaker** 
+
+p. Born June 7th 1986
+
+p. Computer Engineer by training, Software/Web App Developer by trade.
+
+p. Favorite Programming Language: Ruby
+
+p. Favorite Web Framework: Ruby on Rails
+
+p. Platform of Choice: Mac OS X, Ubuntu (Linux flavor of the moment)
+
+p. Editor of choice: TextMate, special install of gEdit with TextMate like bundles
+
+p. Grew up in Beirut, Lebanon where I went to a French school. Moved to the U.S. for college in 2004. Graduated from UVA in may 2008 and have been in Charlottesville, VA. since. I speak Arabic, French and English fluently and understand the basics of Hindi and Urdu.
+
+p. Some of my favorite quotes: 
+
+p. "Have mind, will travel" 
+
+p. "I am what I am"
+
+p. "Say what you mean and mean what you say"
+
+p. "Your pain is the breaking of the shell that encloses your understanding... It is the bitter potion by which the physician within you heals your sick self. Therefore trust the physician, and drink his remedy in silence and tranquility..."
+	</div>
+	<div id="tweets" class='white'>
+		<h2>!/images/twitter_64.png(Twitter Profile)!:http://www.twitter.com/ychaker Tweets</h2>
+	
+		<ul id="twitter_update_list"></ul>
+	</div>
+</div>
+
+<div style='clear:both;'>
+	<br />
+</div>
+
+<div id='on-the-net' class='white'>		
+
+h2. Find Me On The Net
+
+!/images/twitter_logo.png(Twitter Profile)!:http://www.twitter.com/ychaker !/images/facebook_logo.png(Facebook Profile)!:http://www.facebook.com/ychaker !/images/linkedin_logo.png(LinkedIn Profile)!:http://www.linkedin.com/in/ychaker 
+
+<object type="application/x-shockwave-flash" data="https://clients4.google.com/voice/embed/webCallButton" width="230" height="85"><param name="movie" value="https://clients4.google.com/voice/embed/webCallButton" /><param name="wmode" value="transparent" /><param name="FlashVars" value="id=c227aeca94021765283da765c168f34b89c2e19f&amp;style=0" /></object> !/images/github_logo.png(GitHub Profile)!:http://www.github.com/ychaker 
+
+!/images/lastfm_logo.png(LastFm Profile)!:http://www.last.fm/user/youhhoo !/images/flickr_logo.png(Flickr Profile)!:http://www.flickr.com/photos/ychaker/ !/images/vimeo_logo.png(Vimeo Profile)!:http://www.vimeo.com/ychaker 
+
+</div>
+	

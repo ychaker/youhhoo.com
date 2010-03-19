@@ -1,0 +1,13 @@
+---
+layout: post
+title: Hello from a New Place
+categories:
+- site
+---
+
+I decided to go ahead and get myself a domain so I resisted and got my own site:
+<p style="text-align: center;"><a href="http://www.youhhoo.com/">http://www.youhhoo.com</a></p>
+
+Of course I did not get what I waned which was youhoo.com (one less h) but apparently Yahoo owns it and just displays a "Page Not Found" type of thing. That sucks!
+
+Anyway, WELCOME to my new home. :D

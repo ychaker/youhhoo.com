@@ -1,0 +1,131 @@
+---
+layout: default
+title: Youssef Chaker - About Me
+---
+
+<div class="about-me-box">
+	<h2>Personal Information</h2>
+	<div class="about-me-info">
+		**Name:** Youssef Chaker
+	</div>
+	<div class="about-me-info">
+		**Country of Birth:** Lebanon
+	</div>
+	<div class="about-me-info">
+		**Date of Birth:** June 7th 1986 (Gemini)
+	</div>
+	<div class="about-me-info">
+		**Height:** 6'2'' (about 1.87 meters)
+	</div>
+	<div class="about-me-info">
+		**Weight:** 215 Lb (about 97 Kg)
+	</div>
+	<div class="about-me-info">
+		**Places of Residence:** Charlottesville, VA. USA (2005 - present), Fairfax, VA. USA (2004 - 2005), Beirut, Lebanon (1986 - 2004)
+	</div>
+	<div class="about-me-info">
+		**First Love: Music:** Rap, Hip Hop, Techno, Trance, House, Jazz, International, Classical. Listed not in particular order, depending on the day I might be loving one genre more than the rest.
+	</div>
+	<div class="about-me-info">
+		**Second Love: Computers:** I cannot stay away from computers. I am very attached to technology and fascinated by these little boxes that do so much! I currently own four computers, yes i said (4). One desktop running Vista (yikes!) and Ubuntu (yay!), one laptop running Ubuntu, one tablet running XP (it's ok) and  one MacBook running OS X Leopard (amazing!). Many flavors as you can see, a bit of everything. And always one computer hooked up with a dual monitor setup.
+	</div>
+	<div class="about-me-info">
+		**Sports:** I play BasketBall and FootBall (the one where you actually kick the ball with your foot!) and love to follow FootBall (the American one), Tennis, Formula1, and all College sports.
+	</div>
+	<div class="about-me-info">
+		**Club Teams:** Lakers, Broncos, Dodgers, Red Wings, UVA Cavaliers (plus Duke BasketBall, don't ask!),  Manchester Utd, Sagesse (7ikmeh). 
+	</div>
+	<div class="about-me-info">
+		**International Teams:** Lebanese National Team (any time), Team USA (sometimes :P), Germany (in the FIFA World Cup and FIFA Euro Cup)
+	</div>
+	<div class="about-me-info">
+		**Athletes:** Kobe Bryant (don't care what you think!), Lebron James, Rafael Nadal, Michael Schumacher, David Beckham, John Elway.
+	</div>
+</div>
+
+<div class="about-me-box">
+	<h2>Career Information</h2>
+	<div class="about-me-info">
+		**Company:** <a href="http://www.opensourceconnections.com" >OpenSource Connections</a>.
+	</div>
+	<div class="about-me-info">
+		**Position:** Software Developer / Consultant
+	</div>
+	<div class="about-me-info">
+		**Period:** July 2008 - present
+	</div>
+	<div class="about-me-info">
+		**Resum&eacute;:** Available <a href="/resume.html">here</a>.
+	</div>
+	<div class="about-me-info">
+!/images/osc-header.png(OpenSource Connections)!
+	</div>
+</div>
+
+<div class="about-me-box">
+	<h2>Educational Information</h2>
+	<div class="about-me-info" style="float: right">
+!/images/uva-header.png(University of Virginia)!
+	</div>
+	<div class="about-me-info">
+		**University:** "University of Virginia (University of Virginia website)":http://www.virginia.edu
+	</div>
+	<div class="about-me-info">
+		**City:** Charlottesville
+	</div>
+	<div class="about-me-info">
+		**Degree:** Bachelor of Science in Computer Engineering
+	</div>
+	<div class="about-me-info">
+		**Attended:** August 2005 - May 2008
+	</div>
+	<div class="about-me-info">
+		**Graduation Date:** May 2008
+	</div>
+	<div class="about-me-info">
+		**Thesis:** "Designing and Building an Energy Responsible Data Center (Link to Thesis PDF File)":files/DesigningAndBuildingAnEnvironmentallyResponsibleDataCenter.pdf.
+	</div>
+	
+	<hr />
+	
+	<div class="about-me-info">
+		**College:** Northern Virginia Community College
+	</div>
+	<div class="about-me-info">
+		**City:** Annandale
+	</div>
+	<div class="about-me-info">
+		**Attended:** August 2004 - June 2005
+	</div>
+	
+	<hr />
+	
+	<div class="about-me-info">
+		**School:** Lycee Abdel Kader
+	</div>
+	<div class="about-me-info">
+		**City:** Beirut
+	</div>
+	<div class="about-me-info">
+		**Degree:** High School Diploma
+	</div>
+	<div class="about-me-info">
+		**Attended:** September 2001 - June 2004
+	</div>
+	<div class="about-me-info">
+		**Graduation Date:** June 2004
+	</div>
+	
+	<hr />
+	
+	<div class="about-me-info">
+		**School:** Carmel St. Joseph
+	</div>
+	<div class="about-me-info">
+		**City:** Beirut/Meshref
+	</div>
+	<div class="about-me-info">
+		**Attended:** September 1989 - June 2001
+	</div>
+</div>
+

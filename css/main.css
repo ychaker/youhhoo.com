@@ -1,0 +1,292 @@
+@import url("reset.css");
+@import url("syntax.css");
+
+h2 { font-weight: bold; font-size: 2em; line-height: 1.1; }
+h3 { font-weight: bold; text-transform: uppercase; line-height: 2.5; }
+
+p { margin-bottom: 10px; }
+div { margin: 0 10px;}
+
+ul { margin: 1em; }
+ol { margin: 1.3em; }
+ul li {
+	list-style-type: disc;
+	list-style-position: inside;
+}
+a {
+	color: rgb(56, 117, 215); /* blue */
+	text-decoration: none;
+}
+a:hover {
+	background-color: rgb(56, 117, 215); /* blue */
+	color: rgb(240, 240, 240); /* white-ish */
+	text-decoration: none;
+}
+#wrapper {
+	width: 1000px;
+	margin: 0 auto;
+	padding: 0;
+}
+#footer {
+	width: 100%;
+	margin: 10px auto;
+	text-align: center;
+	clear: both;
+}
+#header { 
+	width: 100%;
+	clear: both;
+}
+#header h1 { 
+	text-indent: -9999em; 
+	overflow: hidden; 
+}
+
+.clear { clear:both; margin: 10px;}
+.white { 
+	background-color: rgb(240, 240, 240); /* white-ish */
+	color: black;
+}
+.white h2 {
+	background-color: rgb(56, 117, 215); /* blue */
+	color: rgb(240, 240, 240); /* white-ish */
+}
+.blue {
+	background-color: rgb(56, 117, 215); /* blue */
+	color: rgb(240, 240, 240); /* white-ish */
+}
+.blue a:hover {
+	color: rgb(56, 117, 215); /* blue */
+	background-color: rgb(240, 240, 240); /* white-ish */
+}
+.blue a {
+	background-color: rgb(56, 117, 215); /* blue */
+	color: rgb(240, 240, 240); /* white-ish */
+}
+
+/* nav */
+#nav {
+	width: 150px;
+	float: left;
+}
+#nav li {
+	list-style-type: none;
+	font-size: 1.7em;
+/*	padding: 10px;*/
+	margin-bottom: 10px;
+}
+/* end nav */
+
+/* content */
+#content { 
+	width: 800px; 
+	float: right; 
+	background-color: rgb(56, 117, 215); /* blue */
+	padding-bottom: 10px;
+}
+/* end content */
+
+/* home page */
+.headshot img {
+	background: rgb(240, 240, 240); /* white-ish */
+	width: 150px;
+	height: 150px;
+	margin: 10px;
+	padding: 5px;
+	border: 1px solid black;
+	float: left;
+}
+#brief, #home { margin: 0; clear:both;}
+#info { background-color: rgb(240, 240, 240); /* white-ish */ float: left; width: 60%;}
+#info p { margin: 5px 5px;}
+#tweets { float: right; width: 35%; background-color: rgb(240, 240, 240); /* white-ish */}
+#tweets h2 img { margin-bottom: -10px;}
+#tweets li {
+	list-style-type: none;
+	font-size: 15px;
+	background: rgb(56, 117, 215); /* blue */
+	padding: 8px 10px;
+	margin-bottom: 15px;
+}
+#tweets li:after {
+		content: "";
+		border: 8px solid transparent;
+		border-top: 8px solid rgb(56, 117, 215); /* blue */
+		border-bottom: 0;
+		width: 0;
+		height: 0;
+		display: block;
+		margin: 5px 0 -15px 0;
+}
+#tweets a {
+	color: rgb(240, 240, 240); /* white-ish */
+	text-decoration: none;
+}
+#tweets a:hover {
+	background-color: rgb(240, 240, 240); /* white-ish */
+	color: rgb(56, 117, 215); /* blue */
+	text-decoration: none;
+}
+#on-the-net { 
+	clear: both;
+	margin: 0 auto;
+	width: 400px;
+	text-align: center;
+}
+#on-the-net a,
+#on-the-net a:hover {
+	background-color: inherit;
+	text-decoration: none;
+}
+#on-the-net h2 { text-align: left;}
+/* end home page */
+
+/* posts page */
+#posts-list {
+	width: 100%;
+	margin-bottom: 1em;
+	clear: both;
+}
+.posts li {
+	list-style-type: none;
+}
+.archive-date {
+	margin-right: 5px;
+	padding-right: 10px;
+	font-size: 1.2em;
+	color: rgb(200, 200, 200); /* grey-ish */
+}
+ul.date { width: 25%; float: left; margin: 0; }
+li.date { height: 45px; font-size: 1.2em; }
+ul.title { width: 60%; float: left; margin: 5px 0;}
+li.title { height: 45px; font-size: 1.2em; }
+/* end posts page */
+
+/* post page */
+#post-page {
+	background-color: rgb(240, 240, 240); /* white-ish */
+	color: black;
+	clear: both;
+	width: 100%;
+	height: 100%;
+	margin: 0 0 -10px 0;
+	padding: 0;
+}
+#disqus_thread { margin: 0;}
+#post, #comments {
+	
+}
+.highlight pre, .highlight code { 
+	font-family: monospace; 
+	background-color: #000; color: #FFF;
+	overflow: scroll;
+	padding: 10px;
+}
+.meta {
+	padding: 10px 0;
+}
+.meta .date {
+	background-color: black;
+	color: rgb(240, 240, 240); /* white-ish */
+	padding: 5px;
+}
+.screenshot a, 
+.screenshot a:hover, 
+.screenshot a:visited, 
+.screenshot a:active,
+.screenshot-wide a, 
+.screenshot-wide a:hover, 
+.screenshot-wide a:visited, 
+.screenshot-wide a:active {
+	text-decoration: none;
+	color: black;
+}
+.screenshot img {
+	width: 500px;
+	height: 300px;
+	margin: 10px;
+	border: 1px solid black;
+}
+.screenshot-wide img {
+	width: 800px;
+	height: 200px;
+	margin: 10px;
+	border: 1px solid black;
+}
+blockquote {
+	color: rgb(102, 102, 102);
+	font-style: italic;
+	margin: 1.5em;
+}
+table {
+	text-align: center;
+	vertical-align: middle;
+	border-spacing: 0px 0px;
+	border-collapse: separate;
+	width: auto;
+}
+th {
+	background-color: rgb(63, 63, 63);
+	border: 1px solid black;
+	color: rgb(240, 240, 240); /* white-ish */
+	padding: 4px 10px 4px 5px;
+	margin: 0px -5px;
+	text-align: center;
+	vertical-align: middle;
+}
+td {
+	border: 1px solid gray;
+	padding: 4px 10px 4px 5px;
+	margin: 0px -5px;
+	text-align: center;
+	vertical-align: middle;
+}
+dl {
+	display: block;
+	margin: 0px 0px 1.5em 0px;
+}
+dl dt {
+	font-weight: bold;
+}
+dd {
+	margin-left: 1.5em;
+}
+/* end post page */
+
+/* about me page */
+.about-me-box {
+	background-color: rgb(240, 240, 240); /* white-ish */
+	padding-bottom: 10px;
+}
+.about-me-box h2 {
+	color: rgb(240, 240, 240); /* white-ish */
+	background-color: rgb(56, 117, 215); /* blue */
+}
+.about-me-box img { 
+	width: 100%;
+}
+.about-me-info {
+	padding: 0 10px;
+}
+/* end about me page*/
+
+/* tags and categories pages */
+#tags, #categories { color: black; width: 100%; height: 100%; margin: 0 0 -20px 0;}
+#tags ul, #categories ul { margin-top: 0; margin-bottom: 0;}
+/* end tags and categories pages */
+
+/* tag and category clouds */
+ol#tag-cloud, ol#cat-cloud { margin: 0;}
+ol#tag-cloud li, ol#cat-cloud li {
+    display: inline;
+    line-height: 150%;
+	font-size: 1em;
+}
+ol#tag-cloud li a, ol#cat-cloud li a { padding: 2px; }
+ol#tag-cloud li.tier-1 a, ol#cat-cloud li.tier-1 a { font-size: 75%; }
+ol#tag-cloud li.tier-2 a, ol#cat-cloud li.tier-2 a { font-size: 90%; }
+ol#tag-cloud li.tier-3 a, ol#cat-cloud li.tier-3 a { font-size: 105%; }
+ol#tag-cloud li.tier-4 a, ol#cat-cloud li.tier-4 a { font-size: 120%; }
+ol#tag-cloud li.tier-5 a, ol#cat-cloud li.tier-5 a { font-size: 135%; }
+ol#tag-cloud li.tier-6 a, ol#cat-cloud li.tier-6 a { font-size: 150%; }
+/* end tag and category clouds */

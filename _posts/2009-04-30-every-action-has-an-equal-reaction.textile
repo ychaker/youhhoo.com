@@ -1,0 +1,24 @@
+---
+layout: post
+title: Every Action has an Equal Reaction
+categories: 
+- social
+- opinion
+- technology
+tags:
+- community
+- ruby
+- ruby on rails
+---
+
+p. I want to start this post by copying the paragraph from <a href="http://blog.nicksieger.com/articles/2009/04/30/stand-and-be-counted" target="_blank">Nick Sieger's blog</a>:
+
+bq. __I want the Ruby, Rails, open source, and web development communities to be a dignified, respectful, inclusive, and welcoming place. Acts like Matt Aimonetti’s talk at GoGaRuCo are regrettable and harmful to those aims. We’ve all been witnesses to off-color jokes, misogynistic back channel chatter, questionable imagery and unnecessary, trolling comments. I pledge to do better to stand up and call this behavior out when I see it in conferences, online and other public settings. I don’t expect it to go away but I’m not going to tacitly condone it any longer.__
+
+p. If you're part of the Ruby or Rails community, you've probably heard about the infamous presentation at one of the conferences. Also, you've probably seen the reactions to that presentation.
+
+p. I find myself in a weird place, I do not agree with the presentation content and the means the presenter was trying to convey his point. And to be clear, I'm not "OFFENDED"...whatever that means. I just don't think it's a good idea to use certain content in a presentation. I am 100% for illustrations, jokes and other supplements to a presentation because I have had my share of trying to fight my eyes from closing shut during a boring presentation. Regardless, there's always a line.
+
+p. On the other hand, I don't really agree with the reactions to the event either. Not the principal of the reaction but the way they have been manifested in most cases. It seems that there is a lot of anger and personal beef in the community. I just want to say that when you have a correct idea but your way of delivery is wrong, that negates the effort. Ironically, the people who were trying to argue for political correctness in presentations did it a politically incorrect way! What's up with that???
+
+p. This is why I wanted to quote Nick Sieger's post and also give props to Evan Light and his response: <a href="http://evan.tiggerpalace.com/2009/04/30/on-professionalism-and-bigotry/" target="_blank">On professionalism and bigotry</a>.
