@@ -9,9 +9,13 @@ task :deploy do
   branch = "master"
   
   sh %{ rm -R _site/ }
+  sh %{ rake tags }
+  sh %{ rake tagcloud }
+  sh %{ rake catefories }
+  sh %{ rake catcloud }
   sh %{ jekyll --no-auto }
   sh %{ git add . }
-  sh %{ git commit -m 'updating site' }
+  sh %{ git commit -m 'regenerating site' }
   sh %{ git push origin master }
   
   username = ask("Username:  ") { |q| q.echo = true }
