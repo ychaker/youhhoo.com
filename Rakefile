@@ -12,7 +12,7 @@ task :deploy do
   sh %{ jekyll --no-auto }
   sh %{ git add . }
   sh %{ git commit -m 'updating site' }
-  sh %{ git push master origin }
+  sh %{ git push origin master }
   
   username = ask("Username:  ") { |q| q.echo = true }
   password = ask("Password:  ") { |q| q.echo = "*" }
