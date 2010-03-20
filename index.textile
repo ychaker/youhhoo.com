@@ -3,10 +3,10 @@ layout: default
 title: Youssef Chaker
 ---
 
-	
+
 <div id='brief' class='blue'>
 	<div id='info' class='white'>
-		
+
 div(headshot). !/images/headshot.png(Head Shot Image)!
 
 p. **Youssef Chaker** 

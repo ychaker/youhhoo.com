@@ -66,13 +66,13 @@ a:hover {
 
 /* nav */
 #nav {
-	width: 150px;
+	width: 170px;
 	float: left;
+	margin: 0 5px 0 0;
 }
 #nav li {
 	list-style-type: none;
 	font-size: 1.7em;
-/*	padding: 10px;*/
 	margin-bottom: 10px;
 }
 /* end nav */
@@ -156,7 +156,7 @@ a:hover {
 	font-size: 1.2em;
 	color: rgb(200, 200, 200); /* grey-ish */
 }
-ul.date { width: 25%; float: left; margin: 0; }
+ul.date { width: 30%; float: left; margin: 0; }
 li.date { height: 45px; font-size: 1.2em; }
 ul.title { width: 60%; float: left; margin: 5px 0;}
 li.title { height: 45px; font-size: 1.2em; }
@@ -173,9 +173,7 @@ li.title { height: 45px; font-size: 1.2em; }
 	padding: 0;
 }
 #disqus_thread { margin: 0;}
-#post, #comments {
-	
-}
+#post, #comments {}
 .highlight pre, .highlight code { 
 	font-family: monospace; 
 	background-color: #000; color: #FFF;

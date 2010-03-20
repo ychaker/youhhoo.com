@@ -19,7 +19,7 @@ task :deploy do
 
   Net::SSH.start('67.205.36.157', username, :port => 22, :password => password) do |ssh|
     commands = <<EOF
-cd /jekyll-youhhoo.com
+cd ~/jekyll-youhhoo.com
 git pull origin #{branch}
 cd ..
 rm -R youhhoo.com/
