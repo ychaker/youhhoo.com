@@ -22,7 +22,7 @@ task :deploy do
 cd ~/jekyll-youhhoo.com
 git pull origin #{branch}
 cd ..
-rm -R youhhoo.com/
+rm youhhoo.com/
 ln -s jekyll-youhhoo.com/_site youhhoo.com
 EOF
     commands = commands.gsub(/\n/, "; ")
