@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Youssef Chaker (youhhoo.com)</title>
- <link href="http://youhhoo.com/atom.xml" rel="self"/>
- <link href="http://youhhoo.com/"/>
- <updated>2010-03-20T18:47:33-04:00</updated>
- <id>http://youhhoo.com/</id>
+ <link href="http://www.youhhoo.com/atom.xml" rel="self"/>
+ <link href="http://www.youhhoo.com/"/>
+ <updated>2010-03-20T21:08:30-04:00</updated>
+ <id>http://www.youhhoo.com/</id>
  <author>
    <name>Youssef Chaker</name>
    <email>youssefchaker@youhhoo.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Site Migrated to Jekyll</title>
-   <link href="http://youhhoo.com/jekyll/site/2010/03/18/site-migrated-to-jekyll.html"/>
+   <link href="http://www.youhhoo.com/jekyll/site/2010/03/18/site-migrated-to-jekyll.html"/>
    <updated>2010-03-18T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/jekyll/site/2010/03/18/site-migrated-to-jekyll</id>
+   <id>http://www.youhhoo.com/jekyll/site/2010/03/18/site-migrated-to-jekyll</id>
    <content type="html">&lt;p&gt;When I first built my web site, I wanted a bit of practice building and deploying a Rails application so I used my personal website as an excuse. But as you might have guessed, it was overkill and I tried to make the site do more than it needed to just to server a different purpose. The over complication also made it undesirable to update the content. It was time for a change and I knew it.&lt;/p&gt;
 &lt;p&gt;I first looked into Jekyll when I was looking for the simplest tool for hosting a blog for a small project I was doing for work. I wanted an easy way to do my daily write up and post it to the site. The project dealt with &lt;span class=&quot;caps&quot;&gt;CMS&lt;/span&gt; projects and particularly in the Ruby world, and I came across Jekyll and thought it was the perfect tool for what I needed. After using it for a while I really liked it more and more and now I recommend it to any techie who wants to blog. It is my ideal way of pushing static content to a site because I love to edit in TextMate and just be able to run a couple of commands in the Terminal and have the content live. And with Jekyll, all I have to do is commit to GitHub and run one rake command &lt;i&gt;rake deploy&lt;/i&gt; and I&amp;#8217;m done.&lt;/p&gt;
 &lt;p&gt;So there you go. The site is migrated to a new platform, all for just one day of work along with a fresh new look.&lt;/p&gt;</content>
@@ -24,9 +24,9 @@
  
  <entry>
    <title>When I Became a Daydreamer</title>
-   <link href="http://youhhoo.com/social/2009/11/07/when-i-became-a-daydreamer.html"/>
+   <link href="http://www.youhhoo.com/social/2009/11/07/when-i-became-a-daydreamer.html"/>
    <updated>2009-11-07T00:00:00-05:00</updated>
-   <id>http://youhhoo.com/social/2009/11/07/when-i-became-a-daydreamer</id>
+   <id>http://www.youhhoo.com/social/2009/11/07/when-i-became-a-daydreamer</id>
    <content type="html">&lt;p&gt;Daydreaming is the act of fantasizing while awake. While daydreams may include fantasies about future scenarios or plans, reminiscences about past experiences, or vivid dream-like images, they are often connected with some type of emotion. Some psychologists have tied daydreaming to depression and some others have even classified it as its own disease. Daydreaming can take over a person&amp;#8217;s life and it has taken over mine.&lt;/p&gt;
 &lt;p&gt;I have spent a good portion of my time in recent years daydreaming. My dreams come of the form of &amp;#8220;What would I do if &amp;#8230;&amp;#8221; :&lt;/p&gt;
 &lt;ul&gt;
@@ -65,9 +65,9 @@
  
  <entry>
    <title>Visualize Your Words</title>
-   <link href="http://youhhoo.com/gaming/social/technology/2009/08/05/visualize-your-words.html"/>
+   <link href="http://www.youhhoo.com/gaming/social/technology/2009/08/05/visualize-your-words.html"/>
    <updated>2009-08-05T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/gaming/social/technology/2009/08/05/visualize-your-words</id>
+   <id>http://www.youhhoo.com/gaming/social/technology/2009/08/05/visualize-your-words</id>
    <content type="html">&lt;p&gt;I found this interesting site: www.wordle.net that lets you create a word image of your blog. The result for this particular one was interesting to me:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.wordle.net/gallery/wrdl/1031877/Youhhoo.com&quot; title=&quot;Wordle: Youhhoo.com&quot;&gt;&lt;img src=&quot;http://www.wordle.net/thumb/wrdl/1031877/Youhhoo.com&quot; alt=&quot;Wordle: Youhhoo.com&quot;  style=&quot;padding:4px;border:1px solid #ddd&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Notice the central word in the biggest font: &lt;span class=&quot;caps&quot;&gt;PEOPLE&lt;/span&gt;. Then notice the words that jump out next: Lebanese, Leaders, One, Idea, Country, Lebanon, Interest, Person. Seems to sum up pretty nicely what this blog sort of revolves around.&lt;/p&gt;</content>
@@ -75,9 +75,9 @@
  
  <entry>
    <title>Tribute to a Great Nation</title>
-   <link href="http://youhhoo.com/social/2009/07/04/tribute-to-a-great-nation.html"/>
+   <link href="http://www.youhhoo.com/social/2009/07/04/tribute-to-a-great-nation.html"/>
    <updated>2009-07-04T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/social/2009/07/04/tribute-to-a-great-nation</id>
+   <id>http://www.youhhoo.com/social/2009/07/04/tribute-to-a-great-nation</id>
    <content type="html">&lt;p&gt;I stumbled on this just now and I think it&amp;#8217;s a nice idea:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.facebook.com/photo.php?pid=2119364&amp;amp;id=83541361518#/pages/Tribute-To-a-Great-Nation-R/83541361518?v=wall&amp;amp;viewas=1519952&quot; target=&quot;_blank&quot;&gt;Facebook Page&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.tributetoagreatnation.com/&quot; target=&quot;_blank&quot;&gt;Official Site&lt;/a&gt;&lt;/p&gt;
@@ -87,9 +87,9 @@
  
  <entry>
    <title>A Cultural and Educational Revolution - part II</title>
-   <link href="http://youhhoo.com/opinion/political/social/2009/07/03/a-cultural-and-educational-revolution-part-ii.html"/>
+   <link href="http://www.youhhoo.com/opinion/political/social/2009/07/03/a-cultural-and-educational-revolution-part-ii.html"/>
    <updated>2009-07-03T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/opinion/political/social/2009/07/03/a-cultural-and-educational-revolution-part-ii</id>
+   <id>http://www.youhhoo.com/opinion/political/social/2009/07/03/a-cultural-and-educational-revolution-part-ii</id>
    <content type="html">&lt;p&gt;This is the second part of what might become a series of posts about this subject. If you have not read the first post, you might want to do so first, and watch the videos as well.&lt;/p&gt;
 &lt;p&gt;I hoped that the second post would be an expansion of the first, but the comments (by my best friend non the less) pushed to want to write some sort of explanation or follow up post.&lt;/p&gt;
 &lt;p&gt;First clarification I want to make is that I am not against one particular group of people/politicians/leaders. I am not for X nor Y whereas I am opposed to both X &lt;span class=&quot;caps&quot;&gt;AND&lt;/span&gt; Y. That might be a small lie, because I kind of like one small group, but that group has not been a factor or a major player in Lebanon. By X and Y I mean your usual suspects, pro western government vs the pro Syrian opposition. I am &lt;span class=&quot;caps&quot;&gt;PRO&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;LEBANON&lt;/span&gt;! That&amp;#8217;s it. If pro Lebanon meant pro western, so be it. If it meant pro Syrian, so be it. If it meant pro both western and Syrian, the more the merrier.&lt;/p&gt;
@@ -111,18 +111,18 @@
  
  <entry>
    <title>I Am Not Alone</title>
-   <link href="http://youhhoo.com/opinion/political/social/2009/07/01/i-am-not-alone.html"/>
+   <link href="http://www.youhhoo.com/opinion/political/social/2009/07/01/i-am-not-alone.html"/>
    <updated>2009-07-01T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/opinion/political/social/2009/07/01/i-am-not-alone</id>
+   <id>http://www.youhhoo.com/opinion/political/social/2009/07/01/i-am-not-alone</id>
    <content type="html">&lt;p&gt;I am very serious about what I wrote in my previous post. So are other people, such is illustrated in this image found on L&amp;#8217;Orient Le Jour&amp;#8217;s &lt;a href=&quot;http://www.lorientlejour.com/&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://193.227.162.222/images/ad3ecacc7c5c97b1d1cd735da8c953b3.gif&quot;&gt;&lt;img class=&quot;aligncenter&quot; title=&quot;Resistance Culturelle&quot; src=&quot;http://193.227.162.222/images/ad3ecacc7c5c97b1d1cd735da8c953b3.gif&quot; alt=&quot;&quot; width=&quot;240&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>Social Networking</title>
-   <link href="http://youhhoo.com/social/technology/2009/06/27/social-networking.html"/>
+   <link href="http://www.youhhoo.com/social/technology/2009/06/27/social-networking.html"/>
    <updated>2009-06-27T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/social/technology/2009/06/27/social-networking</id>
+   <id>http://www.youhhoo.com/social/technology/2009/06/27/social-networking</id>
    <content type="html">&lt;p&gt;Those of you who know me know that I am a supporter and user of almost every social networking site available. I have been also known to defend these sites against people do not use, understand or agree with these sites.&lt;/p&gt;
 &lt;p&gt;Even though I have been updating my site, most of these updates have been in the background and are not visible to the people who visit the site (such as the way I upload pictures). I finally made a visible change to my site. The main ones are concerned with social networking and social media. I added icons next to the navigation menu that provide links to my public profiles (eg: twitter, facebook &amp;#8230;), and I also added a small twitter feed on the homepage.&lt;/p&gt;
 &lt;p&gt;Enjoy!&lt;/p&gt;</content>
@@ -130,9 +130,9 @@
  
  <entry>
    <title>A Cultural and Educational Revolution</title>
-   <link href="http://youhhoo.com/opinion/political/social/2009/06/27/a-cultural-and-educational-revolution.html"/>
+   <link href="http://www.youhhoo.com/opinion/political/social/2009/06/27/a-cultural-and-educational-revolution.html"/>
    <updated>2009-06-27T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/opinion/political/social/2009/06/27/a-cultural-and-educational-revolution</id>
+   <id>http://www.youhhoo.com/opinion/political/social/2009/06/27/a-cultural-and-educational-revolution</id>
    <content type="html">&lt;p&gt;Learn how to draw a bird.&lt;br /&gt;
 Learn how to draw a bird to appreciate the bird.&lt;br /&gt;
 Learn to appreciate the bird to love the bird.&lt;br /&gt;
@@ -161,9 +161,9 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
  
  <entry>
    <title>Every Action has an Equal Reaction</title>
-   <link href="http://youhhoo.com/opinion/social/technology/2009/04/30/every-action-has-an-equal-reaction.html"/>
+   <link href="http://www.youhhoo.com/opinion/social/technology/2009/04/30/every-action-has-an-equal-reaction.html"/>
    <updated>2009-04-30T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/opinion/social/technology/2009/04/30/every-action-has-an-equal-reaction</id>
+   <id>http://www.youhhoo.com/opinion/social/technology/2009/04/30/every-action-has-an-equal-reaction</id>
    <content type="html">&lt;p&gt;I want to start this post by copying the paragraph from &lt;a href=&quot;http://blog.nicksieger.com/articles/2009/04/30/stand-and-be-counted&quot; target=&quot;_blank&quot;&gt;Nick Sieger&amp;#8217;s blog&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;i&gt;I want the Ruby, Rails, open source, and web development communities to be a dignified, respectful, inclusive, and welcoming place. Acts like Matt Aimonetti’s talk at GoGaRuCo are regrettable and harmful to those aims. We’ve all been witnesses to off-color jokes, misogynistic back channel chatter, questionable imagery and unnecessary, trolling comments. I pledge to do better to stand up and call this behavior out when I see it in conferences, online and other public settings. I don’t expect it to go away but I’m not going to tacitly condone it any longer.&lt;/i&gt;&lt;/p&gt;
@@ -176,9 +176,9 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
  
  <entry>
    <title>New Picture Layout</title>
-   <link href="http://youhhoo.com/technology/2009/02/03/new-picture-layout.html"/>
+   <link href="http://www.youhhoo.com/technology/2009/02/03/new-picture-layout.html"/>
    <updated>2009-02-03T00:00:00-05:00</updated>
-   <id>http://youhhoo.com/technology/2009/02/03/new-picture-layout</id>
+   <id>http://www.youhhoo.com/technology/2009/02/03/new-picture-layout</id>
    <content type="html">&lt;p&gt;When I first started working on my website, the main function I thought it would serve was to be a place people can view my pictures. I live away from most of my close friends and some of them are not big on things life facebook or any social media for that matter. Pictures are a nice way to capture certain moments that I want to share with my friends and my own website would be the easiest mean to do it. I chose RoR as the programming language of choice because I had worked with it before and saw its power, but as I was trying to find other applications or plug-ins that would help me build the photo album part, I was not impressed by the solutions that were available. I managed to use something for the uploading part but wasn&amp;#8217;t happy about it either. I was getting busier at work and wanted a quick solution so I went with the first thing I found and hacked at it for a little while until I got something functional.&lt;/p&gt;
 &lt;p&gt;I knew the solution was temporary and that I would go back to work on it, unfortunately I didn&amp;#8217;t get the time to do it until now. I wasn&amp;#8217;t going to touch the part related to uploading the images because that would imply a bigger overhaul than I had time for, but I definitely needed to improve on the way the images were displayed and laid out. I previously had used lightbox on different projects that were not done using RoR and used some javascript libraries in a RoR to create popups to display but that required more custom work and I knew that there must be some lightbox like method for images in RoR application. When I first looked around, I found the &lt;a href=&quot;http://jquery.com/demo/thickbox/&quot; target=&quot;_blank&quot;&gt;Thicbox&lt;/a&gt; project and it looked good enough to be what I wanted to use. It worked very well to display a single image in a popup window, but i could not get it to work for multiple images in an album and have it show them in a slides how manner. So I decided to look some more for another solution, and finally landed on the lightbox page I was looking for all along. I don&amp;#8217;t know why I didn&amp;#8217;t land on this page earlier, specially that I specifically searched for lightbox solutions, but when I finally found it I was able to make the quick changes to the site and make it have the easy and friendly feel I was hoping to provide from the get go. The lightbox project I used can be found at Loeksh Dhakar&amp;#8217;s &lt;a href=&quot;http://www.lokeshdhakar.com/projects/lightbox2/&quot;&gt;page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I should thank the people who worked on both the Thickbox project and the Lightbox project. Their efforts are behind the new and smooth look of the album page. &lt;span class=&quot;caps&quot;&gt;ENJOY&lt;/span&gt;!&lt;/p&gt;</content>
@@ -186,9 +186,9 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
  
  <entry>
    <title>C & C Red Alert 3</title>
-   <link href="http://youhhoo.com/gaming/opinion/2008/11/08/c-c-red-alert-3.html"/>
+   <link href="http://www.youhhoo.com/gaming/opinion/2008/11/08/c-c-red-alert-3.html"/>
    <updated>2008-11-08T00:00:00-05:00</updated>
-   <id>http://youhhoo.com/gaming/opinion/2008/11/08/c-c-red-alert-3</id>
+   <id>http://www.youhhoo.com/gaming/opinion/2008/11/08/c-c-red-alert-3</id>
    <content type="html">&lt;p&gt;I remember when I got my first PC game. My aunt was in Lebanon visiting from &lt;span class=&quot;caps&quot;&gt;KSA&lt;/span&gt; and she want to buy some games to take back with her for her son (it was hard to find any video games in Saudi at the time, or anything for that matter). I got intrigued and wanted to find out more about this thing called gaming. One of the games that my cousin wanted was called Red Alert, so I got myself a copy, installed it on my computer, started the first mission and had my &lt;span class=&quot;caps&quot;&gt;MCV&lt;/span&gt; drive around for half an hour trying to figure out what that thing did. I kept on getting attacked and had to repeat the damn mission about 5 times before someone told me that I had to deploy the &lt;span class=&quot;caps&quot;&gt;MCV&lt;/span&gt; and then start constructing other buildings. Once I figured out the game play, I soon became hooked on this thing.&lt;/p&gt;
 &lt;p&gt;Fast forward 12 years, Red Alert 2 and a couple of expansion packs later, and it is still one of the best games I have ever played on the PC. Probably only second to Max Payne. It&amp;#8217;s 2008 and Red Alert 3 comes out and I finally get my hands on a copy. I am excited and can&amp;#8217;t wait to see all the new and improved things the game has to offer. Installing it was a bit of a pain, my desktop is old and slow so it took a while for it to complete, especially since my computer froze midway. Once it was complete, I started the game, watched the movie that sets up the game and its context, quit and went to bed&amp;#8230; I said what? Yes you read it correctly, I quit and went to bed. The acting in the movie was silly, kind of funny but still ridiculous. I did start the first mission but after the first look at the graphics and everything else, I started understanding why some people were saying that it is a disappointment.&lt;/p&gt;
 &lt;p&gt;After so many years, I expected a lot of this game. I expected it to be yet another &amp;#8220;greatest game ever&amp;#8221; but I didn&amp;#8217;t get that feeling. I played a few missions and the reaction to them is: &amp;#8216;eh&amp;#8230;nothing special&amp;#8217; and my brother and I did try the &amp;#8216;Versus&amp;#8217; game mode on our &lt;span class=&quot;caps&quot;&gt;LAN&lt;/span&gt;. We first tried it against each other and then teamed up against two computer bots. That was a bit interesting, we had the computer at the medium level and we kept and running out of money and then attacked immediately. By the time I got to build my Ore refineries I would be virtually out of money and then would have to wait to be able to get some troops, but by then I would be already under attack. We then tried it under easy, and that was just too easy. By the time I built up my defenses expecting a quick attack, my brother had a mini army and managed to defeat the first computer player and soon after we killed off the second one.&lt;/p&gt;
@@ -197,9 +197,9 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
  
  <entry>
    <title>Rails Rumble 08</title>
-   <link href="http://youhhoo.com/technology/2008/10/28/rails-rumble-08.html"/>
+   <link href="http://www.youhhoo.com/technology/2008/10/28/rails-rumble-08.html"/>
    <updated>2008-10-28T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/technology/2008/10/28/rails-rumble-08</id>
+   <id>http://www.youhhoo.com/technology/2008/10/28/rails-rumble-08</id>
    <content type="html">&lt;p&gt;This post is long overdue, but here it goes anyway!&lt;/p&gt;
 &lt;p&gt;Rails Rumble is a new competition set up to promote the Rails framework and Rails development. The competition consists of teams (of 1 to 4 developers) building a Rails application in 48 hours from scratch. Some teams consist of strictly developers and others have a combination of developers and designers. The goal is to develop a mini web app that is functional, useful and presentable in 48 hours to show the awesomeness of Agile development in Rails. I participated in this competition along with 3 other coworkers from OpenSource Connections in the 08 Rumble that took place on the weekend of October the 18th (the start time was 12:00 AM &lt;span class=&quot;caps&quot;&gt;GMT&lt;/span&gt; 10/08/08 and the end time was 12:00 AM &lt;span class=&quot;caps&quot;&gt;GMT&lt;/span&gt; 10/20/08).&lt;/p&gt;
 &lt;p&gt;My team was struggling to come up with an idea for our application and through discussions about hiking and logging trails and Google Maps we decided to build a treasure hunt application that used latitude and longitude coordinates to place or &amp;#8220;hide&amp;#8221; treasures on a map and then the players or &amp;#8220;hunters&amp;#8221; would have to figure out those coordinates (with some proximity factored in) to unlock the treasure and get the next clue. Each treasure has points associated with it and the team or individual that accumulates the most points wins (usually by solving all the clues). We envisioned the process to use handheld &lt;span class=&quot;caps&quot;&gt;GPS&lt;/span&gt; systems or iPhones or any tool that allows a person to determine her current position or web tools to be able to figure out the coordinates of the different treasures in the hunt. We included a text messaging system that makes it possible to use the application through a mobile phone, allowing users to participate in a treasure hunt without relying on an internet connection (except for signing up). We also added a feature that we called the &amp;#8220;key&amp;#8221; which is an alternative for the coordinates and it is basically a pass-phrase that can be associated with a treasure and would be placed at its location that a hunter can use instead of the coordinates to unlock the next clue.&lt;/p&gt;
@@ -208,17 +208,17 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
  
  <entry>
    <title>Lebanon and the Internet?</title>
-   <link href="http://youhhoo.com/opinion/social/technology/2008/10/28/lebanon-and-the-internet.html"/>
+   <link href="http://www.youhhoo.com/opinion/social/technology/2008/10/28/lebanon-and-the-internet.html"/>
    <updated>2008-10-28T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/opinion/social/technology/2008/10/28/lebanon-and-the-internet</id>
+   <id>http://www.youhhoo.com/opinion/social/technology/2008/10/28/lebanon-and-the-internet</id>
    <content type="html">&lt;p&gt;There has been a lot of discussion at my work about introducing to the US government the &lt;span class=&quot;caps&quot;&gt;WEB&lt;/span&gt; 3.0 technologies. This got me thinking about how Lebanon is represented on the web and it seems to me that every arabic website was made on a Windows 3.1 machine using basic &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; and Crayons (&lt;a href=&quot;http://www.crayola.com/&quot;&gt;http://www.crayola.com/&lt;/a&gt;), i.e. by a two-year old!!! Not even &lt;span class=&quot;caps&quot;&gt;WEB&lt;/span&gt; 0.1!?!?!?! I do not claim to build &amp;#8220;beautiful&amp;#8221; things, but at least I am assured that when I create a sign up page that requires you to activate your account from your email you actually get that email instead of a smtp error page (example: &lt;a href=&quot;http://www.divx4arab.com/&quot;&gt;http://www.divx4arab.com/&lt;/a&gt;) or an error page even before you are able to attempt to sign up (example: &lt;a href=&quot;http://www.arabfilms.org/signup.php&quot;&gt;http://www.arabfilms.org/signup.php&lt;/a&gt;). That&amp;#8217;s of course regardless of the cluttered page full of ads for all sorts of random things (including the couple pornographic ads that have become a regular for some of these sites!). I can never find anything I am looking for at a website oriented for the arab community. This is specially true for Lebanese sites like &lt;a href=&quot;http://www.lebanon.com/&quot;&gt;http://www.lebanon.com/&lt;/a&gt; which was last redesigned in 1995. That page is so long and full of moving objects and pictures that my eyes hurt before I can find even a hint of something resembling what I am trying to find. The sad part is that I can not blame the site admin for all these faults, the poor guy is getting paid about 350,000.00 L.L. a month which amounts to about 1,000.00 L.L. an hour (or $0.66), that&amp;#8217;s just enough for the sandwich he orders for lunch during his working hours. Unfortunately this is not the cause but a symptom of the actual causes which range from &amp;#8220;Nobody cares&amp;#8221; to &amp;#8220;Internet connections in Lebanon are so slow, people can&amp;#8217;t even open these pages to care&amp;#8221; to &amp;#8220;We have other things to worry about that are more important&amp;#8221;. Most of these causes stem from the current mentality and situation in the country so they are somewhat justifiable. Unfortunately, the country does need a makeover of its image for it to survive and luckily Lebanese expatriates care enough about it and are large in numbers that a few have decided to make their own little project to create web portals about Lebanon and for Lebanese people. I just have not been satisfied with any, or maybe don&amp;#8217;t even know about most of these projects. I have therefore decided to start my own, but I am struggling to figure out the scope, the content, the target demographics&amp;#8230;So this is my call for help from anyone who has the slightest inclination towards a better future for this small but beloved country!&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>I will_paginate, and then some!</title>
-   <link href="http://youhhoo.com/technology/2008/09/23/i-will-paginate-and-then-some.html"/>
+   <link href="http://www.youhhoo.com/technology/2008/09/23/i-will-paginate-and-then-some.html"/>
    <updated>2008-09-23T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/technology/2008/09/23/i-will-paginate-and-then-some</id>
+   <id>http://www.youhhoo.com/technology/2008/09/23/i-will-paginate-and-then-some</id>
    <content type="html">&lt;p&gt;The best part about using an open source technology is the contribution from the community. Many of us look for the same basic functionality out of what were are developing, and one of those functionality is pagination. In a framework like RoR we do not have to worry about re-inventing the wheel. That&amp;#8217;s where cool plugins like &lt;a href=&quot;github.com/mislav/will_paginate/wikis&quot; target=&quot;_blank&quot;&gt;will_paginate&lt;/a&gt; make a developer&amp;#8217;s life so much easier. This plugin allows you to limit the number of objects you display per page and add the little toolbar at the end that allows the user to navigate through the pages. All of that is done by just adding one line of code.&lt;/p&gt;
 &lt;p&gt;The website for the plugin list 4 methods to install and use the plugin:&lt;/p&gt;
 &lt;ul&gt;
@@ -256,9 +256,9 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
  
  <entry>
    <title>RoR Triumph!</title>
-   <link href="http://youhhoo.com/technology/2008/09/08/ror-triumph.html"/>
+   <link href="http://www.youhhoo.com/technology/2008/09/08/ror-triumph.html"/>
    <updated>2008-09-08T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/technology/2008/09/08/ror-triumph</id>
+   <id>http://www.youhhoo.com/technology/2008/09/08/ror-triumph</id>
    <content type="html">&lt;p&gt;Ruby on Rails is magical, if you&amp;#8217;ve worked with it before you know what I mean. Building my own website is a little experiment and exercise that I wanted to take on to utilize Ruby on Rails. The site as it stands is simple and does not seem like a good candidate for RoR. The idea for me was to develop something easy and deploy it to gain the experience in actually deploying a Rails app. To make it interesting, I created a way to post messages on the front page remotely by simply signing in and filling the message form. This takes away the pain of actually modifying the &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; code every time I need to post a message. This is not fancy by any means, but it does the job. And now that I have something setup it becomes easy to add new features as the site grows.&lt;/p&gt;
 &lt;p&gt;Deploying the new site was not easy. The simplest things are never easy! I&lt;/p&gt;
 &lt;p&gt;I am hosting my site on DreamHost and they seem to have a good offering. They do support Ruby on Rails which is very good and important! They also have a very helpful support wiki that was crucial for me to be able to successfully deploy the site. The following links were the guides that I used:&lt;/p&gt;
@@ -273,9 +273,9 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
  
  <entry>
    <title>Gaming</title>
-   <link href="http://youhhoo.com/gaming/2008/08/14/gaming.html"/>
+   <link href="http://www.youhhoo.com/gaming/2008/08/14/gaming.html"/>
    <updated>2008-08-14T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/gaming/2008/08/14/gaming</id>
+   <id>http://www.youhhoo.com/gaming/2008/08/14/gaming</id>
    <content type="html">&lt;p&gt;I finished a game! I repeat, I &lt;span class=&quot;caps&quot;&gt;FINISHED&lt;/span&gt; a video game! it has been very very long since the last time I played a video game from start to finish. School did not come in the way. I did not reach a point where I got stuck and lost interest in the game. The game wasn&amp;#8217;t too long and boring. My computer did not crash and I lost all saved games. No, none of that. I actually finished an entire game by myself. No cheats, no walk-throughs, nothing. It&amp;#8217;s been an estranged feeling for a long time, and it&amp;#8217;s good to be back.&lt;/p&gt;
 &lt;p&gt;If you are wondering about the game, don&amp;#8217;t get your hopes up too high. It&amp;#8217;s not one of the most anticipated games of the year. It&amp;#8217;s just Rainbow Six&amp;#8217;s Vegas 2. It&amp;#8217;s a Tom Clancy game, which makes it good by default, but it&amp;#8217;s not GTA4 nor is it Assassin&amp;#8217;s Creed or Halo 3. But all of that is on the way. I&amp;#8217;ve got my Xbox 360, I have my copy of Halo 3 which I have not opened yet, and my copy of GTA4. I already started GTA4 and plan on finishing what I started. So watch out for a future post on that one.&lt;/p&gt;
 &lt;p&gt;My brother is a huge Halo fan and will be moving in with me in the next week. So as a moving in gift and celebration we will be co-oping Halo 3, another blog post topic to look for. He&amp;#8217;s been waiting for this moment for a long time and I have been waiting to get back into the gaming world for more than 4 years now. It&amp;#8217;s about time!&lt;/p&gt;
@@ -284,9 +284,9 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
  
  <entry>
    <title>2008 Summer Olympics Opening Ceremony</title>
-   <link href="http://youhhoo.com/opinion/political/social/2008/08/08/2008-summer-olympics-opening-ceremony.html"/>
+   <link href="http://www.youhhoo.com/opinion/political/social/2008/08/08/2008-summer-olympics-opening-ceremony.html"/>
    <updated>2008-08-08T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/opinion/political/social/2008/08/08/2008-summer-olympics-opening-ceremony</id>
+   <id>http://www.youhhoo.com/opinion/political/social/2008/08/08/2008-summer-olympics-opening-ceremony</id>
    <content type="html">&lt;p&gt;Everyone who watched the opening ceremony of the 2008 summer Olympics in Beijing, saw the grandiosity of the event. I had many &amp;#8220;Holy crap!&amp;#8221; moments myself. It was a huge display of art, technology and precision. No doubt about that. China is famous for fireworks, they had that. It&amp;#8217;s also known for its recent and rapid development in technology, we definitely saw that as well. As the commentator on &lt;span class=&quot;caps&quot;&gt;NBC&lt;/span&gt; said: &amp;#8220;there are issues and controversies surrounding these games but no one can dispute the quality of this display&amp;#8221;&lt;/p&gt;
 &lt;p&gt;My favorite part by far was the Tai Chi part. I am a big fan of martial arts and have taken a few weeks of Tai Chi so I really appreciate demonstrations of this art. The first part of the act was very typical Tai Chi, I even recognized some of the moves! Then they introduced kids in the middle and the commentator said something that got my attention. I&amp;#8217;ll get to that in a minute. Then all of the sudden there were 2008 Tai Chi martial artists. 2008! The performance was accurate and the movements were very precise. Basically it was &lt;span class=&quot;caps&quot;&gt;GOOD&lt;/span&gt; and I loved it.&lt;/p&gt;
 &lt;p&gt;So I mentioned the comment made by the &lt;span class=&quot;caps&quot;&gt;NBC&lt;/span&gt; caster. From the opening moments of the ceremony the first thought that came to my mind was &amp;#8220;what will the energy bill of this event be?&amp;#8221; No I&amp;#8217;m not worried if China has the money for it, but I was referring to the actual toll on the environment. I know it&amp;#8217;s a bit cheesy, but I have written a white paper and a thesis on the subject of environmentally responsible technology. So it has become natural to me to think about it every time a big display of electronics is used and I see massive use of energy.  What is most interesting is that the  commentator stated that the the designer of the show intended the kids in the act to be a reminder of the impact of energy use on the world and on the future of the generations to come. It is ironic to have a display that consumes so much energy to raise awareness about energy consumption in the world. It just doesn&amp;#8217;t seem right! But of course China had to start the events with a big bang.&lt;/p&gt;</content>
@@ -294,9 +294,9 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
  
  <entry>
    <title>Hello from a New Place</title>
-   <link href="http://youhhoo.com/site/2008/08/05/hello-from-a-new-place.html"/>
+   <link href="http://www.youhhoo.com/site/2008/08/05/hello-from-a-new-place.html"/>
    <updated>2008-08-05T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/site/2008/08/05/hello-from-a-new-place</id>
+   <id>http://www.youhhoo.com/site/2008/08/05/hello-from-a-new-place</id>
    <content type="html">&lt;p&gt;I decided to go ahead and get myself a domain so I resisted and got my own site:&lt;br /&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://www.youhhoo.com/&quot;&gt;http://www.youhhoo.com&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;Of course I did not get what I waned which was youhoo.com (one less h) but apparently Yahoo owns it and just displays a &amp;#8220;Page Not Found&amp;#8221; type of thing. That sucks!&lt;/p&gt;
@@ -305,9 +305,9 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
  
  <entry>
    <title>Lebanon in the Media</title>
-   <link href="http://youhhoo.com/opinion/social/2008/07/31/lebanon-in-the-media.html"/>
+   <link href="http://www.youhhoo.com/opinion/social/2008/07/31/lebanon-in-the-media.html"/>
    <updated>2008-07-31T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/opinion/social/2008/07/31/lebanon-in-the-media</id>
+   <id>http://www.youhhoo.com/opinion/social/2008/07/31/lebanon-in-the-media</id>
    <content type="html">&lt;p&gt;I was watching &lt;a href=&quot;http://www.imdb.com/title/tt0936501/&quot; target=&quot;_blank&quot;&gt;Taken&lt;/a&gt; last night and it is about this former government agent whose daughter gets kidnapped. In one of the first scenes his other former government agent bodies come to visit and they are playing poker and reminiscing about the good old days. It just happened that all they could remember was when they were in &amp;#8230; wait for it&amp;#8230; I&amp;#8217;ll let you guess&amp;#8230;Lebanon. And immediately the thought came to my head, Lebanon must be one of the most referenced foreign countries in entertainment (movies, songs, etc) after France for its romance. Of course the moment I thought of that they mentioned France and later on the daughter goes to France and gets kidnapped. I will not spoil the movie for anyone but there is a point I want to make and this piece of information is part of it.&lt;/p&gt;
 &lt;p&gt;First let us revisit instances where Lebanon was mentioned or referenced. One of my earliest memories of such a thing is when listening to &lt;i&gt;Dr. Dre&lt;/i&gt;&amp;#8216;s album 2001 and the song &lt;i&gt;Light Speed&lt;/i&gt; came on and Hitman&amp;#8217;s verse started and at I was a bit struggling to try and understand what he was saying and then one of things he said just ringed in my ear and I had to rewind.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -343,9 +343,9 @@ just how or why and it really seems preordained&lt;br /&gt;
  
  <entry>
    <title>Letting Go</title>
-   <link href="http://youhhoo.com/personal/social/2008/07/30/letting-go.html"/>
+   <link href="http://www.youhhoo.com/personal/social/2008/07/30/letting-go.html"/>
    <updated>2008-07-30T00:00:00-04:00</updated>
-   <id>http://youhhoo.com/personal/social/2008/07/30/letting-go</id>
+   <id>http://www.youhhoo.com/personal/social/2008/07/30/letting-go</id>
    <content type="html">&lt;p&gt;The last four years have been the longest and hardest years so far. This is not something unusual for someone to say about their college experience. For some, college is a big long party and for others it is a big long struggle. But for me the struggle did not come from the college life itself, yes I was an engineering student at one of the top universities in the country, but the school work and the jobs and the social life were not what made it difficult.&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;My story begins long before then&amp;#8230;&lt;/p&gt;
 &lt;p&gt;Growing up, it was known what my path to getting a Bachelor&amp;#8217;s degree was going to be. The first step was getting the American citizenship. That took about 15 years to achieve for many reasons one being that the mail man would return the mails sent to us by the immigration office because we had them delivered to my uncle&amp;#8217;s house and the name on letters would not match the one on the mailbox because ours was not on it. After that mess was fixed, things got smoother until the day my brother and I were supposed to get our naturalization. I was interviewed by the officer handling our case and I was asked a question I did not know the answer to, or in fact I was asked to confirm a piece of information I was not knowledgeable about. I guessed and gave the answer that I thought was true and I was right but that moment I discovered something about my family I never knew, something that made me question a lot about my past. I still do not have answers to some of those questions. But I have moved on.&lt;/p&gt;

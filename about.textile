@@ -39,14 +39,14 @@ title: Youssef Chaker - About Me
 		**International Teams:** Lebanese National Team (any time), Team USA (sometimes :P), Germany (in the FIFA World Cup and FIFA Euro Cup)
 	</div>
 	<div class="about-me-info">
-		**Athletes:** Kobe Bryant (don't care what you think!), Lebron James, Rafael Nadal, Michael Schumacher, David Beckham, John Elway.
+		**Athletes:** Kobe Bryant (don't care what you think!), LeBron James, Rafael Nadal, Michael Schumacher, David Beckham, John Elway.
 	</div>
 </div>
 
 <div class="about-me-box">
 	<h2>Career Information</h2>
 	<div class="about-me-info">
-		**Company:** <a href="http://www.opensourceconnections.com" >OpenSource Connections</a>.
+		**Company:** "OpenSource Connections (OSC Website)":http://www.opensourceconnections.com
 	</div>
 	<div class="about-me-info">
 		**Position:** Software Developer / Consultant
@@ -55,7 +55,7 @@ title: Youssef Chaker - About Me
 		**Period:** July 2008 - present
 	</div>
 	<div class="about-me-info">
-		**Resum&eacute;:** Available <a href="/resume.html">here</a>.
+		**Resum&eacute;:** Available <a href="/resume.html">here</a>
 	</div>
 	<div class="about-me-info">
 !/images/osc-header.png(OpenSource Connections)!
@@ -68,7 +68,7 @@ title: Youssef Chaker - About Me
 !/images/uva-header.png(University of Virginia)!
 	</div>
 	<div class="about-me-info">
-		**University:** "University of Virginia (University of Virginia website)":http://www.virginia.edu
+		**University:** "University of Virginia (University of Virginia Website)":http://www.virginia.edu
 	</div>
 	<div class="about-me-info">
 		**City:** Charlottesville
@@ -83,7 +83,7 @@ title: Youssef Chaker - About Me
 		**Graduation Date:** May 2008
 	</div>
 	<div class="about-me-info">
-		**Thesis:** "Designing and Building an Energy Responsible Data Center (Link to Thesis PDF File)":files/DesigningAndBuildingAnEnvironmentallyResponsibleDataCenter.pdf.
+		**Thesis:** "Designing and Building an Energy Responsible Data Center (Link to Thesis PDF File)":files/DesigningAndBuildingAnEnvironmentallyResponsibleDataCenter.pdf
 	</div>
 	
 	<hr />
