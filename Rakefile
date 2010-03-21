@@ -1,12 +1,7 @@
 require 'fileutils'
 
-desc "deploy site to youhhoo.com"
-task :deploy do
-  require 'rubygems'
-  require 'highline/import'
-  require 'net/ssh'
-
-  branch = "master"
+desc "prepare site to be deployed"
+task :prepare do
   
   sh %{ rm -R _site/ }
   sh %{ rake tags }
@@ -17,6 +12,16 @@ task :deploy do
   sh %{ git add . }
   sh %{ git commit -m 'regenerating site' }
   sh %{ git push origin master }
+  
+end
+
+desc "deploy site to youhhoo.com"
+task :deploy do
+  require 'rubygems'
+  require 'highline/import'
+  require 'net/ssh'
+
+  branch = "master"
   
   username = ask("Username:  ") { |q| q.echo = true }
   password = ask("Password:  ") { |q| q.echo = "*" }
