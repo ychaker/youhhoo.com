@@ -11,7 +11,7 @@ task :deploy do
   sh %{ rm -R _site/ }
   sh %{ rake tags }
   sh %{ rake tagcloud }
-  sh %{ rake catefories }
+  sh %{ rake categories }
   sh %{ rake catcloud }
   sh %{ jekyll --no-auto }
   sh %{ git add . }
