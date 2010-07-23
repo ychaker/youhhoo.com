@@ -4,7 +4,7 @@
  <title>Youssef Chaker (youhhoo.com)</title>
  <link href="http://www.youhhoo.com/atom.xml" rel="self"/>
  <link href="http://www.youhhoo.com/"/>
- <updated>2010-03-20T21:16:31-04:00</updated>
+ <updated>2010-07-23T15:11:37-04:00</updated>
  <id>http://www.youhhoo.com/</id>
  <author>
    <name>Youssef Chaker</name>
@@ -18,8 +18,12 @@
    <updated>2010-03-18T00:00:00-04:00</updated>
    <id>http://www.youhhoo.com/jekyll/site/2010/03/18/site-migrated-to-jekyll</id>
    <content type="html">&lt;p&gt;When I first built my web site, I wanted a bit of practice building and deploying a Rails application so I used my personal website as an excuse. But as you might have guessed, it was overkill and I tried to make the site do more than it needed to just to server a different purpose. The over complication also made it undesirable to update the content. It was time for a change and I knew it.&lt;/p&gt;
-&lt;p&gt;I first looked into Jekyll when I was looking for the simplest tool for hosting a blog for a small project I was doing for work. I wanted an easy way to do my daily write up and post it to the site. The project dealt with &lt;span class=&quot;caps&quot;&gt;CMS&lt;/span&gt; projects and particularly in the Ruby world, and I came across Jekyll and thought it was the perfect tool for what I needed. After using it for a while I really liked it more and more and now I recommend it to any techie who wants to blog. It is my ideal way of pushing static content to a site because I love to edit in TextMate and just be able to run a couple of commands in the Terminal and have the content live. And with Jekyll, all I have to do is commit to GitHub and run one rake command &lt;i&gt;rake deploy&lt;/i&gt; and I&amp;#8217;m done.&lt;/p&gt;
-&lt;p&gt;So there you go. The site is migrated to a new platform, all for just one day of work along with a fresh new look.&lt;/p&gt;</content>
+
+
+	&lt;p&gt;I first looked into Jekyll when I was looking for the simplest tool for hosting a blog for a small project I was doing for work. I wanted an easy way to do my daily write up and post it to the site. The project dealt with &lt;span class=&quot;caps&quot;&gt;CMS&lt;/span&gt; projects and particularly in the Ruby world, and I came across Jekyll and thought it was the perfect tool for what I needed. After using it for a while I really liked it more and more and now I recommend it to any techie who wants to blog. It is my ideal way of pushing static content to a site because I love to edit in TextMate and just be able to run a couple of commands in the Terminal and have the content live. And with Jekyll, all I have to do is commit to GitHub and run one rake command &lt;i&gt;rake deploy&lt;/i&gt; and I&amp;#8217;m done.&lt;/p&gt;
+
+
+	&lt;p&gt;So there you go. The site is migrated to a new platform, all for just one day of work along with a fresh new look.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -28,39 +32,95 @@
    <updated>2009-11-07T00:00:00-05:00</updated>
    <id>http://www.youhhoo.com/social/2009/11/07/when-i-became-a-daydreamer</id>
    <content type="html">&lt;p&gt;Daydreaming is the act of fantasizing while awake. While daydreams may include fantasies about future scenarios or plans, reminiscences about past experiences, or vivid dream-like images, they are often connected with some type of emotion. Some psychologists have tied daydreaming to depression and some others have even classified it as its own disease. Daydreaming can take over a person&amp;#8217;s life and it has taken over mine.&lt;/p&gt;
-&lt;p&gt;I have spent a good portion of my time in recent years daydreaming. My dreams come of the form of &amp;#8220;What would I do if &amp;#8230;&amp;#8221; :&lt;/p&gt;
-&lt;ul&gt;
+
+
+	&lt;p&gt;I have spent a good portion of my time in recent years daydreaming. My dreams come of the form of &amp;#8220;What would I do if &amp;#8230;&amp;#8221; :&lt;/p&gt;
+
+
+	&lt;ul&gt;
 	&lt;li&gt;I won the lottery (multiple scenarios go on from there)&lt;/li&gt;
-	&lt;li&gt;I became a successful developer in Lebanon&lt;/li&gt;
-	&lt;li&gt;I was elected an official (president) in Lebanon&lt;/li&gt;
-	&lt;li&gt;&amp;#8230;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;which basically follow the form of what would I do if I had power in relation to things that matter to me such as my home country Lebanon, my friends and family, or my university (&lt;span class=&quot;caps&quot;&gt;THE&lt;/span&gt; University of Virginia).&lt;/p&gt;
-&lt;p&gt;So how did it all start?&lt;/p&gt;
-&lt;h3&gt;In the Beginning &amp;#8230;&lt;/h3&gt;
-&lt;p&gt;I have always been an active person. Being idle has never been something I enjoyed. In the beginning it was mostly on the physical side. I like being active physically, I always wanted to be outside playing sports all day long. Along the years, when I discovered my brain (yes, I had to discover that the big heavy thing on top of my shoulders had a real use to it) the activeness transcended to my brain activity as well.&lt;/p&gt;
-&lt;p&gt;During my high school years, this was manifested in multiple ways. I was always shaking my leg, fiddling with a pen or pencil, doing something with my body during the long hours of class. When the topic of study was interesting, my mind had something to fiddle with as well, when that wasn&amp;#8217;t the case I had to preoccupy my self with something else. Depending on the teacher, I was either focused on a plot to sabotage class or on something else that did not interfere. I became so notorious, my brother had to suffer the consequences three years after the fact.&lt;/p&gt;
-&lt;p&gt;And so it began&amp;#8230;&lt;/p&gt;
-&lt;h3&gt;My first encounter&lt;/h3&gt;
-&lt;p&gt;Since my mind couldn&amp;#8217;t stay idle and my brain cells needs to be always churning away on some thought or another, it became increasingly difficult to fall asleep. If I had a maths problem I couldn&amp;#8217;t figure out during the day, something going on with friends, whatever the case may be, the thoughts would not stop and I couldn&amp;#8217;t turn my brain off to fall asleep. I needed to distract my brain from intensive thoughts and steer the focus towards something less power consuming. That&amp;#8217;s when I first started constructing my dreams. I figured people dream when they&amp;#8217;re asleep, so why not dream to fall asleep. Counting to a hundred, or counting sheep backwards never worked for me, and I don&amp;#8217;t understand how they work for other people. We&amp;#8217;re all built differently and I guess this is what worked for me. At this point, daydreaming was just a coping mechanism for me to help me sleep. It had its time, which was when my mom forced bed time on me and I wasn&amp;#8217;t tired enough or ready to fall asleep yet.&lt;/p&gt;
-&lt;p&gt;Daydreaming worked at night, but when it crept up and starting appearing during the day, it was a whole new ball game.&lt;/p&gt;
-&lt;h3&gt;Day and Night&lt;/h3&gt;
-&lt;p&gt;I fell in love, I really only had a crush but I was a teenager and I didn&amp;#8217;t know any better. I was in love and all I could think of was that girl. I was up on my grandmother&amp;#8217;s roof, staring at the sun, daydreaming. When people were gathered around and talking, I was on the side, daydreaming. In class, i sat in the back, daydreaming.&lt;/p&gt;
-&lt;p&gt;Poof, it was all gone!&lt;/p&gt;
-&lt;p&gt;That girl was my first crush. That girl was the first (and last) girl to refuse to date me (got rejected by four times!). That relationship was still lived. I couldn&amp;#8217;t experience it in real life, but I did through my dreams. Once the crush faded, so did the daydreams. I basically conned whatever part of me felt &amp;#8220;in love&amp;#8221; to live it and get over it.&lt;/p&gt;
-&lt;p&gt;Order was restored, daydreaming went back to being a coping mechanism for sleeping and not a lazy act of wasting time.&lt;/p&gt;
-&lt;h3&gt;Recreation to Addiction&lt;/h3&gt;
-&lt;p&gt;It doesn&amp;#8217;t take much for us to become addicted to something not part of normal human functioning. Alternate reality is one of the most addictive experiences to us. Drugs (alcohol included) present us with one way to live in a world we desire more than the one we actually experience. Daydreaming is another way to achieve that purpose. With daydreaming we can construct our own reality, a story where we are the hero and the ending is always favorable to us.&lt;/p&gt;
-&lt;p&gt;We do not need an alternate reality if the real one we live in is good enough. I can&amp;#8217;t say I have lived a horrible life, but I also can&amp;#8217;t say I have lived a great one either. Compared to my peers, the friends I grew up with, my reality failed miserably for many and different reasons. This was a feeling that always haunted me, I always felt there was something better out there, but that never drove me to give up on myself or my life. I always believed that I could work harder and create the type of experience for myself that I desired. That was true until I faced one obstacle too many. At least for the time being.&lt;/p&gt;
-&lt;p&gt;I graduated from one of the top universities in the U.S. with a degree that allowed me to find a job in tough economic times. I was set, my mind had plenty to keep it busy because as a software developer there&amp;#8217;s always a problem to solve and keep the brain occupied. Remember though that I said I am an active person physically as well. I spent a year in college (during which I was taking 23 credits a semester) going to the gym before, after and between classes. Working as a software developer meant long hours sitting at a desk in front of a computer, not ideal for me. It was fine though because I had the rest of the day to do whatever I want, I even started running in the morning before work (I hate running aimlessly, have me run on basketball court all day and I&amp;#8217;m fine with that, run on a trail or treadmill bore me to death). Then the knock out punch was delivered.&lt;/p&gt;
-&lt;p&gt;I&amp;#8217;m at the gym, finished working out and now on the basketball court. My opponent? My brother. It&amp;#8217;s one of those always recurring battles in the never ending war to determine who is better, my brother or me? This was a new age, my age is no longer an advantage in fact it&amp;#8217;s a disadvantage. I no longer have 3 years of height advantage, I have 3 more years of separation from a man&amp;#8217;s prime year (when he&amp;#8217;s 18 years old). It is ON! Or is it? I can&amp;#8217;t jump, I can&amp;#8217;t extend my body, I can&amp;#8217;t run properly. Something doesn&amp;#8217;t feel quite right. I lose! Next morning I wake up with a bad back pain. A week later, it&amp;#8217;s even worse. ER time! I hate medication, but succumb. Pain meds numb the pain for a few days, but it comes back and stronger than before. Google, please help! Who&amp;#8217;s a good chiropractor in town? Appointment made, I have a rematch to prepare for.&lt;/p&gt;
-&lt;p&gt;Results? Do you really want to know about the results? Lets put it this way, it&amp;#8217;s bad. It&amp;#8217;s two of my Lumbar vertebrae bones rotated out of place in opposite directions, pushing the disk between then out of its place, adding pressure on the nerves coming out of that area into my left leg. Google &amp;#8220;bulging disk&amp;#8221; for more information. Meaning? I couldn&amp;#8217;t sit, I could barely walk or move for that matter. The only comfortable position I could be in with the least amount of pain is lying down. I was in bed. I slept in bed. I worked in bed. I watched TV in bed. I got up for food coming in and out, that&amp;#8217;s it.&lt;/p&gt;
-&lt;p&gt;When I had enough of mindless TV shows and was in too much pain to concentrate on work, I was stuck with just my thoughts. Me and my thoughts, my thoughts and me. Long hours. Long days. Long weeks. Staring at the ceiling is not fun. I closed my eyes. Daydreaming became a necessity. I needed it. I needed it. I wanted it. It wanted me. Twist, turn, turn again, twist again, had to give in. I gave in. The stories were good. Damn good. There was girl, a successful career, peace in the middle east, a better world.&lt;/p&gt;
-&lt;p&gt;&amp;#8220;Hello my name is Youssef and I am a daydreamaholic!&amp;#8221;&lt;/p&gt;
-&lt;h3&gt;Hello, Fuck You, Goodbye&lt;/h3&gt;
-&lt;p&gt;I never stayed in one place long enough to grow roots. Was not planning on making an exception this time. I wanted out. I was going to get out. I am out. Think it, believe it, do it. I am in control.&lt;/p&gt;
-&lt;p&gt;The back pains are still there, but manageable enough for me to do some normal things. When there is too much pain, I find another way to occupy myself. I play &lt;span class=&quot;caps&quot;&gt;XBOX&lt;/span&gt; while lying down. I found a book I could actually stand reading. I write something like this piece. Reading and writing are two things I never liked doing, and now they have become a treat, at least for the time being. I have enough brain power to conquer the world, in real life. And I will do it.&lt;/p&gt;
-&lt;p&gt;Op. ne last thing, the rematch is happening soon. The crown will be mine again.&lt;/p&gt;</content>
+		&lt;li&gt;I became a successful developer in Lebanon&lt;/li&gt;
+		&lt;li&gt;I was elected an official (president) in Lebanon&lt;/li&gt;
+		&lt;li&gt;...&lt;/li&gt;
+	&lt;/ul&gt;
+
+
+	&lt;p&gt;which basically follow the form of what would I do if I had power in relation to things that matter to me such as my home country Lebanon, my friends and family, or my university (THE University of Virginia).&lt;/p&gt;
+
+
+	&lt;p&gt;So how did it all start?&lt;/p&gt;
+
+
+	&lt;h3&gt;In the Beginning &amp;#8230;&lt;/h3&gt;
+
+
+	&lt;p&gt;I have always been an active person. Being idle has never been something I enjoyed. In the beginning it was mostly on the physical side. I like being active physically, I always wanted to be outside playing sports all day long. Along the years, when I discovered my brain (yes, I had to discover that the big heavy thing on top of my shoulders had a real use to it) the activeness transcended to my brain activity as well.&lt;/p&gt;
+
+
+	&lt;p&gt;During my high school years, this was manifested in multiple ways. I was always shaking my leg, fiddling with a pen or pencil, doing something with my body during the long hours of class. When the topic of study was interesting, my mind had something to fiddle with as well, when that wasn&amp;#8217;t the case I had to preoccupy my self with something else. Depending on the teacher, I was either focused on a plot to sabotage class or on something else that did not interfere. I became so notorious, my brother had to suffer the consequences three years after the fact.&lt;/p&gt;
+
+
+	&lt;p&gt;And so it began&amp;#8230;&lt;/p&gt;
+
+
+	&lt;h3&gt;My first encounter&lt;/h3&gt;
+
+
+	&lt;p&gt;Since my mind couldn&amp;#8217;t stay idle and my brain cells needs to be always churning away on some thought or another, it became increasingly difficult to fall asleep. If I had a maths problem I couldn&amp;#8217;t figure out during the day, something going on with friends, whatever the case may be, the thoughts would not stop and I couldn&amp;#8217;t turn my brain off to fall asleep. I needed to distract my brain from intensive thoughts and steer the focus towards something less power consuming. That&amp;#8217;s when I first started constructing my dreams. I figured people dream when they&amp;#8217;re asleep, so why not dream to fall asleep. Counting to a hundred, or counting sheep backwards never worked for me, and I don&amp;#8217;t understand how they work for other people. We&amp;#8217;re all built differently and I guess this is what worked for me. At this point, daydreaming was just a coping mechanism for me to help me sleep. It had its time, which was when my mom forced bed time on me and I wasn&amp;#8217;t tired enough or ready to fall asleep yet.&lt;/p&gt;
+
+
+	&lt;p&gt;Daydreaming worked at night, but when it crept up and starting appearing during the day, it was a whole new ball game.&lt;/p&gt;
+
+
+	&lt;h3&gt;Day and Night&lt;/h3&gt;
+
+
+	&lt;p&gt;I fell in love, I really only had a crush but I was a teenager and I didn&amp;#8217;t know any better. I was in love and all I could think of was that girl. I was up on my grandmother&amp;#8217;s roof, staring at the sun, daydreaming. When people were gathered around and talking, I was on the side, daydreaming. In class, i sat in the back, daydreaming.&lt;/p&gt;
+
+
+	&lt;p&gt;Poof, it was all gone!&lt;/p&gt;
+
+
+	&lt;p&gt;That girl was my first crush. That girl was the first (and last) girl to refuse to date me (got rejected by four times!). That relationship was still lived. I couldn&amp;#8217;t experience it in real life, but I did through my dreams. Once the crush faded, so did the daydreams. I basically conned whatever part of me felt &amp;#8220;in love&amp;#8221; to live it and get over it.&lt;/p&gt;
+
+
+	&lt;p&gt;Order was restored, daydreaming went back to being a coping mechanism for sleeping and not a lazy act of wasting time.&lt;/p&gt;
+
+
+	&lt;h3&gt;Recreation to Addiction&lt;/h3&gt;
+
+
+	&lt;p&gt;It doesn&amp;#8217;t take much for us to become addicted to something not part of normal human functioning. Alternate reality is one of the most addictive experiences to us. Drugs (alcohol included) present us with one way to live in a world we desire more than the one we actually experience. Daydreaming is another way to achieve that purpose. With daydreaming we can construct our own reality, a story where we are the hero and the ending is always favorable to us.&lt;/p&gt;
+
+
+	&lt;p&gt;We do not need an alternate reality if the real one we live in is good enough. I can&amp;#8217;t say I have lived a horrible life, but I also can&amp;#8217;t say I have lived a great one either. Compared to my peers, the friends I grew up with, my reality failed miserably for many and different reasons. This was a feeling that always haunted me, I always felt there was something better out there, but that never drove me to give up on myself or my life. I always believed that I could work harder and create the type of experience for myself that I desired. That was true until I faced one obstacle too many. At least for the time being.&lt;/p&gt;
+
+
+	&lt;p&gt;I graduated from one of the top universities in the U.S. with a degree that allowed me to find a job in tough economic times. I was set, my mind had plenty to keep it busy because as a software developer there&amp;#8217;s always a problem to solve and keep the brain occupied. Remember though that I said I am an active person physically as well. I spent a year in college (during which I was taking 23 credits a semester) going to the gym before, after and between classes. Working as a software developer meant long hours sitting at a desk in front of a computer, not ideal for me. It was fine though because I had the rest of the day to do whatever I want, I even started running in the morning before work (I hate running aimlessly, have me run on basketball court all day and I&amp;#8217;m fine with that, run on a trail or treadmill bore me to death). Then the knock out punch was delivered.&lt;/p&gt;
+
+
+	&lt;p&gt;I&amp;#8217;m at the gym, finished working out and now on the basketball court. My opponent? My brother. It&amp;#8217;s one of those always recurring battles in the never ending war to determine who is better, my brother or me? This was a new age, my age is no longer an advantage in fact it&amp;#8217;s a disadvantage. I no longer have 3 years of height advantage, I have 3 more years of separation from a man&amp;#8217;s prime year (when he&amp;#8217;s 18 years old). It is ON! Or is it? I can&amp;#8217;t jump, I can&amp;#8217;t extend my body, I can&amp;#8217;t run properly. Something doesn&amp;#8217;t feel quite right. I lose! Next morning I wake up with a bad back pain. A week later, it&amp;#8217;s even worse. ER time! I hate medication, but succumb. Pain meds numb the pain for a few days, but it comes back and stronger than before. Google, please help! Who&amp;#8217;s a good chiropractor in town? Appointment made, I have a rematch to prepare for.&lt;/p&gt;
+
+
+	&lt;p&gt;Results? Do you really want to know about the results? Lets put it this way, it&amp;#8217;s bad. It&amp;#8217;s two of my Lumbar vertebrae bones rotated out of place in opposite directions, pushing the disk between then out of its place, adding pressure on the nerves coming out of that area into my left leg. Google &amp;#8220;bulging disk&amp;#8221; for more information. Meaning? I couldn&amp;#8217;t sit, I could barely walk or move for that matter. The only comfortable position I could be in with the least amount of pain is lying down. I was in bed. I slept in bed. I worked in bed. I watched TV in bed. I got up for food coming in and out, that&amp;#8217;s it.&lt;/p&gt;
+
+
+	&lt;p&gt;When I had enough of mindless TV shows and was in too much pain to concentrate on work, I was stuck with just my thoughts. Me and my thoughts, my thoughts and me. Long hours. Long days. Long weeks. Staring at the ceiling is not fun. I closed my eyes. Daydreaming became a necessity. I needed it. I needed it. I wanted it. It wanted me. Twist, turn, turn again, twist again, had to give in. I gave in. The stories were good. Damn good. There was girl, a successful career, peace in the middle east, a better world.&lt;/p&gt;
+
+
+	&lt;p&gt;&amp;#8220;Hello my name is Youssef and I am a daydreamaholic!&amp;#8221;&lt;/p&gt;
+
+
+	&lt;h3&gt;Hello, Fuck You, Goodbye&lt;/h3&gt;
+
+
+	&lt;p&gt;I never stayed in one place long enough to grow roots. Was not planning on making an exception this time. I wanted out. I was going to get out. I am out. Think it, believe it, do it. I am in control.&lt;/p&gt;
+
+
+	&lt;p&gt;The back pains are still there, but manageable enough for me to do some normal things. When there is too much pain, I find another way to occupy myself. I play &lt;span class=&quot;caps&quot;&gt;XBOX&lt;/span&gt; while lying down. I found a book I could actually stand reading. I write something like this piece. Reading and writing are two things I never liked doing, and now they have become a treat, at least for the time being. I have enough brain power to conquer the world, in real life. And I will do it.&lt;/p&gt;
+
+
+	&lt;p&gt;Op. ne last thing, the rematch is happening soon. The crown will be mine again.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -69,8 +129,12 @@
    <updated>2009-08-05T00:00:00-04:00</updated>
    <id>http://www.youhhoo.com/gaming/social/technology/2009/08/05/visualize-your-words</id>
    <content type="html">&lt;p&gt;I found this interesting site: www.wordle.net that lets you create a word image of your blog. The result for this particular one was interesting to me:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.wordle.net/gallery/wrdl/1031877/Youhhoo.com&quot; title=&quot;Wordle: Youhhoo.com&quot;&gt;&lt;img src=&quot;http://www.wordle.net/thumb/wrdl/1031877/Youhhoo.com&quot; alt=&quot;Wordle: Youhhoo.com&quot;  style=&quot;padding:4px;border:1px solid #ddd&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Notice the central word in the biggest font: &lt;span class=&quot;caps&quot;&gt;PEOPLE&lt;/span&gt;. Then notice the words that jump out next: Lebanese, Leaders, One, Idea, Country, Lebanon, Interest, Person. Seems to sum up pretty nicely what this blog sort of revolves around.&lt;/p&gt;</content>
+
+
+	&lt;p&gt;&lt;a href=&quot;http://www.wordle.net/gallery/wrdl/1031877/Youhhoo.com&quot; title=&quot;Wordle: Youhhoo.com&quot;&gt;&lt;img src=&quot;http://www.wordle.net/thumb/wrdl/1031877/Youhhoo.com&quot; alt=&quot;Wordle: Youhhoo.com&quot;  style=&quot;padding:4px;border:1px solid #ddd&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+	&lt;p&gt;Notice the central word in the biggest font: &lt;span class=&quot;caps&quot;&gt;PEOPLE&lt;/span&gt;. Then notice the words that jump out next: Lebanese, Leaders, One, Idea, Country, Lebanon, Interest, Person. Seems to sum up pretty nicely what this blog sort of revolves around.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -79,43 +143,63 @@
    <updated>2009-07-04T00:00:00-04:00</updated>
    <id>http://www.youhhoo.com/social/2009/07/04/tribute-to-a-great-nation</id>
    <content type="html">&lt;p&gt;I stumbled on this just now and I think it&amp;#8217;s a nice idea:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.facebook.com/photo.php?pid=2119364&amp;amp;id=83541361518#/pages/Tribute-To-a-Great-Nation-R/83541361518?v=wall&amp;amp;viewas=1519952&quot; target=&quot;_blank&quot;&gt;Facebook Page&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.tributetoagreatnation.com/&quot; target=&quot;_blank&quot;&gt;Official Site&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;It&amp;#8217;s a clothing line themed around Lebanon. I love the idea, so check it out.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.tributetoagreatnation.com/images/store/title.jpg&quot;&gt;&lt;img title=&quot;Clothing Inspired by a Great Nation&quot; src=&quot;http://www.tributetoagreatnation.com/images/store/title.jpg&quot; alt=&quot;Clothing Inspired by a Great Nation&quot; width=&quot;533&quot; height=&quot;212&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+
+
+	&lt;p&gt;&lt;a href=&quot;http://www.facebook.com/photo.php?pid=2119364&amp;amp;id=83541361518#/pages/Tribute-To-a-Great-Nation-R/83541361518?v=wall&amp;amp;viewas=1519952&quot; target=&quot;_blank&quot;&gt;Facebook Page&lt;/a&gt;&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;a href=&quot;http://www.tributetoagreatnation.com/&quot; target=&quot;_blank&quot;&gt;Official Site&lt;/a&gt;&lt;/p&gt;
+
+
+	&lt;p&gt;It&amp;#8217;s a clothing line themed around Lebanon. I love the idea, so check it out.&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;a href=&quot;http://www.tributetoagreatnation.com/images/store/title.jpg&quot;&gt;&lt;img title=&quot;Clothing Inspired by a Great Nation&quot; src=&quot;http://www.tributetoagreatnation.com/images/store/title.jpg&quot; alt=&quot;Clothing Inspired by a Great Nation&quot; width=&quot;533&quot; height=&quot;212&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>A Cultural and Educational Revolution - part II</title>
-   <link href="http://www.youhhoo.com/opinion/political/social/2009/07/03/a-cultural-and-educational-revolution-part-ii.html"/>
+   <link href="http://www.youhhoo.com/political/social/opinion/2009/07/03/a-cultural-and-educational-revolution-part-ii.html"/>
    <updated>2009-07-03T00:00:00-04:00</updated>
-   <id>http://www.youhhoo.com/opinion/political/social/2009/07/03/a-cultural-and-educational-revolution-part-ii</id>
+   <id>http://www.youhhoo.com/political/social/opinion/2009/07/03/a-cultural-and-educational-revolution-part-ii</id>
    <content type="html">&lt;p&gt;This is the second part of what might become a series of posts about this subject. If you have not read the first post, you might want to do so first, and watch the videos as well.&lt;/p&gt;
-&lt;p&gt;I hoped that the second post would be an expansion of the first, but the comments (by my best friend non the less) pushed to want to write some sort of explanation or follow up post.&lt;/p&gt;
-&lt;p&gt;First clarification I want to make is that I am not against one particular group of people/politicians/leaders. I am not for X nor Y whereas I am opposed to both X &lt;span class=&quot;caps&quot;&gt;AND&lt;/span&gt; Y. That might be a small lie, because I kind of like one small group, but that group has not been a factor or a major player in Lebanon. By X and Y I mean your usual suspects, pro western government vs the pro Syrian opposition. I am &lt;span class=&quot;caps&quot;&gt;PRO&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;LEBANON&lt;/span&gt;! That&amp;#8217;s it. If pro Lebanon meant pro western, so be it. If it meant pro Syrian, so be it. If it meant pro both western and Syrian, the more the merrier.&lt;/p&gt;
-&lt;p&gt;Second clarification: when I say politicians or leaders, I am referring to everyone who in any way makes/shapes/influences decisions for a group of people. Of course I don&amp;#8217;t mean the father who controls his wife and kids. Even though there a lot of those cases which are in my opinion problematic. So to further illustrate my point I will use examples, and I hope this is the only time I use examples because I am usually inclusive whereas examples give the illusion of exclusivity as if the examples mentioned are the entire set, whereas they are meant to be a subset of the bigger pool. Anyway, Mar Nasrallah Boutros Sfeir is an example of a man who does not hold a government post but is a politician and a leader. He is of course a leader in the christian community being the head of the Maronite church, but his influences reach farther that just Christianity and the christian way of life. His political views have an effect on the politics of the country, thus he is one of those leaders I speak of. Sayed Hassan Nasrallah is another one of those examples. He is a major player in Lebanese politics without actually being in any political office. To those who follow what&amp;#8217;s going on in the country, these two examples seem obvious, but that&amp;#8217;s because we have become used to having the line fudged. The two mentioned examples are prominent figures on the political scene in Lebanon and to them you should add any person who, as I described, has any influence whether he is a clergy man or any type of social leader.&lt;/p&gt;
-&lt;p&gt;Third clarification: After reading the comments, I was taken off guard. I knew that when I wrote my first post that I was addressing the people and pointing out things that need to be changed about the people. But the comments made it look like I was attacking politicians and only politicians. The comment made me feel that my post was not what I intended it to be, and actually was a rant by someone who was upset and angry with politicians and wanted to talk shit about them. So I reread my post, looked it over a couple of times. In my post, I did mention politicians. I did mention that they&amp;#8217;ve done a shitty job. Can you disagree with that? But did I blame them for everything? The word blame does not even make one single appearance in that post. In fact there is a paragraph where I mention that I had what might be too much hope in politicians and that they would, or some of them would act in the people&amp;#8217;s best interest. If you pay closer attention to what I wrote, specially in the last parts, you would notice that I am addressing the people and the common mistakes or faults found in the common Lebanese person. I listed things like the lack of interest of the common person, the lack of accountability by the common person, the lack of care by the common person as reasons for the mess in the country. If there was any blame in that post it was towards every Lebanese citizen that falls under those categories. As a reminder of those passages, here they are:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Most Lebanese took the sum of money they were offered, voted on that sunday and now are off doing whatever they do for the next four years until the next elections come around. I can’t do that!&lt;br /&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ACT&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;NOW&lt;/span&gt;!&lt;/p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Are you going to wake up four years from now, start complaining and blaming the people you voted for yourself for seatling your future from you yet again while you laid dormant? Or are you going to do something about it?&lt;br /&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ACT&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;NOW&lt;/span&gt;!&lt;/p&gt;&lt;br /&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;Are you going to watch those leaders make decisions that only benefit their own personal interest while sacrigicing the interest of the country? Or are you going fight for accountability?&lt;/p&gt;&lt;br /&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ACT&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;NOW&lt;/span&gt;!&lt;/p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Who am I speaking to or about in these passages? The people, the citizens, not the politicians. Who am I holding the responsibility for everything? The people, the citizens, not the politicians. Of course I think politicians and leaders are a big factor in the equation, but I am trying to incite the people because it is them that hold the key to success in the future.&lt;/p&gt;
-&lt;p&gt;This is a heated subject. Tempers get flaring. It&amp;#8217;s personal to a lot of people, of course it is, it&amp;#8217;s about someone&amp;#8217;s country, home, family and future. That is why it is important for me to be clear about things and take the time to make sure that the point is coming across correctly. And I hope what I am writing here generates some interest, because the discussion can not continue otherwise.&lt;/p&gt;</content>
+
+
+	&lt;p&gt;I hoped that the second post would be an expansion of the first, but the comments (by my best friend non the less) pushed to want to write some sort of explanation or follow up post.&lt;/p&gt;
+
+
+	&lt;p&gt;First clarification I want to make is that I am not against one particular group of people/politicians/leaders. I am not for X nor Y whereas I am opposed to both &lt;span class=&quot;caps&quot;&gt;X AND Y&lt;/span&gt;. That might be a small lie, because I kind of like one small group, but that group has not been a factor or a major player in Lebanon. By X and &lt;span class=&quot;caps&quot;&gt;Y I&lt;/span&gt; mean your usual suspects, pro western government vs the pro Syrian opposition. I am &lt;span class=&quot;caps&quot;&gt;PRO LEBANON&lt;/span&gt;! That&amp;#8217;s it. If pro Lebanon meant pro western, so be it. If it meant pro Syrian, so be it. If it meant pro both western and Syrian, the more the merrier.&lt;/p&gt;
+
+
+	&lt;p&gt;Second clarification: when I say politicians or leaders, I am referring to everyone who in any way makes/shapes/influences decisions for a group of people. Of course I don&amp;#8217;t mean the father who controls his wife and kids. Even though there a lot of those cases which are in my opinion problematic. So to further illustrate my point I will use examples, and I hope this is the only time I use examples because I am usually inclusive whereas examples give the illusion of exclusivity as if the examples mentioned are the entire set, whereas they are meant to be a subset of the bigger pool. Anyway, Mar Nasrallah Boutros Sfeir is an example of a man who does not hold a government post but is a politician and a leader. He is of course a leader in the christian community being the head of the Maronite church, but his influences reach farther that just Christianity and the christian way of life. His political views have an effect on the politics of the country, thus he is one of those leaders I speak of. Sayed Hassan Nasrallah is another one of those examples. He is a major player in Lebanese politics without actually being in any political office. To those who follow what&amp;#8217;s going on in the country, these two examples seem obvious, but that&amp;#8217;s because we have become used to having the line fudged. The two mentioned examples are prominent figures on the political scene in Lebanon and to them you should add any person who, as I described, has any influence whether he is a clergy man or any type of social leader.&lt;/p&gt;
+
+
+	&lt;p&gt;Third clarification: After reading the comments, I was taken off guard. I knew that when I wrote my first post that I was addressing the people and pointing out things that need to be changed about the people. But the comments made it look like I was attacking politicians and only politicians. The comment made me feel that my post was not what I intended it to be, and actually was a rant by someone who was upset and angry with politicians and wanted to talk shit about them. So I reread my post, looked it over a couple of times. In my post, I did mention politicians. I did mention that they&amp;#8217;ve done a shitty job. Can you disagree with that? But did I blame them for everything? The word blame does not even make one single appearance in that post. In fact there is a paragraph where I mention that I had what might be too much hope in politicians and that they would, or some of them would act in the people&amp;#8217;s best interest. If you pay closer attention to what I wrote, specially in the last parts, you would notice that I am addressing the people and the common mistakes or faults found in the common Lebanese person. I listed things like the lack of interest of the common person, the lack of accountability by the common person, the lack of care by the common person as reasons for the mess in the country. If there was any blame in that post it was towards every Lebanese citizen that falls under those categories. As a reminder of those passages, here they are:&lt;/p&gt;
+
+
+bq. Most Lebanese took the sum of money they were offered, voted on that sunday and now are off doing whatever they do for the next four years until the next elections come around. I can’t do that!
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ACT NOW&lt;/span&gt;!&lt;/p&gt;
+
+bq. Are you going to wake up four years from now, start complaining and blaming the people you voted for yourself for seatling your future from you yet again while you laid dormant? Or are you going to do something about it?
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ACT NOW&lt;/span&gt;!&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;Are you going to watch those leaders make decisions that only benefit their own personal interest while sacrigicing the interest of the country? Or are you going fight for accountability?&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ACT NOW&lt;/span&gt;!&lt;/p&gt;
+
+	&lt;p&gt;Who am I speaking to or about in these passages? The people, the citizens, not the politicians. Who am I holding the responsibility for everything? The people, the citizens, not the politicians. Of course I think politicians and leaders are a big factor in the equation, but I am trying to incite the people because it is them that hold the key to success in the future.&lt;/p&gt;
+
+
+	&lt;p&gt;This is a heated subject. Tempers get flaring. It&amp;#8217;s personal to a lot of people, of course it is, it&amp;#8217;s about someone&amp;#8217;s country, home, family and future. That is why it is important for me to be clear about things and take the time to make sure that the point is coming across correctly. And I hope what I am writing here generates some interest, because the discussion can not continue otherwise.&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>I Am Not Alone</title>
-   <link href="http://www.youhhoo.com/opinion/political/social/2009/07/01/i-am-not-alone.html"/>
+   <link href="http://www.youhhoo.com/political/social/opinion/2009/07/01/i-am-not-alone.html"/>
    <updated>2009-07-01T00:00:00-04:00</updated>
-   <id>http://www.youhhoo.com/opinion/political/social/2009/07/01/i-am-not-alone</id>
+   <id>http://www.youhhoo.com/political/social/opinion/2009/07/01/i-am-not-alone</id>
    <content type="html">&lt;p&gt;I am very serious about what I wrote in my previous post. So are other people, such is illustrated in this image found on L&amp;#8217;Orient Le Jour&amp;#8217;s &lt;a href=&quot;http://www.lorientlejour.com/&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://193.227.162.222/images/ad3ecacc7c5c97b1d1cd735da8c953b3.gif&quot;&gt;&lt;img class=&quot;aligncenter&quot; title=&quot;Resistance Culturelle&quot; src=&quot;http://193.227.162.222/images/ad3ecacc7c5c97b1d1cd735da8c953b3.gif&quot; alt=&quot;&quot; width=&quot;240&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+
+
+	&lt;p&gt;&lt;a href=&quot;http://193.227.162.222/images/ad3ecacc7c5c97b1d1cd735da8c953b3.gif&quot;&gt;&lt;img class=&quot;aligncenter&quot; title=&quot;Resistance Culturelle&quot; src=&quot;http://193.227.162.222/images/ad3ecacc7c5c97b1d1cd735da8c953b3.gif&quot; alt=&quot;&quot; width=&quot;240&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -124,54 +208,93 @@
    <updated>2009-06-27T00:00:00-04:00</updated>
    <id>http://www.youhhoo.com/social/technology/2009/06/27/social-networking</id>
    <content type="html">&lt;p&gt;Those of you who know me know that I am a supporter and user of almost every social networking site available. I have been also known to defend these sites against people do not use, understand or agree with these sites.&lt;/p&gt;
-&lt;p&gt;Even though I have been updating my site, most of these updates have been in the background and are not visible to the people who visit the site (such as the way I upload pictures). I finally made a visible change to my site. The main ones are concerned with social networking and social media. I added icons next to the navigation menu that provide links to my public profiles (eg: twitter, facebook &amp;#8230;), and I also added a small twitter feed on the homepage.&lt;/p&gt;
-&lt;p&gt;Enjoy!&lt;/p&gt;</content>
+
+
+	&lt;p&gt;Even though I have been updating my site, most of these updates have been in the background and are not visible to the people who visit the site (such as the way I upload pictures). I finally made a visible change to my site. The main ones are concerned with social networking and social media. I added icons next to the navigation menu that provide links to my public profiles (eg: twitter, facebook &amp;#8230;), and I also added a small twitter feed on the homepage.&lt;/p&gt;
+
+
+	&lt;p&gt;Enjoy!&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>A Cultural and Educational Revolution</title>
-   <link href="http://www.youhhoo.com/opinion/political/social/2009/06/27/a-cultural-and-educational-revolution.html"/>
+   <link href="http://www.youhhoo.com/political/social/opinion/2009/06/27/a-cultural-and-educational-revolution.html"/>
    <updated>2009-06-27T00:00:00-04:00</updated>
-   <id>http://www.youhhoo.com/opinion/political/social/2009/06/27/a-cultural-and-educational-revolution</id>
-   <content type="html">&lt;p&gt;Learn how to draw a bird.&lt;br /&gt;
-Learn how to draw a bird to appreciate the bird.&lt;br /&gt;
-Learn to appreciate the bird to love the bird.&lt;br /&gt;
-Learn to love the bird to not want to kill the bird.&lt;br /&gt;
-Learn to not want to kill the bird so maybe you also won&amp;#8217;t kill your fellow Human.&lt;br /&gt;
-Learn to love the bird to appreciate the bird&amp;#8217;s music.&lt;br /&gt;
-Learn to appreciate music.&lt;br /&gt;
+   <id>http://www.youhhoo.com/political/social/opinion/2009/06/27/a-cultural-and-educational-revolution</id>
+   <content type="html">&lt;p&gt;Learn how to draw a bird.
+Learn how to draw a bird to appreciate the bird.
+Learn to appreciate the bird to love the bird.
+Learn to love the bird to not want to kill the bird.
+Learn to not want to kill the bird so maybe you also won&amp;#8217;t kill your fellow Human.
+Learn to love the bird to appreciate the bird&amp;#8217;s music.
+Learn to appreciate music.
 Learn to appreciate art.&lt;/p&gt;
-&lt;p&gt;What does it amount to?&lt;br /&gt;
+
+
+	&lt;p&gt;What does it amount to?
 Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
-&lt;p&gt;This is an idea that is so simple in its principal but yet so meaningful and important for the progress of this small yet complex country. It is articulated, expanded and discussed in the three-part documentary from the people behind &lt;a href=&quot;http://www.thelebanonidreamof.com&quot; target=&quot;_blank&quot;&gt;The Lebanon I Dream Of&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;object width=&quot;400&quot; height=&quot;300&quot;&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;movie&quot; value=&quot;http://vimeo.com/moogaloop.swf?clip_id=5353676&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&quot; /&gt;&lt;embed src=&quot;http://vimeo.com/moogaloop.swf?clip_id=5353676&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; width=&quot;400&quot; height=&quot;300&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/5353676&quot;&gt;The Lebanon I Dream Of &amp;#8211; part 1&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/ychaker&quot;&gt;Youssef Chaker&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;In that documentary one person mentions that the change needs to come from a revolution and then poses the question of who will lead this revolution. The documentary proposes that the people need to be the leaders and manifest it through the elections. And I agree, but I also feel that the people need one person or a group of people to take on the role of &amp;#8220;Captain of the Ship&amp;#8221;.&lt;/p&gt;
-&lt;p&gt;&lt;object width=&quot;400&quot; height=&quot;300&quot;&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;movie&quot; value=&quot;http://vimeo.com/moogaloop.swf?clip_id=5353757&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&quot; /&gt;&lt;embed src=&quot;http://vimeo.com/moogaloop.swf?clip_id=5353757&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; width=&quot;400&quot; height=&quot;300&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/5353757&quot;&gt;Untitled&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/ychaker&quot;&gt;Youssef Chaker&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;With the way the political system is setup in the country, I hope that someone from the ruling families will finally see the benefit of doing the right thing for the people and not just for his own pockets. Or that at least with the many conflicting interests among the political leaders in the country, some sort of compromise would come in the benefit of the people. The first idea does not seem likely to happen any time soon, and even though we&amp;#8217;ve seen signs of the second idea taking place, the compromise does not seem good enough.&lt;/p&gt;
-&lt;p&gt;&lt;object width=&quot;400&quot; height=&quot;300&quot;&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;movie&quot; value=&quot;http://vimeo.com/moogaloop.swf?clip_id=5353890&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&quot; /&gt;&lt;embed src=&quot;http://vimeo.com/moogaloop.swf?clip_id=5353890&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; width=&quot;400&quot; height=&quot;300&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/5353890&quot;&gt;The Lebanon I Dream Of &amp;#8211; part 3&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/ychaker&quot;&gt;Youssef Chaker&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;The country and its people need &lt;span class=&quot;caps&quot;&gt;MORE&lt;/span&gt;. I do not have popular politcal views, mainly because I do not support any of the so called leaders in the country. In fact I am the opposition to the government and the opposition to the opposition all at once. I believe that the Lebanese people should get out of the politics business and get into the service business. For that to happen, the political leaders in the country need to give up their power and allow a new generation and type of leaders to take over. Something that will not happen on its own, something that requires a lot of struggle and fight. Sadly, the Lebanese people are running out of their will to fight and are living on a prayer that they will be able to survive each day as it comes.&lt;/p&gt;
-&lt;p&gt;Ip.  also had this hope that the country is resilient enough that even though corrupt politicians are in control, they will eventually die, or get too old and give up this power struggle. That turned out to be a false hope when each time one leader is out of the game (which ever way it may be), his wife and his sons and daughters take over the family business. Thus we go from one leader we could not wait to get rid of to a multitude of his evil spawns.&lt;/p&gt;
-&lt;p&gt;For many, this piece might seem a bit too late since the elections were 20 days ago. Well, I did not see the change I was hoping for this time around but that just meant that it was time to act for the next opportunity. Obama said a few days ago to a bunch of reporters that they worked on a 24 hour news cycle whereas he did not, he works with the future in mind. Lebanese politicians are similar to these reporters, they work on an election cycle, I don&amp;#8217;t! Most Lebanese took the sum of money they were offered, voted on that sunday and now are off doing whatever they do for the next four years until the next elections come around. I can&amp;#8217;t do that!&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ACT&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;NOW&lt;/span&gt;!&lt;/p&gt;
-&lt;p&gt;Are you going to wake up four years from now, start complaining and blaming the people you voted for yourself for stealing your future from you yet again while you laid dormant? Or are you going to do something about it?&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ACT&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;NOW&lt;/span&gt;!&lt;/p&gt;
-&lt;p&gt;Are you going to watch those leaders make decisions that only benefit their own personal interest while sacrificing the interest of the country? Or are you going fight for accountability?&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ACT&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;NOW&lt;/span&gt;!&lt;/p&gt;</content>
+
+
+	&lt;p&gt;This is an idea that is so simple in its principal but yet so meaningful and important for the progress of this small yet complex country. It is articulated, expanded and discussed in the three-part documentary from the people behind &lt;a href=&quot;http://www.thelebanonidreamof.com&quot; target=&quot;_blank&quot;&gt;The Lebanon I Dream Of&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;object width=&quot;400&quot; height=&quot;300&quot;&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;movie&quot; value=&quot;http://vimeo.com/moogaloop.swf?clip_id=5353676&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&quot; /&gt;&lt;embed src=&quot;http://vimeo.com/moogaloop.swf?clip_id=5353676&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; width=&quot;400&quot; height=&quot;300&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/5353676&quot;&gt;The Lebanon I Dream Of &amp;#8211; part 1&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/ychaker&quot;&gt;Youssef Chaker&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+	&lt;p&gt;In that documentary one person mentions that the change needs to come from a revolution and then poses the question of who will lead this revolution. The documentary proposes that the people need to be the leaders and manifest it through the elections. And I agree, but I also feel that the people need one person or a group of people to take on the role of &amp;#8220;Captain of the Ship&amp;#8221;.&lt;/p&gt;
+
+
+&lt;object width=&quot;400&quot; height=&quot;300&quot;&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;movie&quot; value=&quot;http://vimeo.com/moogaloop.swf?clip_id=5353757&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&quot; /&gt;&lt;embed src=&quot;http://vimeo.com/moogaloop.swf?clip_id=5353757&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; width=&quot;400&quot; height=&quot;300&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/5353757&quot;&gt;Untitled&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/ychaker&quot;&gt;Youssef Chaker&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+	&lt;p&gt;With the way the political system is setup in the country, I hope that someone from the ruling families will finally see the benefit of doing the right thing for the people and not just for his own pockets. Or that at least with the many conflicting interests among the political leaders in the country, some sort of compromise would come in the benefit of the people. The first idea does not seem likely to happen any time soon, and even though we&amp;#8217;ve seen signs of the second idea taking place, the compromise does not seem good enough.&lt;/p&gt;
+
+
+&lt;object width=&quot;400&quot; height=&quot;300&quot;&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;movie&quot; value=&quot;http://vimeo.com/moogaloop.swf?clip_id=5353890&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&quot; /&gt;&lt;embed src=&quot;http://vimeo.com/moogaloop.swf?clip_id=5353890&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; width=&quot;400&quot; height=&quot;300&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/5353890&quot;&gt;The Lebanon I Dream Of &amp;#8211; part 3&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/ychaker&quot;&gt;Youssef Chaker&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+	&lt;p&gt;The country and its people need &lt;span class=&quot;caps&quot;&gt;MORE&lt;/span&gt;. I do not have popular politcal views, mainly because I do not support any of the so called leaders in the country. In fact I am the opposition to the government and the opposition to the opposition all at once. I believe that the Lebanese people should get out of the politics business and get into the service business. For that to happen, the political leaders in the country need to give up their power and allow a new generation and type of leaders to take over. Something that will not happen on its own, something that requires a lot of struggle and fight. Sadly, the Lebanese people are running out of their will to fight and are living on a prayer that they will be able to survive each day as it comes.&lt;/p&gt;
+
+
+	&lt;p&gt;Ip.  also had this hope that the country is resilient enough that even though corrupt politicians are in control, they will eventually die, or get too old and give up this power struggle. That turned out to be a false hope when each time one leader is out of the game (which ever way it may be), his wife and his sons and daughters take over the family business. Thus we go from one leader we could not wait to get rid of to a multitude of his evil spawns.&lt;/p&gt;
+
+
+	&lt;p&gt;For many, this piece might seem a bit too late since the elections were 20 days ago. Well, I did not see the change I was hoping for this time around but that just meant that it was time to act for the next opportunity. Obama said a few days ago to a bunch of reporters that they worked on a 24 hour news cycle whereas he did not, he works with the future in mind. Lebanese politicians are similar to these reporters, they work on an election cycle, I don&amp;#8217;t! Most Lebanese took the sum of money they were offered, voted on that sunday and now are off doing whatever they do for the next four years until the next elections come around. I can&amp;#8217;t do that!&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ACT NOW&lt;/span&gt;!&lt;/p&gt;
+
+	&lt;p&gt;Are you going to wake up four years from now, start complaining and blaming the people you voted for yourself for stealing your future from you yet again while you laid dormant? Or are you going to do something about it?&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ACT NOW&lt;/span&gt;!&lt;/p&gt;
+
+	&lt;p&gt;Are you going to watch those leaders make decisions that only benefit their own personal interest while sacrificing the interest of the country? Or are you going fight for accountability?&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ACT NOW&lt;/span&gt;!&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>Every Action has an Equal Reaction</title>
-   <link href="http://www.youhhoo.com/opinion/social/technology/2009/04/30/every-action-has-an-equal-reaction.html"/>
+   <link href="http://www.youhhoo.com/social/opinion/technology/2009/04/30/every-action-has-an-equal-reaction.html"/>
    <updated>2009-04-30T00:00:00-04:00</updated>
-   <id>http://www.youhhoo.com/opinion/social/technology/2009/04/30/every-action-has-an-equal-reaction</id>
+   <id>http://www.youhhoo.com/social/opinion/technology/2009/04/30/every-action-has-an-equal-reaction</id>
    <content type="html">&lt;p&gt;I want to start this post by copying the paragraph from &lt;a href=&quot;http://blog.nicksieger.com/articles/2009/04/30/stand-and-be-counted&quot; target=&quot;_blank&quot;&gt;Nick Sieger&amp;#8217;s blog&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;i&gt;I want the Ruby, Rails, open source, and web development communities to be a dignified, respectful, inclusive, and welcoming place. Acts like Matt Aimonetti’s talk at GoGaRuCo are regrettable and harmful to those aims. We’ve all been witnesses to off-color jokes, misogynistic back channel chatter, questionable imagery and unnecessary, trolling comments. I pledge to do better to stand up and call this behavior out when I see it in conferences, online and other public settings. I don’t expect it to go away but I’m not going to tacitly condone it any longer.&lt;/i&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;If you&amp;#8217;re part of the Ruby or Rails community, you&amp;#8217;ve probably heard about the infamous presentation at one of the conferences. Also, you&amp;#8217;ve probably seen the reactions to that presentation.&lt;/p&gt;
-&lt;p&gt;I find myself in a weird place, I do not agree with the presentation content and the means the presenter was trying to convey his point. And to be clear, I&amp;#8217;m not &amp;#8220;&lt;span class=&quot;caps&quot;&gt;OFFENDED&lt;/span&gt;&amp;#8221;&amp;#8230;whatever that means. I just don&amp;#8217;t think it&amp;#8217;s a good idea to use certain content in a presentation. I am 100% for illustrations, jokes and other supplements to a presentation because I have had my share of trying to fight my eyes from closing shut during a boring presentation. Regardless, there&amp;#8217;s always a line.&lt;/p&gt;
-&lt;p&gt;On the other hand, I don&amp;#8217;t really agree with the reactions to the event either. Not the principal of the reaction but the way they have been manifested in most cases. It seems that there is a lot of anger and personal beef in the community. I just want to say that when you have a correct idea but your way of delivery is wrong, that negates the effort. Ironically, the people who were trying to argue for political correctness in presentations did it a politically incorrect way! What&amp;#8217;s up with that???&lt;/p&gt;
-&lt;p&gt;This is why I wanted to quote Nick Sieger&amp;#8217;s post and also give props to Evan Light and his response: &lt;a href=&quot;http://evan.tiggerpalace.com/2009/04/30/on-professionalism-and-bigotry/&quot; target=&quot;_blank&quot;&gt;On professionalism and bigotry&lt;/a&gt;.&lt;/p&gt;</content>
+
+
+	&lt;blockquote&gt;
+		&lt;p&gt;&lt;i&gt;I want the Ruby, Rails, open source, and web development communities to be a dignified, respectful, inclusive, and welcoming place. Acts like Matt Aimonetti’s talk at GoGaRuCo are regrettable and harmful to those aims. We’ve all been witnesses to off-color jokes, misogynistic back channel chatter, questionable imagery and unnecessary, trolling comments. I pledge to do better to stand up and call this behavior out when I see it in conferences, online and other public settings. I don’t expect it to go away but I’m not going to tacitly condone it any longer.&lt;/i&gt;&lt;/p&gt;
+	&lt;/blockquote&gt;
+
+
+	&lt;p&gt;If you&amp;#8217;re part of the Ruby or Rails community, you&amp;#8217;ve probably heard about the infamous presentation at one of the conferences. Also, you&amp;#8217;ve probably seen the reactions to that presentation.&lt;/p&gt;
+
+
+	&lt;p&gt;I find myself in a weird place, I do not agree with the presentation content and the means the presenter was trying to convey his point. And to be clear, I&amp;#8217;m not &amp;#8220;OFFENDED&amp;#8221;...whatever that means. I just don&amp;#8217;t think it&amp;#8217;s a good idea to use certain content in a presentation. I am 100% for illustrations, jokes and other supplements to a presentation because I have had my share of trying to fight my eyes from closing shut during a boring presentation. Regardless, there&amp;#8217;s always a line.&lt;/p&gt;
+
+
+	&lt;p&gt;On the other hand, I don&amp;#8217;t really agree with the reactions to the event either. Not the principal of the reaction but the way they have been manifested in most cases. It seems that there is a lot of anger and personal beef in the community. I just want to say that when you have a correct idea but your way of delivery is wrong, that negates the effort. Ironically, the people who were trying to argue for political correctness in presentations did it a politically incorrect way! What&amp;#8217;s up with that???&lt;/p&gt;
+
+
+	&lt;p&gt;This is why I wanted to quote Nick Sieger&amp;#8217;s post and also give props to Evan Light and his response: &lt;a href=&quot;http://evan.tiggerpalace.com/2009/04/30/on-professionalism-and-bigotry/&quot; target=&quot;_blank&quot;&gt;On professionalism and bigotry&lt;/a&gt;.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -180,8 +303,12 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
    <updated>2009-02-03T00:00:00-05:00</updated>
    <id>http://www.youhhoo.com/technology/2009/02/03/new-picture-layout</id>
    <content type="html">&lt;p&gt;When I first started working on my website, the main function I thought it would serve was to be a place people can view my pictures. I live away from most of my close friends and some of them are not big on things life facebook or any social media for that matter. Pictures are a nice way to capture certain moments that I want to share with my friends and my own website would be the easiest mean to do it. I chose RoR as the programming language of choice because I had worked with it before and saw its power, but as I was trying to find other applications or plug-ins that would help me build the photo album part, I was not impressed by the solutions that were available. I managed to use something for the uploading part but wasn&amp;#8217;t happy about it either. I was getting busier at work and wanted a quick solution so I went with the first thing I found and hacked at it for a little while until I got something functional.&lt;/p&gt;
-&lt;p&gt;I knew the solution was temporary and that I would go back to work on it, unfortunately I didn&amp;#8217;t get the time to do it until now. I wasn&amp;#8217;t going to touch the part related to uploading the images because that would imply a bigger overhaul than I had time for, but I definitely needed to improve on the way the images were displayed and laid out. I previously had used lightbox on different projects that were not done using RoR and used some javascript libraries in a RoR to create popups to display but that required more custom work and I knew that there must be some lightbox like method for images in RoR application. When I first looked around, I found the &lt;a href=&quot;http://jquery.com/demo/thickbox/&quot; target=&quot;_blank&quot;&gt;Thicbox&lt;/a&gt; project and it looked good enough to be what I wanted to use. It worked very well to display a single image in a popup window, but i could not get it to work for multiple images in an album and have it show them in a slides how manner. So I decided to look some more for another solution, and finally landed on the lightbox page I was looking for all along. I don&amp;#8217;t know why I didn&amp;#8217;t land on this page earlier, specially that I specifically searched for lightbox solutions, but when I finally found it I was able to make the quick changes to the site and make it have the easy and friendly feel I was hoping to provide from the get go. The lightbox project I used can be found at Loeksh Dhakar&amp;#8217;s &lt;a href=&quot;http://www.lokeshdhakar.com/projects/lightbox2/&quot;&gt;page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I should thank the people who worked on both the Thickbox project and the Lightbox project. Their efforts are behind the new and smooth look of the album page. &lt;span class=&quot;caps&quot;&gt;ENJOY&lt;/span&gt;!&lt;/p&gt;</content>
+
+
+	&lt;p&gt;I knew the solution was temporary and that I would go back to work on it, unfortunately I didn&amp;#8217;t get the time to do it until now. I wasn&amp;#8217;t going to touch the part related to uploading the images because that would imply a bigger overhaul than I had time for, but I definitely needed to improve on the way the images were displayed and laid out. I previously had used lightbox on different projects that were not done using RoR and used some javascript libraries in a RoR to create popups to display but that required more custom work and I knew that there must be some lightbox like method for images in RoR application. When I first looked around, I found the &lt;a href=&quot;http://jquery.com/demo/thickbox/&quot; target=&quot;_blank&quot;&gt;Thicbox&lt;/a&gt; project and it looked good enough to be what I wanted to use. It worked very well to display a single image in a popup window, but i could not get it to work for multiple images in an album and have it show them in a slides how manner. So I decided to look some more for another solution, and finally landed on the lightbox page I was looking for all along. I don&amp;#8217;t know why I didn&amp;#8217;t land on this page earlier, specially that I specifically searched for lightbox solutions, but when I finally found it I was able to make the quick changes to the site and make it have the easy and friendly feel I was hoping to provide from the get go. The lightbox project I used can be found at Loeksh Dhakar&amp;#8217;s &lt;a href=&quot;http://www.lokeshdhakar.com/projects/lightbox2/&quot;&gt;page&lt;/a&gt;.&lt;/p&gt;
+
+
+	&lt;p&gt;I should thank the people who worked on both the Thickbox project and the Lightbox project. Their efforts are behind the new and smooth look of the album page. &lt;span class=&quot;caps&quot;&gt;ENJOY&lt;/span&gt;!&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -190,9 +317,15 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
    <updated>2008-11-08T00:00:00-05:00</updated>
    <id>http://www.youhhoo.com/gaming/opinion/2008/11/08/c-c-red-alert-3</id>
    <content type="html">&lt;p&gt;I remember when I got my first PC game. My aunt was in Lebanon visiting from &lt;span class=&quot;caps&quot;&gt;KSA&lt;/span&gt; and she want to buy some games to take back with her for her son (it was hard to find any video games in Saudi at the time, or anything for that matter). I got intrigued and wanted to find out more about this thing called gaming. One of the games that my cousin wanted was called Red Alert, so I got myself a copy, installed it on my computer, started the first mission and had my &lt;span class=&quot;caps&quot;&gt;MCV&lt;/span&gt; drive around for half an hour trying to figure out what that thing did. I kept on getting attacked and had to repeat the damn mission about 5 times before someone told me that I had to deploy the &lt;span class=&quot;caps&quot;&gt;MCV&lt;/span&gt; and then start constructing other buildings. Once I figured out the game play, I soon became hooked on this thing.&lt;/p&gt;
-&lt;p&gt;Fast forward 12 years, Red Alert 2 and a couple of expansion packs later, and it is still one of the best games I have ever played on the PC. Probably only second to Max Payne. It&amp;#8217;s 2008 and Red Alert 3 comes out and I finally get my hands on a copy. I am excited and can&amp;#8217;t wait to see all the new and improved things the game has to offer. Installing it was a bit of a pain, my desktop is old and slow so it took a while for it to complete, especially since my computer froze midway. Once it was complete, I started the game, watched the movie that sets up the game and its context, quit and went to bed&amp;#8230; I said what? Yes you read it correctly, I quit and went to bed. The acting in the movie was silly, kind of funny but still ridiculous. I did start the first mission but after the first look at the graphics and everything else, I started understanding why some people were saying that it is a disappointment.&lt;/p&gt;
-&lt;p&gt;After so many years, I expected a lot of this game. I expected it to be yet another &amp;#8220;greatest game ever&amp;#8221; but I didn&amp;#8217;t get that feeling. I played a few missions and the reaction to them is: &amp;#8216;eh&amp;#8230;nothing special&amp;#8217; and my brother and I did try the &amp;#8216;Versus&amp;#8217; game mode on our &lt;span class=&quot;caps&quot;&gt;LAN&lt;/span&gt;. We first tried it against each other and then teamed up against two computer bots. That was a bit interesting, we had the computer at the medium level and we kept and running out of money and then attacked immediately. By the time I got to build my Ore refineries I would be virtually out of money and then would have to wait to be able to get some troops, but by then I would be already under attack. We then tried it under easy, and that was just too easy. By the time I built up my defenses expecting a quick attack, my brother had a mini army and managed to defeat the first computer player and soon after we killed off the second one.&lt;/p&gt;
-&lt;p&gt;This is definitely going down the disappointment path, but hopefully there campaign will have an amusing plot and will make it worth the time. After all this time and the previous releases, it is a shame that Red Alert 3 does not reflect the same brilliance as its predecessors.&lt;/p&gt;</content>
+
+
+	&lt;p&gt;Fast forward 12 years, Red Alert 2 and a couple of expansion packs later, and it is still one of the best games I have ever played on the PC. Probably only second to Max Payne. It&amp;#8217;s 2008 and Red Alert 3 comes out and I finally get my hands on a copy. I am excited and can&amp;#8217;t wait to see all the new and improved things the game has to offer. Installing it was a bit of a pain, my desktop is old and slow so it took a while for it to complete, especially since my computer froze midway. Once it was complete, I started the game, watched the movie that sets up the game and its context, quit and went to bed&amp;#8230; I said what? Yes you read it correctly, I quit and went to bed. The acting in the movie was silly, kind of funny but still ridiculous. I did start the first mission but after the first look at the graphics and everything else, I started understanding why some people were saying that it is a disappointment.&lt;/p&gt;
+
+
+	&lt;p&gt;After so many years, I expected a lot of this game. I expected it to be yet another &amp;#8220;greatest game ever&amp;#8221; but I didn&amp;#8217;t get that feeling. I played a few missions and the reaction to them is: &amp;#8216;eh&amp;#8230;nothing special&amp;#8217; and my brother and I did try the &amp;#8216;Versus&amp;#8217; game mode on our &lt;span class=&quot;caps&quot;&gt;LAN&lt;/span&gt;. We first tried it against each other and then teamed up against two computer bots. That was a bit interesting, we had the computer at the medium level and we kept and running out of money and then attacked immediately. By the time I got to build my Ore refineries I would be virtually out of money and then would have to wait to be able to get some troops, but by then I would be already under attack. We then tried it under easy, and that was just too easy. By the time I built up my defenses expecting a quick attack, my brother had a mini army and managed to defeat the first computer player and soon after we killed off the second one.&lt;/p&gt;
+
+
+	&lt;p&gt;This is definitely going down the disappointment path, but hopefully there campaign will have an amusing plot and will make it worth the time. After all this time and the previous releases, it is a shame that Red Alert 3 does not reflect the same brilliance as its predecessors.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -201,17 +334,23 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
    <updated>2008-10-28T00:00:00-04:00</updated>
    <id>http://www.youhhoo.com/technology/2008/10/28/rails-rumble-08</id>
    <content type="html">&lt;p&gt;This post is long overdue, but here it goes anyway!&lt;/p&gt;
-&lt;p&gt;Rails Rumble is a new competition set up to promote the Rails framework and Rails development. The competition consists of teams (of 1 to 4 developers) building a Rails application in 48 hours from scratch. Some teams consist of strictly developers and others have a combination of developers and designers. The goal is to develop a mini web app that is functional, useful and presentable in 48 hours to show the awesomeness of Agile development in Rails. I participated in this competition along with 3 other coworkers from OpenSource Connections in the 08 Rumble that took place on the weekend of October the 18th (the start time was 12:00 AM &lt;span class=&quot;caps&quot;&gt;GMT&lt;/span&gt; 10/08/08 and the end time was 12:00 AM &lt;span class=&quot;caps&quot;&gt;GMT&lt;/span&gt; 10/20/08).&lt;/p&gt;
-&lt;p&gt;My team was struggling to come up with an idea for our application and through discussions about hiking and logging trails and Google Maps we decided to build a treasure hunt application that used latitude and longitude coordinates to place or &amp;#8220;hide&amp;#8221; treasures on a map and then the players or &amp;#8220;hunters&amp;#8221; would have to figure out those coordinates (with some proximity factored in) to unlock the treasure and get the next clue. Each treasure has points associated with it and the team or individual that accumulates the most points wins (usually by solving all the clues). We envisioned the process to use handheld &lt;span class=&quot;caps&quot;&gt;GPS&lt;/span&gt; systems or iPhones or any tool that allows a person to determine her current position or web tools to be able to figure out the coordinates of the different treasures in the hunt. We included a text messaging system that makes it possible to use the application through a mobile phone, allowing users to participate in a treasure hunt without relying on an internet connection (except for signing up). We also added a feature that we called the &amp;#8220;key&amp;#8221; which is an alternative for the coordinates and it is basically a pass-phrase that can be associated with a treasure and would be placed at its location that a hunter can use instead of the coordinates to unlock the next clue.&lt;/p&gt;
-&lt;p&gt;The application is currently in a beta version, all the features that were described were implemented during the 48 hours but we hope to add more once the voting is over for the competition. There are small bugs or changes that we would also like to implement before a full release. You can still check it out at &lt;a href=&quot;http://osc.r08.railsrumble.com&quot; target=&quot;_blank&quot;&gt;http://osc.r08.railsrumble.com&lt;/a&gt;. Also check out one of my teammates&amp;#8217; blog post about it: &lt;a title=&quot;Arin's post&quot; href=&quot;http://www.opensourceconnections.com/2008/10/21/azimuth-treasure-hunt-app-release-the-hounds/&quot; target=&quot;_blank&quot;&gt;Arin&amp;#8217;s post &lt;/a&gt;and pictures at: &lt;a title=&quot;flickr pool&quot; href=&quot;http://www.flickr.com/photos/gfairbrother/2959717411/in/pool-railsrumble2008/&quot; target=&quot;_blank&quot;&gt;flickr pool&lt;/a&gt;&lt;/p&gt;</content>
+
+
+	&lt;p&gt;Rails Rumble is a new competition set up to promote the Rails framework and Rails development. The competition consists of teams (of 1 to 4 developers) building a Rails application in 48 hours from scratch. Some teams consist of strictly developers and others have a combination of developers and designers. The goal is to develop a mini web app that is functional, useful and presentable in 48 hours to show the awesomeness of Agile development in Rails. I participated in this competition along with 3 other coworkers from OpenSource Connections in the 08 Rumble that took place on the weekend of October the 18th (the start time was 12:00 &lt;span class=&quot;caps&quot;&gt;AM GMT 10&lt;/span&gt;/08/08 and the end time was 12:00 &lt;span class=&quot;caps&quot;&gt;AM GMT 10&lt;/span&gt;/20/08).&lt;/p&gt;
+
+
+	&lt;p&gt;My team was struggling to come up with an idea for our application and through discussions about hiking and logging trails and Google Maps we decided to build a treasure hunt application that used latitude and longitude coordinates to place or &amp;#8220;hide&amp;#8221; treasures on a map and then the players or &amp;#8220;hunters&amp;#8221; would have to figure out those coordinates (with some proximity factored in) to unlock the treasure and get the next clue. Each treasure has points associated with it and the team or individual that accumulates the most points wins (usually by solving all the clues). We envisioned the process to use handheld &lt;span class=&quot;caps&quot;&gt;GPS&lt;/span&gt; systems or iPhones or any tool that allows a person to determine her current position or web tools to be able to figure out the coordinates of the different treasures in the hunt. We included a text messaging system that makes it possible to use the application through a mobile phone, allowing users to participate in a treasure hunt without relying on an internet connection (except for signing up). We also added a feature that we called the &amp;#8220;key&amp;#8221; which is an alternative for the coordinates and it is basically a pass-phrase that can be associated with a treasure and would be placed at its location that a hunter can use instead of the coordinates to unlock the next clue.&lt;/p&gt;
+
+
+	&lt;p&gt;The application is currently in a beta version, all the features that were described were implemented during the 48 hours but we hope to add more once the voting is over for the competition. There are small bugs or changes that we would also like to implement before a full release. You can still check it out at &lt;a href=&quot;http://osc.r08.railsrumble.com&quot; target=&quot;_blank&quot;&gt;http://osc.r08.railsrumble.com&lt;/a&gt;. Also check out one of my teammates&amp;#8217; blog post about it: &lt;a title=&quot;Arin's post&quot; href=&quot;http://www.opensourceconnections.com/2008/10/21/azimuth-treasure-hunt-app-release-the-hounds/&quot; target=&quot;_blank&quot;&gt;Arin&amp;#8217;s post &lt;/a&gt;and pictures at: &lt;a title=&quot;flickr pool&quot; href=&quot;http://www.flickr.com/photos/gfairbrother/2959717411/in/pool-railsrumble2008/&quot; target=&quot;_blank&quot;&gt;flickr pool&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>Lebanon and the Internet?</title>
-   <link href="http://www.youhhoo.com/opinion/social/technology/2008/10/28/lebanon-and-the-internet.html"/>
+   <link href="http://www.youhhoo.com/social/opinion/technology/2008/10/28/lebanon-and-the-internet.html"/>
    <updated>2008-10-28T00:00:00-04:00</updated>
-   <id>http://www.youhhoo.com/opinion/social/technology/2008/10/28/lebanon-and-the-internet</id>
-   <content type="html">&lt;p&gt;There has been a lot of discussion at my work about introducing to the US government the &lt;span class=&quot;caps&quot;&gt;WEB&lt;/span&gt; 3.0 technologies. This got me thinking about how Lebanon is represented on the web and it seems to me that every arabic website was made on a Windows 3.1 machine using basic &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; and Crayons (&lt;a href=&quot;http://www.crayola.com/&quot;&gt;http://www.crayola.com/&lt;/a&gt;), i.e. by a two-year old!!! Not even &lt;span class=&quot;caps&quot;&gt;WEB&lt;/span&gt; 0.1!?!?!?! I do not claim to build &amp;#8220;beautiful&amp;#8221; things, but at least I am assured that when I create a sign up page that requires you to activate your account from your email you actually get that email instead of a smtp error page (example: &lt;a href=&quot;http://www.divx4arab.com/&quot;&gt;http://www.divx4arab.com/&lt;/a&gt;) or an error page even before you are able to attempt to sign up (example: &lt;a href=&quot;http://www.arabfilms.org/signup.php&quot;&gt;http://www.arabfilms.org/signup.php&lt;/a&gt;). That&amp;#8217;s of course regardless of the cluttered page full of ads for all sorts of random things (including the couple pornographic ads that have become a regular for some of these sites!). I can never find anything I am looking for at a website oriented for the arab community. This is specially true for Lebanese sites like &lt;a href=&quot;http://www.lebanon.com/&quot;&gt;http://www.lebanon.com/&lt;/a&gt; which was last redesigned in 1995. That page is so long and full of moving objects and pictures that my eyes hurt before I can find even a hint of something resembling what I am trying to find. The sad part is that I can not blame the site admin for all these faults, the poor guy is getting paid about 350,000.00 L.L. a month which amounts to about 1,000.00 L.L. an hour (or $0.66), that&amp;#8217;s just enough for the sandwich he orders for lunch during his working hours. Unfortunately this is not the cause but a symptom of the actual causes which range from &amp;#8220;Nobody cares&amp;#8221; to &amp;#8220;Internet connections in Lebanon are so slow, people can&amp;#8217;t even open these pages to care&amp;#8221; to &amp;#8220;We have other things to worry about that are more important&amp;#8221;. Most of these causes stem from the current mentality and situation in the country so they are somewhat justifiable. Unfortunately, the country does need a makeover of its image for it to survive and luckily Lebanese expatriates care enough about it and are large in numbers that a few have decided to make their own little project to create web portals about Lebanon and for Lebanese people. I just have not been satisfied with any, or maybe don&amp;#8217;t even know about most of these projects. I have therefore decided to start my own, but I am struggling to figure out the scope, the content, the target demographics&amp;#8230;So this is my call for help from anyone who has the slightest inclination towards a better future for this small but beloved country!&lt;/p&gt;</content>
+   <id>http://www.youhhoo.com/social/opinion/technology/2008/10/28/lebanon-and-the-internet</id>
+   <content type="html">&lt;p&gt;There has been a lot of discussion at my work about introducing to the US government the &lt;span class=&quot;caps&quot;&gt;WEB 3&lt;/span&gt;.0 technologies. This got me thinking about how Lebanon is represented on the web and it seems to me that every arabic website was made on a Windows 3.1 machine using basic &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; and Crayons (&lt;a href=&quot;http://www.crayola.com/&quot;&gt;http://www.crayola.com/&lt;/a&gt;), i.e. by a two-year old!!! Not even &lt;span class=&quot;caps&quot;&gt;WEB 0&lt;/span&gt;.1&lt;img src=&quot;?&quot; alt=&quot;&quot; /&gt;?&lt;img src=&quot;?&quot; alt=&quot;&quot; /&gt; I do not claim to build &amp;#8220;beautiful&amp;#8221; things, but at least I am assured that when I create a sign up page that requires you to activate your account from your email you actually get that email instead of a smtp error page (example: &lt;a href=&quot;http://www.divx4arab.com/&quot;&gt;http://www.divx4arab.com/&lt;/a&gt;) or an error page even before you are able to attempt to sign up (example: &lt;a href=&quot;http://www.arabfilms.org/signup.php&quot;&gt;http://www.arabfilms.org/signup.php&lt;/a&gt;). That&amp;#8217;s of course regardless of the cluttered page full of ads for all sorts of random things (including the couple pornographic ads that have become a regular for some of these sites!). I can never find anything I am looking for at a website oriented for the arab community. This is specially true for Lebanese sites like &lt;a href=&quot;http://www.lebanon.com/&quot;&gt;http://www.lebanon.com/&lt;/a&gt; which was last redesigned in 1995. That page is so long and full of moving objects and pictures that my eyes hurt before I can find even a hint of something resembling what I am trying to find. The sad part is that I can not blame the site admin for all these faults, the poor guy is getting paid about 350,000.00 L.L. a month which amounts to about 1,000.00 L.L. an hour (or $0.66), that&amp;#8217;s just enough for the sandwich he orders for lunch during his working hours. Unfortunately this is not the cause but a symptom of the actual causes which range from &amp;#8220;Nobody cares&amp;#8221; to &amp;#8220;Internet connections in Lebanon are so slow, people can&amp;#8217;t even open these pages to care&amp;#8221; to &amp;#8220;We have other things to worry about that are more important&amp;#8221;. Most of these causes stem from the current mentality and situation in the country so they are somewhat justifiable. Unfortunately, the country does need a makeover of its image for it to survive and luckily Lebanese expatriates care enough about it and are large in numbers that a few have decided to make their own little project to create web portals about Lebanon and for Lebanese people. I just have not been satisfied with any, or maybe don&amp;#8217;t even know about most of these projects. I have therefore decided to start my own, but I am struggling to figure out the scope, the content, the target demographics&amp;#8230;So this is my call for help from anyone who has the slightest inclination towards a better future for this small but beloved country!&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -220,38 +359,66 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
    <updated>2008-09-23T00:00:00-04:00</updated>
    <id>http://www.youhhoo.com/technology/2008/09/23/i-will-paginate-and-then-some</id>
    <content type="html">&lt;p&gt;The best part about using an open source technology is the contribution from the community. Many of us look for the same basic functionality out of what were are developing, and one of those functionality is pagination. In a framework like RoR we do not have to worry about re-inventing the wheel. That&amp;#8217;s where cool plugins like &lt;a href=&quot;github.com/mislav/will_paginate/wikis&quot; target=&quot;_blank&quot;&gt;will_paginate&lt;/a&gt; make a developer&amp;#8217;s life so much easier. This plugin allows you to limit the number of objects you display per page and add the little toolbar at the end that allows the user to navigate through the pages. All of that is done by just adding one line of code.&lt;/p&gt;
-&lt;p&gt;The website for the plugin list 4 methods to install and use the plugin:&lt;/p&gt;
-&lt;ul&gt;
+
+
+	&lt;p&gt;The website for the plugin list 4 methods to install and use the plugin:&lt;/p&gt;
+
+
+	&lt;ul&gt;
 	&lt;li&gt;use the gem (recommended);&lt;/li&gt;
-	&lt;li&gt;install as Rails plugin using git;&lt;/li&gt;
-	&lt;li&gt;download tarballs;&lt;/li&gt;
-	&lt;li&gt;export from &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SVN&lt;/span&gt;&lt;/span&gt; (obsolete, strongly discouraged).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I have used will_paginate in other projects and installing it as a gem worked very well and here&amp;#8217;s the few things I have deducted from my experience with it:&lt;/p&gt;
-&lt;p&gt;Pros:&lt;/p&gt;
-&lt;ul&gt;
+		&lt;li&gt;install as Rails plugin using git;&lt;/li&gt;
+		&lt;li&gt;download tarballs;&lt;/li&gt;
+		&lt;li&gt;export from &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SVN&lt;/span&gt;&lt;/span&gt; (obsolete, strongly discouraged).&lt;/li&gt;
+	&lt;/ul&gt;
+
+
+	&lt;p&gt;I have used will_paginate in other projects and installing it as a gem worked very well and here&amp;#8217;s the few things I have deducted from my experience with it:&lt;/p&gt;
+
+
+	&lt;p&gt;Pros:&lt;/p&gt;
+
+
+	&lt;ul&gt;
 	&lt;li&gt;less files to carry with the app&lt;/li&gt;
-	&lt;li&gt;installs as a gem&lt;/li&gt;
-	&lt;li&gt;a check can be added in the config.rb file to make sure that the gem exists in the environment and gives a warning when deploying&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Cons:&lt;/p&gt;
-&lt;ul&gt;
+		&lt;li&gt;installs as a gem&lt;/li&gt;
+		&lt;li&gt;a check can be added in the config.rb file to make sure that the gem exists in the environment and gives a warning when deploying&lt;/li&gt;
+	&lt;/ul&gt;
+
+
+	&lt;p&gt;Cons:&lt;/p&gt;
+
+
+	&lt;ul&gt;
 	&lt;li&gt;Dependent on the server environment and the assumption that the developer has full access to it and has permissions to install it&lt;/li&gt;
-	&lt;li&gt;take a long time to install and update the gem&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;on the other hand, when I was trying to use it for this site, I ran into a couple of problems getting it to work and one of the reason is me not having the ability to install the gem on the servers the site is hosted on. So I went with plan B and installed it as a Rails plugin and here&amp;#8217;s what I think of that:&lt;/p&gt;
-&lt;p&gt;Pros:&lt;/p&gt;
-&lt;ul&gt;
+		&lt;li&gt;take a long time to install and update the gem&lt;/li&gt;
+	&lt;/ul&gt;
+
+
+	&lt;p&gt;on the other hand, when I was trying to use it for this site, I ran into a couple of problems getting it to work and one of the reason is me not having the ability to install the gem on the servers the site is hosted on. So I went with plan B and installed it as a Rails plugin and here&amp;#8217;s what I think of that:&lt;/p&gt;
+
+
+	&lt;p&gt;Pros:&lt;/p&gt;
+
+
+	&lt;ul&gt;
 	&lt;li&gt;installs very very fast&lt;/li&gt;
-	&lt;li&gt;developer does not have to worry about the server environment&lt;/li&gt;
-	&lt;li&gt;do not have to worry about updates and changes&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Cons:&lt;/p&gt;
-&lt;ul&gt;
+		&lt;li&gt;developer does not have to worry about the server environment&lt;/li&gt;
+		&lt;li&gt;do not have to worry about updates and changes&lt;/li&gt;
+	&lt;/ul&gt;
+
+
+	&lt;p&gt;Cons:&lt;/p&gt;
+
+
+	&lt;ul&gt;
 	&lt;li&gt;you have to commit one giant plugin with the app (but that is only done once)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The differences between the two methods are that drastic to make one better than the other and have me recommend it to everyone else. I did get in the habit of vendoring rails and I do like to have everything my application is dependent on in one place. That is why I tend to prefer the plugin way over the gem way.&lt;/p&gt;
-&lt;p&gt;For my &lt;a href=&quot;http://www.youhhoo.com&quot;&gt;site&lt;/a&gt; I used will_paginate to enhance how I display albums and images, you should &lt;a href=&quot;http://site.youhhoo.com/albums/display&quot;&gt;check&lt;/a&gt; them out.&lt;/p&gt;</content>
+	&lt;/ul&gt;
+
+
+	&lt;p&gt;The differences between the two methods are that drastic to make one better than the other and have me recommend it to everyone else. I did get in the habit of vendoring rails and I do like to have everything my application is dependent on in one place. That is why I tend to prefer the plugin way over the gem way.&lt;/p&gt;
+
+
+	&lt;p&gt;For my &lt;a href=&quot;http://www.youhhoo.com&quot;&gt;site&lt;/a&gt; I used will_paginate to enhance how I display albums and images, you should &lt;a href=&quot;http://site.youhhoo.com/albums/display&quot;&gt;check&lt;/a&gt; them out.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -260,15 +427,33 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
    <updated>2008-09-08T00:00:00-04:00</updated>
    <id>http://www.youhhoo.com/technology/2008/09/08/ror-triumph</id>
    <content type="html">&lt;p&gt;Ruby on Rails is magical, if you&amp;#8217;ve worked with it before you know what I mean. Building my own website is a little experiment and exercise that I wanted to take on to utilize Ruby on Rails. The site as it stands is simple and does not seem like a good candidate for RoR. The idea for me was to develop something easy and deploy it to gain the experience in actually deploying a Rails app. To make it interesting, I created a way to post messages on the front page remotely by simply signing in and filling the message form. This takes away the pain of actually modifying the &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; code every time I need to post a message. This is not fancy by any means, but it does the job. And now that I have something setup it becomes easy to add new features as the site grows.&lt;/p&gt;
-&lt;p&gt;Deploying the new site was not easy. The simplest things are never easy! I&lt;/p&gt;
-&lt;p&gt;I am hosting my site on DreamHost and they seem to have a good offering. They do support Ruby on Rails which is very good and important! They also have a very helpful support wiki that was crucial for me to be able to successfully deploy the site. The following links were the guides that I used:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://wiki.dreamhost.com/Ruby_on_Rails&quot;&gt;http://wiki.dreamhost.com/Ruby_on_Rails&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://wiki.dreamhost.com/Capistrano&quot;&gt;http://wiki.dreamhost.com/Capistrano&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;and it is very important to pay attention to every step and executing it precisely as mentioned on the wiki. If you don&amp;#8217;t , you&amp;#8217;ll find yourself repeating the process multiple times because of some stupid thing that you left out. The biggest problem i faced was the following error:&lt;/p&gt;
-&lt;p&gt;FastCGI: incomplete headers (0 bytes) received from server&lt;/p&gt;
-&lt;p&gt;and if you &amp;#8220;google&amp;#8221; it you will get many results. It seems to be a common problem. The solution to it though is not always the same, the error message is generic for more than just one error. The article that I read suggested a few solutions, the one that worked for me was the ruby environment path. I had the wrong path in the dispatch.* files. It serves well to run &amp;#8216;ruby which&amp;#8217; and get the correct path because it might vary from one case to the other. So I refreshed the page after I was done and success! It worked and I could let out a sigh of relief. A few hours later I wanted to play around with my new &amp;#8220;baby&amp;#8221; but it was not working , &lt;span class=&quot;caps&quot;&gt;AGAIN&lt;/span&gt;! It was late at night and I was frustrated because I had been working on it for the entire day, so I left it as is and decided not to work on it until the next day.&lt;/p&gt;
-&lt;p&gt;I spent hours and hours the next morning trying to figure out what the problem was in vein. I was about to give up until I got the &lt;span class=&quot;caps&quot;&gt;GENIUS&lt;/span&gt; idea of contacting the DreamHost support. I told them what my problem was and amazingly they got back to me within an hour or two with the problem solved. It turned out that duplicate Apache service entries were running and creating confusion. Just to be safe, I ran my own script that hits the page multiple times and returns the time the task took and creates a log file. I let that scrip run for a while and results looked good.&lt;/p&gt;
-&lt;p&gt;It took me 3 days to create the &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; version for the site, most of it spent on the background image. Then it took me another day to migrate what I had to RoR and one more day to redeploy and get everything running. It was a great experience for me and next time should be much easier!&lt;/p&gt;</content>
+
+
+	&lt;p&gt;Deploying the new site was not easy. The simplest things are never easy! I&lt;/p&gt;
+
+
+	&lt;p&gt;I am hosting my site on DreamHost and they seem to have a good offering. They do support Ruby on Rails which is very good and important! They also have a very helpful support wiki that was crucial for me to be able to successfully deploy the site. The following links were the guides that I used:&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;a href=&quot;http://wiki.dreamhost.com/Ruby_on_Rails&quot;&gt;http://wiki.dreamhost.com/Ruby_on_Rails&lt;/a&gt;&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;a href=&quot;http://wiki.dreamhost.com/Capistrano&quot;&gt;http://wiki.dreamhost.com/Capistrano&lt;/a&gt;&lt;/p&gt;
+
+
+	&lt;p&gt;and it is very important to pay attention to every step and executing it precisely as mentioned on the wiki. If you don&amp;#8217;t , you&amp;#8217;ll find yourself repeating the process multiple times because of some stupid thing that you left out. The biggest problem i faced was the following error:&lt;/p&gt;
+
+
+	&lt;p&gt;FastCGI: incomplete headers (0 bytes) received from server&lt;/p&gt;
+
+
+	&lt;p&gt;and if you &amp;#8220;google&amp;#8221; it you will get many results. It seems to be a common problem. The solution to it though is not always the same, the error message is generic for more than just one error. The article that I read suggested a few solutions, the one that worked for me was the ruby environment path. I had the wrong path in the dispatch.* files. It serves well to run &amp;#8216;ruby which&amp;#8217; and get the correct path because it might vary from one case to the other. So I refreshed the page after I was done and success! It worked and I could let out a sigh of relief. A few hours later I wanted to play around with my new &amp;#8220;baby&amp;#8221; but it was not working , &lt;span class=&quot;caps&quot;&gt;AGAIN&lt;/span&gt;! It was late at night and I was frustrated because I had been working on it for the entire day, so I left it as is and decided not to work on it until the next day.&lt;/p&gt;
+
+
+	&lt;p&gt;I spent hours and hours the next morning trying to figure out what the problem was in vein. I was about to give up until I got the &lt;span class=&quot;caps&quot;&gt;GENIUS&lt;/span&gt; idea of contacting the DreamHost support. I told them what my problem was and amazingly they got back to me within an hour or two with the problem solved. It turned out that duplicate Apache service entries were running and creating confusion. Just to be safe, I ran my own script that hits the page multiple times and returns the time the task took and creates a log file. I let that scrip run for a while and results looked good.&lt;/p&gt;
+
+
+	&lt;p&gt;It took me 3 days to create the &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; version for the site, most of it spent on the background image. Then it took me another day to migrate what I had to RoR and one more day to redeploy and get everything running. It was a great experience for me and next time should be much easier!&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -276,20 +461,30 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
    <link href="http://www.youhhoo.com/gaming/2008/08/14/gaming.html"/>
    <updated>2008-08-14T00:00:00-04:00</updated>
    <id>http://www.youhhoo.com/gaming/2008/08/14/gaming</id>
-   <content type="html">&lt;p&gt;I finished a game! I repeat, I &lt;span class=&quot;caps&quot;&gt;FINISHED&lt;/span&gt; a video game! it has been very very long since the last time I played a video game from start to finish. School did not come in the way. I did not reach a point where I got stuck and lost interest in the game. The game wasn&amp;#8217;t too long and boring. My computer did not crash and I lost all saved games. No, none of that. I actually finished an entire game by myself. No cheats, no walk-throughs, nothing. It&amp;#8217;s been an estranged feeling for a long time, and it&amp;#8217;s good to be back.&lt;/p&gt;
-&lt;p&gt;If you are wondering about the game, don&amp;#8217;t get your hopes up too high. It&amp;#8217;s not one of the most anticipated games of the year. It&amp;#8217;s just Rainbow Six&amp;#8217;s Vegas 2. It&amp;#8217;s a Tom Clancy game, which makes it good by default, but it&amp;#8217;s not GTA4 nor is it Assassin&amp;#8217;s Creed or Halo 3. But all of that is on the way. I&amp;#8217;ve got my Xbox 360, I have my copy of Halo 3 which I have not opened yet, and my copy of GTA4. I already started GTA4 and plan on finishing what I started. So watch out for a future post on that one.&lt;/p&gt;
-&lt;p&gt;My brother is a huge Halo fan and will be moving in with me in the next week. So as a moving in gift and celebration we will be co-oping Halo 3, another blog post topic to look for. He&amp;#8217;s been waiting for this moment for a long time and I have been waiting to get back into the gaming world for more than 4 years now. It&amp;#8217;s about time!&lt;/p&gt;
-&lt;p&gt;Wow, it feels great&amp;#8230;&lt;/p&gt;</content>
+   <content type="html">&lt;p&gt;I finished a game! I repeat, &lt;span class=&quot;caps&quot;&gt;I FINISHED&lt;/span&gt; a video game! it has been very very long since the last time I played a video game from start to finish. School did not come in the way. I did not reach a point where I got stuck and lost interest in the game. The game wasn&amp;#8217;t too long and boring. My computer did not crash and I lost all saved games. No, none of that. I actually finished an entire game by myself. No cheats, no walk-throughs, nothing. It&amp;#8217;s been an estranged feeling for a long time, and it&amp;#8217;s good to be back.&lt;/p&gt;
+
+
+	&lt;p&gt;If you are wondering about the game, don&amp;#8217;t get your hopes up too high. It&amp;#8217;s not one of the most anticipated games of the year. It&amp;#8217;s just Rainbow Six&amp;#8217;s Vegas 2. It&amp;#8217;s a Tom Clancy game, which makes it good by default, but it&amp;#8217;s not &lt;span class=&quot;caps&quot;&gt;GTA4&lt;/span&gt; nor is it Assassin&amp;#8217;s Creed or Halo 3. But all of that is on the way. I&amp;#8217;ve got my Xbox 360, I have my copy of Halo 3 which I have not opened yet, and my copy of &lt;span class=&quot;caps&quot;&gt;GTA4&lt;/span&gt;. I already started &lt;span class=&quot;caps&quot;&gt;GTA4&lt;/span&gt; and plan on finishing what I started. So watch out for a future post on that one.&lt;/p&gt;
+
+
+	&lt;p&gt;My brother is a huge Halo fan and will be moving in with me in the next week. So as a moving in gift and celebration we will be co-oping Halo 3, another blog post topic to look for. He&amp;#8217;s been waiting for this moment for a long time and I have been waiting to get back into the gaming world for more than 4 years now. It&amp;#8217;s about time!&lt;/p&gt;
+
+
+	&lt;p&gt;Wow, it feels great&amp;#8230;&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>2008 Summer Olympics Opening Ceremony</title>
-   <link href="http://www.youhhoo.com/opinion/political/social/2008/08/08/2008-summer-olympics-opening-ceremony.html"/>
+   <link href="http://www.youhhoo.com/political/social/opinion/2008/08/08/2008-summer-olympics-opening-ceremony.html"/>
    <updated>2008-08-08T00:00:00-04:00</updated>
-   <id>http://www.youhhoo.com/opinion/political/social/2008/08/08/2008-summer-olympics-opening-ceremony</id>
+   <id>http://www.youhhoo.com/political/social/opinion/2008/08/08/2008-summer-olympics-opening-ceremony</id>
    <content type="html">&lt;p&gt;Everyone who watched the opening ceremony of the 2008 summer Olympics in Beijing, saw the grandiosity of the event. I had many &amp;#8220;Holy crap!&amp;#8221; moments myself. It was a huge display of art, technology and precision. No doubt about that. China is famous for fireworks, they had that. It&amp;#8217;s also known for its recent and rapid development in technology, we definitely saw that as well. As the commentator on &lt;span class=&quot;caps&quot;&gt;NBC&lt;/span&gt; said: &amp;#8220;there are issues and controversies surrounding these games but no one can dispute the quality of this display&amp;#8221;&lt;/p&gt;
-&lt;p&gt;My favorite part by far was the Tai Chi part. I am a big fan of martial arts and have taken a few weeks of Tai Chi so I really appreciate demonstrations of this art. The first part of the act was very typical Tai Chi, I even recognized some of the moves! Then they introduced kids in the middle and the commentator said something that got my attention. I&amp;#8217;ll get to that in a minute. Then all of the sudden there were 2008 Tai Chi martial artists. 2008! The performance was accurate and the movements were very precise. Basically it was &lt;span class=&quot;caps&quot;&gt;GOOD&lt;/span&gt; and I loved it.&lt;/p&gt;
-&lt;p&gt;So I mentioned the comment made by the &lt;span class=&quot;caps&quot;&gt;NBC&lt;/span&gt; caster. From the opening moments of the ceremony the first thought that came to my mind was &amp;#8220;what will the energy bill of this event be?&amp;#8221; No I&amp;#8217;m not worried if China has the money for it, but I was referring to the actual toll on the environment. I know it&amp;#8217;s a bit cheesy, but I have written a white paper and a thesis on the subject of environmentally responsible technology. So it has become natural to me to think about it every time a big display of electronics is used and I see massive use of energy.  What is most interesting is that the  commentator stated that the the designer of the show intended the kids in the act to be a reminder of the impact of energy use on the world and on the future of the generations to come. It is ironic to have a display that consumes so much energy to raise awareness about energy consumption in the world. It just doesn&amp;#8217;t seem right! But of course China had to start the events with a big bang.&lt;/p&gt;</content>
+
+
+	&lt;p&gt;My favorite part by far was the Tai Chi part. I am a big fan of martial arts and have taken a few weeks of Tai Chi so I really appreciate demonstrations of this art. The first part of the act was very typical Tai Chi, I even recognized some of the moves! Then they introduced kids in the middle and the commentator said something that got my attention. I&amp;#8217;ll get to that in a minute. Then all of the sudden there were 2008 Tai Chi martial artists. 2008! The performance was accurate and the movements were very precise. Basically it was &lt;span class=&quot;caps&quot;&gt;GOOD&lt;/span&gt; and I loved it.&lt;/p&gt;
+
+
+	&lt;p&gt;So I mentioned the comment made by the &lt;span class=&quot;caps&quot;&gt;NBC&lt;/span&gt; caster. From the opening moments of the ceremony the first thought that came to my mind was &amp;#8220;what will the energy bill of this event be?&amp;#8221; No I&amp;#8217;m not worried if China has the money for it, but I was referring to the actual toll on the environment. I know it&amp;#8217;s a bit cheesy, but I have written a white paper and a thesis on the subject of environmentally responsible technology. So it has become natural to me to think about it every time a big display of electronics is used and I see massive use of energy.  What is most interesting is that the  commentator stated that the the designer of the show intended the kids in the act to be a reminder of the impact of energy use on the world and on the future of the generations to come. It is ironic to have a display that consumes so much energy to raise awareness about energy consumption in the world. It just doesn&amp;#8217;t seem right! But of course China had to start the events with a big bang.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -297,67 +492,99 @@ Learn to be a good citizen, an educated person, a true Lebanese.&lt;/p&gt;
    <link href="http://www.youhhoo.com/site/2008/08/05/hello-from-a-new-place.html"/>
    <updated>2008-08-05T00:00:00-04:00</updated>
    <id>http://www.youhhoo.com/site/2008/08/05/hello-from-a-new-place</id>
-   <content type="html">&lt;p&gt;I decided to go ahead and get myself a domain so I resisted and got my own site:&lt;br /&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://www.youhhoo.com/&quot;&gt;http://www.youhhoo.com&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;Of course I did not get what I waned which was youhoo.com (one less h) but apparently Yahoo owns it and just displays a &amp;#8220;Page Not Found&amp;#8221; type of thing. That sucks!&lt;/p&gt;
-&lt;p&gt;Anyway, &lt;span class=&quot;caps&quot;&gt;WELCOME&lt;/span&gt; to my new home. :D&lt;/p&gt;</content>
+   <content type="html">I decided to go ahead and get myself a domain so I resisted and got my own site:
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://www.youhhoo.com/&quot;&gt;http://www.youhhoo.com&lt;/a&gt;&lt;/p&gt;
+
+	&lt;p&gt;Of course I did not get what I waned which was youhoo.com (one less h) but apparently Yahoo owns it and just displays a &amp;#8220;Page Not Found&amp;#8221; type of thing. That sucks!&lt;/p&gt;
+
+
+	&lt;p&gt;Anyway, &lt;span class=&quot;caps&quot;&gt;WELCOME&lt;/span&gt; to my new home. :D&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>Lebanon in the Media</title>
-   <link href="http://www.youhhoo.com/opinion/social/2008/07/31/lebanon-in-the-media.html"/>
+   <link href="http://www.youhhoo.com/social/opinion/2008/07/31/lebanon-in-the-media.html"/>
    <updated>2008-07-31T00:00:00-04:00</updated>
-   <id>http://www.youhhoo.com/opinion/social/2008/07/31/lebanon-in-the-media</id>
+   <id>http://www.youhhoo.com/social/opinion/2008/07/31/lebanon-in-the-media</id>
    <content type="html">&lt;p&gt;I was watching &lt;a href=&quot;http://www.imdb.com/title/tt0936501/&quot; target=&quot;_blank&quot;&gt;Taken&lt;/a&gt; last night and it is about this former government agent whose daughter gets kidnapped. In one of the first scenes his other former government agent bodies come to visit and they are playing poker and reminiscing about the good old days. It just happened that all they could remember was when they were in &amp;#8230; wait for it&amp;#8230; I&amp;#8217;ll let you guess&amp;#8230;Lebanon. And immediately the thought came to my head, Lebanon must be one of the most referenced foreign countries in entertainment (movies, songs, etc) after France for its romance. Of course the moment I thought of that they mentioned France and later on the daughter goes to France and gets kidnapped. I will not spoil the movie for anyone but there is a point I want to make and this piece of information is part of it.&lt;/p&gt;
-&lt;p&gt;First let us revisit instances where Lebanon was mentioned or referenced. One of my earliest memories of such a thing is when listening to &lt;i&gt;Dr. Dre&lt;/i&gt;&amp;#8216;s album 2001 and the song &lt;i&gt;Light Speed&lt;/i&gt; came on and Hitman&amp;#8217;s verse started and at I was a bit struggling to try and understand what he was saying and then one of things he said just ringed in my ear and I had to rewind.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;#8230;&lt;br /&gt;
-Totin Austrian firearms that&amp;#8217;s made out of plastic&lt;br /&gt;
-In these drastic surroundings, it be sounding like&lt;br /&gt;
-Lebanon, makin fools &amp;#8220;&lt;span class=&quot;caps&quot;&gt;RETREAT&lt;/span&gt;!&amp;#8221; like&lt;br /&gt;
-Megatron and Starscream&lt;br /&gt;
-Oh yeah I scream-on-stars&lt;br /&gt;
-to get loot and crossover like Kareem Abdul-Jabbar&lt;br /&gt;
-&amp;#8230;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I thought that was cool, I was happy for my country. Any press is good press kind of thing. From my earliest memories to the most recent song, &lt;i&gt;Mattafix&lt;/i&gt; &amp;#8217;s &lt;i&gt;Shake Your Limbs&lt;/i&gt; off their new album &lt;i&gt;Hymns and Rhythms&lt;/i&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;#8230;&lt;br /&gt;
-shake ya limbs to da rhythms hymns and poems&lt;br /&gt;
-from the beginning there was war and sinning&lt;br /&gt;
-and it seems like nothing has changed&lt;br /&gt;
-bombs are dropping on iraq and lebanon&lt;br /&gt;
-it&amp;#8217;s like vietnam all over again days ago a&lt;br /&gt;
-bredrin that i know&lt;br /&gt;
-tell me dat he cyan tek no more bombs are dropping&lt;br /&gt;
-on iraq and lebanon and everywhere&lt;br /&gt;
-it seems like war and they say they&amp;#8217;re&lt;br /&gt;
-trying to work it out but they don&amp;#8217;t know&lt;br /&gt;
-just how or why and it really seems preordained&lt;br /&gt;
-&amp;#8230;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;This song is more politically conscious, in fact Mattafix are distinguished with their awareness of the issues of the world and their efforts of getting the message across through their music. But the context Lebanon is mentioned in revolves around either bombings and the civil war or Hizballah. This is true in the songs mentioned above as well as in Taken, &lt;a href=&quot;http://uk.imdb.com/title/tt0365737/&quot; target=&quot;_blank&quot;&gt;Syriana&lt;/a&gt; and many others. Other than in Leaving Beirut by Roger Waters and in Lebanese Night by Chris de Burgh, Lebanon is rarely mentioned in good light. Even those two songs include passages relating to bombings and war.&lt;/p&gt;
-&lt;p&gt;So lets go back to what I mentioned about France. Every time France is referenced it is usually either because of french fries or romance. Paris is the best getaway for couples or museum fans, the usual stuff you would find in a &amp;#8220;chick flick&amp;#8221;. In Taken, the daughter gets kidnapped in France but will that mean that the country will have a bad rap after this movie. Not probable. It is more likely that Albania gets the short end of the stick on that one, or even Arabs because they did have Arabs in the &amp;#8220;bad guy suit&amp;#8221; and the last ones the father had to fight to get his daughter back. Just like the last level or last boss in a video game. The ultimate evil. When is the last time you have heard of anyone get kidnapped in Lebanon? Foreigners, especially Americans, are treated like kings in Lebanon. Even though I have seen many movies about young Americans traveling to Europe and getting killed or hijacked or sold off, more of them will plan a summer of backpacking through Europe. More will also hesitate to visit Lebanon because swimming in the Mediterranean or clubbing on Monot Street or having a drink in Jemayze is too scary!&lt;/p&gt;
-&lt;p&gt;For a clip about the portrayal of Arabs in the media, YouTube the clip &amp;#8220;Planet of the Arabs&amp;#8221;.&lt;/p&gt;</content>
+
+
+	&lt;p&gt;First let us revisit instances where Lebanon was mentioned or referenced. One of my earliest memories of such a thing is when listening to &lt;i&gt;Dr. Dre&lt;/i&gt;&amp;#8217;s album 2001 and the song &lt;i&gt;Light Speed&lt;/i&gt; came on and Hitman&amp;#8217;s verse started and at I was a bit struggling to try and understand what he was saying and then one of things he said just ringed in my ear and I had to rewind.&lt;/p&gt;
+
+
+	&lt;blockquote&gt;
+		&lt;p&gt;...
+Totin Austrian firearms that&amp;#8217;s made out of plastic
+In these drastic surroundings, it be sounding like
+Lebanon, makin fools &amp;#8220;RETREAT!&amp;#8221; like
+Megatron and Starscream
+Oh yeah I scream-on-stars
+to get loot and crossover like Kareem Abdul-Jabbar
+...&lt;/p&gt;
+	&lt;/blockquote&gt;
+
+
+	&lt;p&gt;I thought that was cool, I was happy for my country. Any press is good press kind of thing. From my earliest memories to the most recent song, &lt;i&gt;Mattafix&lt;/i&gt; &amp;#8217;s &lt;i&gt;Shake Your Limbs&lt;/i&gt; off their new album &lt;i&gt;Hymns and Rhythms&lt;/i&gt;:&lt;/p&gt;
+
+
+	&lt;blockquote&gt;
+		&lt;p&gt;...
+shake ya limbs to da rhythms hymns and poems
+from the beginning there was war and sinning
+and it seems like nothing has changed
+bombs are dropping on iraq and lebanon
+it&amp;#8217;s like vietnam all over again days ago a
+bredrin that i know
+tell me dat he cyan tek no more bombs are dropping
+on iraq and lebanon and everywhere
+it seems like war and they say they&amp;#8217;re
+trying to work it out but they don&amp;#8217;t know
+just how or why and it really seems preordained
+...&lt;/p&gt;
+	&lt;/blockquote&gt;
+
+
+	&lt;p&gt;This song is more politically conscious, in fact Mattafix are distinguished with their awareness of the issues of the world and their efforts of getting the message across through their music. But the context Lebanon is mentioned in revolves around either bombings and the civil war or Hizballah. This is true in the songs mentioned above as well as in Taken, &lt;a href=&quot;http://uk.imdb.com/title/tt0365737/&quot; target=&quot;_blank&quot;&gt;Syriana&lt;/a&gt; and many others. Other than in Leaving Beirut by Roger Waters and in Lebanese Night by Chris de Burgh, Lebanon is rarely mentioned in good light. Even those two songs include passages relating to bombings and war.&lt;/p&gt;
+
+
+	&lt;p&gt;So lets go back to what I mentioned about France. Every time France is referenced it is usually either because of french fries or romance. Paris is the best getaway for couples or museum fans, the usual stuff you would find in a &amp;#8220;chick flick&amp;#8221;. In Taken, the daughter gets kidnapped in France but will that mean that the country will have a bad rap after this movie. Not probable. It is more likely that Albania gets the short end of the stick on that one, or even Arabs because they did have Arabs in the &amp;#8220;bad guy suit&amp;#8221; and the last ones the father had to fight to get his daughter back. Just like the last level or last boss in a video game. The ultimate evil. When is the last time you have heard of anyone get kidnapped in Lebanon? Foreigners, especially Americans, are treated like kings in Lebanon. Even though I have seen many movies about young Americans traveling to Europe and getting killed or hijacked or sold off, more of them will plan a summer of backpacking through Europe. More will also hesitate to visit Lebanon because swimming in the Mediterranean or clubbing on Monot Street or having a drink in Jemayze is too scary!&lt;/p&gt;
+
+
+	&lt;p&gt;For a clip about the portrayal of Arabs in the media, YouTube the clip &amp;#8220;Planet of the Arabs&amp;#8221;.&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>Letting Go</title>
-   <link href="http://www.youhhoo.com/personal/social/2008/07/30/letting-go.html"/>
+   <link href="http://www.youhhoo.com/social/personal/2008/07/30/letting-go.html"/>
    <updated>2008-07-30T00:00:00-04:00</updated>
-   <id>http://www.youhhoo.com/personal/social/2008/07/30/letting-go</id>
+   <id>http://www.youhhoo.com/social/personal/2008/07/30/letting-go</id>
    <content type="html">&lt;p&gt;The last four years have been the longest and hardest years so far. This is not something unusual for someone to say about their college experience. For some, college is a big long party and for others it is a big long struggle. But for me the struggle did not come from the college life itself, yes I was an engineering student at one of the top universities in the country, but the school work and the jobs and the social life were not what made it difficult.&lt;/p&gt;
+
+
 &lt;p style=&quot;text-align: center;&quot;&gt;My story begins long before then&amp;#8230;&lt;/p&gt;
-&lt;p&gt;Growing up, it was known what my path to getting a Bachelor&amp;#8217;s degree was going to be. The first step was getting the American citizenship. That took about 15 years to achieve for many reasons one being that the mail man would return the mails sent to us by the immigration office because we had them delivered to my uncle&amp;#8217;s house and the name on letters would not match the one on the mailbox because ours was not on it. After that mess was fixed, things got smoother until the day my brother and I were supposed to get our naturalization. I was interviewed by the officer handling our case and I was asked a question I did not know the answer to, or in fact I was asked to confirm a piece of information I was not knowledgeable about. I guessed and gave the answer that I thought was true and I was right but that moment I discovered something about my family I never knew, something that made me question a lot about my past. I still do not have answers to some of those questions. But I have moved on.&lt;/p&gt;
-&lt;p&gt;Second step, figure out what I want to do in college. That wasn&amp;#8217;t hard, in fact that was a no-brainer. From the moment I first thought about what my major in college would be I had the answer. I wanted to do Computer Engineering. Never in my life have I questioned that decision until the last semester of my last year at &lt;span class=&quot;caps&quot;&gt;UVA&lt;/span&gt;. What I wondered was whether I should have given it more thought to figure out if that really was what I wanted to do. The decision was made by me and without any influence from any one else very early on in my life so I was not trying to impress anyone or follow in any one&amp;#8217;s foot steps but I took the decision and never considered any other options. The only reason I questioned my decision later on was to try to figure out if I would have been happier doing Computer Science instead of Computer Engineering. The difference between the two is minimal relative to people who try to decide between Medical School and Acting. Step two, easy!&lt;/p&gt;
-&lt;p&gt;Step three, logistics. A problematic area, maybe. Two things are required to get in to a university, money and credentials. Lets start with the credentials. I attended academic institutions that basically guaranteed me a way in to any university in the world. To take advantage of that way or not was up to the students (or me in this case) and most of us took some sort of short cut or zig zag road because we had a cart blanche to get in to any university in Lebanon we wanted. That was a 100% guarantee, no questions about it and since most of the people I know had figured out what they wanted to do and where they wanted to do it (just like me) there was no use of investing more energy than necessary. As for those of us who wanted to study abroad, we each had to figure out our own thing. I am a confident person when it comes to most things and I was confident that I didn&amp;#8217;t need to do any different than the majority of my peers to get in to a decent university in the U.S. I probably was not going to end up in Harvard or Yale but who would want to anyway. You, the reader, might come across the idea of studying and getting good grades to get a scholarship and not have to worry about the expenses of studying in the U.S. specially that I come from a relatively poor family or a &amp;#8220;surviving&amp;#8221; family, meaning that we have a roof over our head, we have food on our table and my brother and I go to private schools but everyone in Lebanon goes to private school and we could not afford anything else so we were not well off, we survived. No worries, I have it figured out. The type of school I went to was the kind where a genius would average about 16/20 if possible which is about a 3.0 on the American scale. The average &lt;span class=&quot;caps&quot;&gt;GPA&lt;/span&gt; for first years at &lt;span class=&quot;caps&quot;&gt;UVA&lt;/span&gt; entering in 2007 was 4.1 and I know a friend who graduated with me and had a 4.5 in High School. The average at my school was at most a 12/20 or a 1.0 which to most might seem very low, in fact not even a passing average, but not to us. The passing average to us was a 10/20 but I will leave the topic of how the schools in Lebanon functioned to another time. My point from all of this is to show what deterred me from believing that I would ever be a candidate for a scholarship no matter what I did and how hard I tried. Here comes the punch line, ready? Attending university in the U.S. is cheaper than attending one in Lebanon. This is a dangerous statement and applies only when certain conditions are true. Remember the first step where I had to get the U.S. citizenship? That is the first condition. The rest is following a precise plan and doing everything right. My brother is a witness to the difficulty of that task. First thing that needed to happen is figuring which state I wanted to reside in. My choice was between California and Virginia and I chose Virginia (don&amp;#8217;t ask why). I moved to Virginia, got a job and attended Community College for the first year. I made in my part time job more than what my parents were making combined in Lebanon. That helps! I became financially independent and was eligible for financial aid which helped pay for all four years of college. And my residency status in Virginia because I got a job and lived there and paid expenses for the first year before attending &lt;span class=&quot;caps&quot;&gt;UVA&lt;/span&gt; allowed me to pay in state tuition which basically amounts to the same tuition as that of the top universities in Lebanon but the financial aid brought my tuition expenses down to zero, yes that is a 0 (the weird concept of representing nothing with something the Indians added to the numbering system). So when I mentioned that attending university in the U.S. is cheaper that doing so in Lebanon I was not exaggerating. Step three all figured out, no problemo!&lt;/p&gt;
-&lt;p&gt;After going through this long list and long history you are starting to wonder where the problem is. You probably even forgot what the topic of the conversation first was. I was prepared to everything material, everything I had some sort of control over but how do I prepare myself to leave everything behind and move to a new country and start a new life? I had a plan, I always do. The first fifteen years of my life I did not attach myself to anything in Lebanon. I was leaving and that way was easier. The country was in some sort of war after the other, many nights I spent them sleeping on the floor in fear of the glass window next to my bed shattering and killing me from the bombings. From age three to fifteen I went to the same school but never felt like I fit in. My mentality was different than that of my classmates, I belonged to a different world in one way or another. At fifteen I was sick of the people and the administrative system of the school that could not back its good academic system so I switched schools. I had no attachments at that point and that was how I wanted it. When I leave there would not be anything to hold me back or to make the move harder. The plan was working, or was it? In the new school I was put in the best class possible. We were thirty of the rowdiest but smarted students in the school. Teachers could not complain about our wild behavior because we backed it up with our grades. The people were more mature (or some at least) but definitely friendlier and more accepting. For the first time I was comfortable in the setting I was in. I made friends and long lasting relationships. Three years later I was friends with everyone, really close to some and closer to others. Graduation came, it was fun and my parents were proud. A few weeks from then I was on a plane to my life, two continents (Africa and Europe), a sea (the Mediterranean) and an ocean (the Atlantic) away. Seven time zones of difference. Everything I knew left behind. I got attached! I was like Bourne with the body of my girlfriend floating in the river in India, unlike Bond who is always free. I too needed to figure out who I was, not because of amnesia but because of decisions I had to make, decisions I was not prepared for. I made mistakes that I live the consequences of to this day. I tried to hold on to all my friendships and keep all those I loved. Some I was not able to salvage but I have been able to get over, others remained the same and some even got stronger, but there is that one that got a way and which I will never forgive myself. The only one that I thought will always be there and I even was sure about it but I could not make it work. In fact at a certain time everything I did made it even worse and it was a vicious circle I could not get out of. I tried and tried and sacrificed everything to make it work but somehow I became my own curse. Everything I did to fix the problems made them worse and created newer ones. All my life I thought I was ready for everything but I was not ready to make a decision I was not prepared for. When that time came I screwed up and it feels that I am in this perpetual state of screw ups. I wanted to stop, I want to go back to doing things right. It is like quicksand, the harder you fight to get out the more you get sucked in.&lt;/p&gt;
+
+	&lt;p&gt;Growing up, it was known what my path to getting a Bachelor&amp;#8217;s degree was going to be. The first step was getting the American citizenship. That took about 15 years to achieve for many reasons one being that the mail man would return the mails sent to us by the immigration office because we had them delivered to my uncle&amp;#8217;s house and the name on letters would not match the one on the mailbox because ours was not on it. After that mess was fixed, things got smoother until the day my brother and I were supposed to get our naturalization. I was interviewed by the officer handling our case and I was asked a question I did not know the answer to, or in fact I was asked to confirm a piece of information I was not knowledgeable about. I guessed and gave the answer that I thought was true and I was right but that moment I discovered something about my family I never knew, something that made me question a lot about my past. I still do not have answers to some of those questions. But I have moved on.&lt;/p&gt;
+
+
+	&lt;p&gt;Second step, figure out what I want to do in college. That wasn&amp;#8217;t hard, in fact that was a no-brainer. From the moment I first thought about what my major in college would be I had the answer. I wanted to do Computer Engineering. Never in my life have I questioned that decision until the last semester of my last year at &lt;span class=&quot;caps&quot;&gt;UVA&lt;/span&gt;. What I wondered was whether I should have given it more thought to figure out if that really was what I wanted to do. The decision was made by me and without any influence from any one else very early on in my life so I was not trying to impress anyone or follow in any one&amp;#8217;s foot steps but I took the decision and never considered any other options. The only reason I questioned my decision later on was to try to figure out if I would have been happier doing Computer Science instead of Computer Engineering. The difference between the two is minimal relative to people who try to decide between Medical School and Acting. Step two, easy!&lt;/p&gt;
+
+
+	&lt;p&gt;Step three, logistics. A problematic area, maybe. Two things are required to get in to a university, money and credentials. Lets start with the credentials. I attended academic institutions that basically guaranteed me a way in to any university in the world. To take advantage of that way or not was up to the students (or me in this case) and most of us took some sort of short cut or zig zag road because we had a cart blanche to get in to any university in Lebanon we wanted. That was a 100% guarantee, no questions about it and since most of the people I know had figured out what they wanted to do and where they wanted to do it (just like me) there was no use of investing more energy than necessary. As for those of us who wanted to study abroad, we each had to figure out our own thing. I am a confident person when it comes to most things and I was confident that I didn&amp;#8217;t need to do any different than the majority of my peers to get in to a decent university in the U.S. I probably was not going to end up in Harvard or Yale but who would want to anyway. You, the reader, might come across the idea of studying and getting good grades to get a scholarship and not have to worry about the expenses of studying in the U.S. specially that I come from a relatively poor family or a &amp;#8220;surviving&amp;#8221; family, meaning that we have a roof over our head, we have food on our table and my brother and I go to private schools but everyone in Lebanon goes to private school and we could not afford anything else so we were not well off, we survived. No worries, I have it figured out. The type of school I went to was the kind where a genius would average about 16/20 if possible which is about a 3.0 on the American scale. The average &lt;span class=&quot;caps&quot;&gt;GPA&lt;/span&gt; for first years at &lt;span class=&quot;caps&quot;&gt;UVA&lt;/span&gt; entering in 2007 was 4.1 and I know a friend who graduated with me and had a 4.5 in High School. The average at my school was at most a 12/20 or a 1.0 which to most might seem very low, in fact not even a passing average, but not to us. The passing average to us was a 10/20 but I will leave the topic of how the schools in Lebanon functioned to another time. My point from all of this is to show what deterred me from believing that I would ever be a candidate for a scholarship no matter what I did and how hard I tried. Here comes the punch line, ready? Attending university in the U.S. is cheaper than attending one in Lebanon. This is a dangerous statement and applies only when certain conditions are true. Remember the first step where I had to get the U.S. citizenship? That is the first condition. The rest is following a precise plan and doing everything right. My brother is a witness to the difficulty of that task. First thing that needed to happen is figuring which state I wanted to reside in. My choice was between California and Virginia and I chose Virginia (don&amp;#8217;t ask why). I moved to Virginia, got a job and attended Community College for the first year. I made in my part time job more than what my parents were making combined in Lebanon. That helps! I became financially independent and was eligible for financial aid which helped pay for all four years of college. And my residency status in Virginia because I got a job and lived there and paid expenses for the first year before attending &lt;span class=&quot;caps&quot;&gt;UVA&lt;/span&gt; allowed me to pay in state tuition which basically amounts to the same tuition as that of the top universities in Lebanon but the financial aid brought my tuition expenses down to zero, yes that is a 0 (the weird concept of representing nothing with something the Indians added to the numbering system). So when I mentioned that attending university in the U.S. is cheaper that doing so in Lebanon I was not exaggerating. Step three all figured out, no problemo!&lt;/p&gt;
+
+
+	&lt;p&gt;After going through this long list and long history you are starting to wonder where the problem is. You probably even forgot what the topic of the conversation first was. I was prepared to everything material, everything I had some sort of control over but how do I prepare myself to leave everything behind and move to a new country and start a new life? I had a plan, I always do. The first fifteen years of my life I did not attach myself to anything in Lebanon. I was leaving and that way was easier. The country was in some sort of war after the other, many nights I spent them sleeping on the floor in fear of the glass window next to my bed shattering and killing me from the bombings. From age three to fifteen I went to the same school but never felt like I fit in. My mentality was different than that of my classmates, I belonged to a different world in one way or another. At fifteen I was sick of the people and the administrative system of the school that could not back its good academic system so I switched schools. I had no attachments at that point and that was how I wanted it. When I leave there would not be anything to hold me back or to make the move harder. The plan was working, or was it? In the new school I was put in the best class possible. We were thirty of the rowdiest but smarted students in the school. Teachers could not complain about our wild behavior because we backed it up with our grades. The people were more mature (or some at least) but definitely friendlier and more accepting. For the first time I was comfortable in the setting I was in. I made friends and long lasting relationships. Three years later I was friends with everyone, really close to some and closer to others. Graduation came, it was fun and my parents were proud. A few weeks from then I was on a plane to my life, two continents (Africa and Europe), a sea (the Mediterranean) and an ocean (the Atlantic) away. Seven time zones of difference. Everything I knew left behind. I got attached! I was like Bourne with the body of my girlfriend floating in the river in India, unlike Bond who is always free. I too needed to figure out who I was, not because of amnesia but because of decisions I had to make, decisions I was not prepared for. I made mistakes that I live the consequences of to this day. I tried to hold on to all my friendships and keep all those I loved. Some I was not able to salvage but I have been able to get over, others remained the same and some even got stronger, but there is that one that got a way and which I will never forgive myself. The only one that I thought will always be there and I even was sure about it but I could not make it work. In fact at a certain time everything I did made it even worse and it was a vicious circle I could not get out of. I tried and tried and sacrificed everything to make it work but somehow I became my own curse. Everything I did to fix the problems made them worse and created newer ones. All my life I thought I was ready for everything but I was not ready to make a decision I was not prepared for. When that time came I screwed up and it feels that I am in this perpetual state of screw ups. I wanted to stop, I want to go back to doing things right. It is like quicksand, the harder you fight to get out the more you get sucked in.&lt;/p&gt;
+
+
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;/images/serenity.png&quot; title=&quot;Serenity, Courage and Wisdom&quot; alt=&quot;Serenity, Courage and Wisdom&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;The last four years have been all about me letting go of that moment in 2004 when I made the wrong choices. The moment I decided not to step over the quicksand but fight it instead will haunt me forever. For the last four years I have been learning how to accept what happened and figure out how to deal with it and move on living my life learning from my mistakes to make better decisions instead of having them hold me back. I am a person who like to fight till the end and never give up but I have learned to let go of those things I can not change. The first time I saw the following quote tattooed on some one&amp;#8217;s back I knew what I needed to do. I am not religious but this quote holds true:&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;i&gt;&amp;#8220;God grant me&lt;br /&gt;
-the serenity to accept the things I cannot change,&lt;br /&gt;
-courage to change the things I can,&lt;br /&gt;
-and wisdom to know the difference.&amp;#8221;&lt;/i&gt;&lt;/p&gt;</content>
+
+	&lt;p&gt;The last four years have been all about me letting go of that moment in 2004 when I made the wrong choices. The moment I decided not to step over the quicksand but fight it instead will haunt me forever. For the last four years I have been learning how to accept what happened and figure out how to deal with it and move on living my life learning from my mistakes to make better decisions instead of having them hold me back. I am a person who like to fight till the end and never give up but I have learned to let go of those things I can not change. The first time I saw the following quote tattooed on some one&amp;#8217;s back I knew what I needed to do. I am not religious but this quote holds true:&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;i&gt;&amp;#8220;God grant me
+the serenity to accept the things I cannot change,
+courage to change the things I can,
+and wisdom to know the difference.&amp;#8221;&lt;/i&gt;
+&lt;/p&gt;</content>
  </entry>
  
  

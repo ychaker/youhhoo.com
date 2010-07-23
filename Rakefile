@@ -1,6 +1,6 @@
 require 'fileutils'
 
-desc "prepare site to be deployed"
+desc "prepare site to be deployed by generating clouds and pages"
 task :prepare do
   
   sh %{ rm -R _site/ }
@@ -31,7 +31,7 @@ task :deploy do
 cd ~/jekyll-youhhoo.com
 git pull origin #{branch}
 cd ..
-rm youhhoo.com/
+rm youhhoo.com
 ln -s jekyll-youhhoo.com/_site youhhoo.com
 EOF
     commands = commands.gsub(/\n/, "; ")

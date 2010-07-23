@@ -6,100 +6,143 @@ title: Youssef Chaker - Resume
 <div class="resume-box">
 	<h2>Download PDF Versions</h2>
 	<div class="resume-info">
-		"Work Centric Resume (Work Centric Resume)":/files/Resume-education.pdf
-		"Education Centric Resume (Education Centric Resume)":/files/Resume-work.pdf
+		<p>
+			"Work Centric Resume (Work Centric Resume)":/files/resume-education.pdf <br />
+			"Education Centric Resume (Education Centric Resume)":/files/resume-work.pdf
+		</p>
 	</div>
 </div>
 
 <div class="resume-box">
 	<h2>Countries of Citizenship</h2>
 	<div class="resume-info">
-		I am a citizen of Lebanon and the U.S.A., and am fluent in Arabic, English and French.
+		<p>I am a citizen of Lebanon and the U.S.A., and am fluent in Arabic, English and French.</p>
 	</div>
 </div>
 
 <div class="resume-box">
 	<h2>Work Experience</h2>
 	<div class="resume-info">
-		**2008 - present	Software Developer, OpenSource Connections,** Charlottesville, VA
+		<p>**2008 - present	Software Developer, OpenSource Connections,** Charlottesville, VA</p>
 
-		**Which Ruby CMS Should I Use?** "http://whichrubycmsshouldiuse.com":http://whichrubycmsshouldiuse.com 
-		Personal project where I set out to explore Ruby CMS products; shared my findings with the rest of the open source community
+			<p>
+				**TicketFfly:**  "http://www.ticketfly.com":http://www.ticketfly.com<br />
+				Implemented a scanner application on a Windows Mobile 6 platform in .Net to scan event tickets at venues; integrated reporting functionality to the scanner application; developed communication process between scanner and server to ensure updated information<br />
+				Reengineered the TicketFly user accounts application using Grails to serve a central independent OAuth service provider to other TicketFly applications; wrote a RESTful API to serve up method calls using XML and JSON responses to third party applications; wrote a WordPress plugin to serve as a Oauth consumer of the TicketFly API; integrated the Facebook Graph API functionality into the account application
+			</p>
+		
+			<p>
+				**Which Ruby CMS Should I Use?** "http://whichrubycmsshouldiuse.com":http://whichrubycmsshouldiuse.com<<br />
+				Personal project where I set out to explore Ruby CMS products; shared my findings with the rest of the open source community
+			</p>
 
-		**National Veterans Conference:**  "http://www.nationalveteransconference.com":http://www.nationalveteransconference.com
-		Ported legacy HTML code to a Drupal CMS Web site; implemented additional site features such as video integration and user registration
+			<p>
+				**National Veterans Conference:**  "http://www.nationalveteransconference.com":http://www.nationalveteransconference.com<br />
+				Ported legacy HTML code to a Drupal CMS Web site; implemented additional site features such as video integration and user registration; added social features to the conference website; integrated AJAX features into the design of the site
+			</p>
 
-		**Newswise:**  "http://www.newswise.com":http://www.newswise.com
-		Ported legacy PHP code to the Zend MVC framework; updated search functionality to use the Solr search engine; integrated AJAX into the user interface; improved the user interface in parts of the site; integrated Test-driven development and Agile methodologies with the Newswise in-house team and our development process; wrote a Ruby script to import legacy data to a new database
+			<p>
+				**Newswise:**  "http://www.newswise.com":http://www.newswise.com<br />
+				Ported legacy PHP code to the Zend MVC framework; updated search functionality to use the Solr search engine; worked with XML configuration files to customize and improve Solr's behavior with the application; integrated AJAX into the user interface; improved the user interface in parts of the site; integrated Test Driven Development (TDD) and Agile methodologies with the Newswise in-house team and our development process; wrote a Ruby script to import legacy data to a new database
+			</p>
 
-		**Madison Digital Image Database**
-		Helped integrate exporting and importing images to Flickr in python for the new MDID-3 version using the flickr API and the Django framework
+			<p>
+				**Madison Digital Image Database**<br />
+				Helped integrate exporting and importing images to Flickr in Python for the new MDID-3 version using the Flickr API and the Django framework by writing and testing the XML API consumer of the API
+			</p>
 
-		**Sweet Briar College:**  "http://www.sbc.edu":http://www.sbc.edu
-		Ported legacy PHP code to a Drupal CMS Web site; implemented redesign of the site; wrote custom modules to implement specific client functionality
+			<p>
+				**Sweet Briar College:**  "http://www.sbc.edu":http://www.sbc.edu<br />
+				Ported legacy PHP code to a Drupal CMS Web site; implemented redesign of the site; wrote custom modules to implement specific client functionality
+			</p>
 
-		**American Association of Retired Persons (AARP)**
-		Developed a Ruby on Rails Web service that collects user data and calculates their relative “misery” based on the their location and cost of living; developed its equivalent Facebook and OpenSocial applications
+			<p>
+				**American Association of Retired Persons (AARP)**<br />
+				Developed a Ruby on Rails Web service that collects user data and calculates their relative “misery” based on the their location and cost of living; developed its equivalent Facebook and OpenSocial applications
+			</p>
 
-		**Cosmo**
-		Worked on a Ruby on Rails application that fetches the properties of chemical substances and stores the information in a MySQL database; developed search functionality that allows users to search for substances matching a certain query on the selected properties
+			<p>
+				**Cosmo**<br />
+				Worked on a Ruby on Rails application that fetches the properties of chemical substances and stores the information in a MySQL database; developed search functionality that allows users to search for substances matching a certain query on the selected properties
+			</p>
 
-		**Madison County School**
-		Wrote a technology road map for the school's IT department; advised on how to go about the transition to a “greener” data center
+			<p>
+				**Madison County School**<br />
+				Wrote a technology road map for the school's IT department; advised on how to go about the transition to a “greener” data center using virtualization technologies and “in the cloud” solutions
+			</p>
 
-		**2007	Intern, Computer Sciences Corporation,** Chantilly, VA
-		Researched and wrote a white paper about “greening” data centers; worked in the  Enterprise Network Management Services Center of Excellence
+			<p>
+				**2007	Intern, Computer Sciences Corporation,** Chantilly, VA<br />
+				Researched and wrote a white paper about “greening” data centers; worked in the  Enterprise Network Management Services Center of Excellence
+			</p>
 
-		**2006 - 2007	Teaching Assistant, University of Virginia Department of Computer Science,** Charlottesville, VA
-		Answered Java related questions in weekly lab sections; graded homework and exams; held office hours
+			<p>
+				**2006 - 2007	Teaching Assistant, University of Virginia Department of Computer Science,** Charlottesville, VA<br />
+				Answered Java related questions in weekly lab sections; graded homework and exams; held office hours
+			</p>
 
-		**2006	Intern, Splendor Telecom,** Beirut, Lebanon
-		Developed a graphical user interface for a monitoring system
+			<p>
+				**2006	Intern, Splendor Telecom,** Beirut, Lebanon<br />
+				Developed a graphical user interface for a monitoring system
+			</p>
 	</div>
 </div>
 
 <div class="resume-box">
 	<h2>Education</h2>
 	<div class="resume-info">
-		**University of Virginia, School of Engineering and Applied Science,** Charlottesville, VA
-		**Degree:**  B.S. Computer Engineering
-		**Thesis:**  "Designing and Building an Energy Responsible Data Center (Link to Thesis PDF File)":files/DesigningAndBuildingAnEnvironmentallyResponsibleDataCenter.pdf
-		**Graduation Date:**  May 2008
-
-		**Cumulative GPA:**  2.85 / 4.00
-		**Major GPA:** 2.94 / 4.00
-
-		**Related Coursework:**  Advanced Software Development, Algorithms, Computer Architecture, Computer Networks, Computer Organization and Design, Electronics, Operating Systems, Signals and Systems I, Software Development Methods, UNIX Essentials Featuring the Solaris 10 Operating System (SA-100-S10)
+		<p>
+			**University of Virginia, School of Engineering and Applied Science,** Charlottesville, VA<br />
+			**Degree:**  B.S. Computer Engineering<br />
+			**Thesis:**  "Designing and Building an Energy Responsible Data Center (Link to Thesis PDF File)":files/DesigningAndBuildingAnEnvironmentallyResponsibleDataCenter.pdf<br />
+			**Graduation Date:**  May 2008<br />
+<br />
+			**Cumulative GPA:**  2.85 / 4.00<br />
+			**Major GPA:** 2.94 / 4.00<br />
+<br />
+			**Related Coursework:**  Advanced Software Development, Algorithms, Computer Architecture, Computer Networks, Computer Organization and Design, Electronics, Operating Systems, Signals and Systems I, Software Development Methods, UNIX Essentials Featuring the Solaris 10 Operating System (SA-100-S10)
+		</p>
 	</div>
 </div>
 
 <div class="resume-box">
 	<h2>Educational Projects</h2>
 	<div class="resume-info">
-		**2007 – 2008	Multi-Stage Pipeline**
-		Participated in a two-part design project of a multi-stage pipeline for a custom Assembly based language processor. The first part consisted of an individual design of a 5-stage 32-bit pipeline and the second part consisted of merging the work of four individuals into one team project which was then modified to become a 16-bit pipeline and upgraded to use design techniques for faster performance.
+		<p>
+			**2007 – 2008	Multi-Stage Pipeline**<br />
+			Participated in a two-part design project of a multi-stage pipeline for a custom Assembly based language processor. The first part consisted of an individual design of a 5-stage 32-bit pipeline and the second part consisted of merging the work of four individuals into one team project which was then modified to become a 16-bit pipeline and upgraded to use design techniques for faster performance.
+		</p>
 
-		**2007	Control System for a Mobile Robot**
-		As a member of two teams of 4 students each, I helped develop a software control system for a hypothetical organization developing a Mars Rover or the like.  The software system was composed of 3 main components: a control station, an on-board robot control and a communications component.  The system controlled the robot movements, and the communication between the control station and the robot.  It was developed in C#.
+		<p>
+			**2007	Control System for a Mobile Robot**<br />
+			As a member of two teams of 4 students each, I helped develop a software control system for a hypothetical organization developing a Mars Rover or the like.  The software system was composed of 3 main components: a control station, an on-board robot control and a communications component.  The system controlled the robot movements, and the communication between the control station and the robot.  It was developed in C#.
+		</p>
 
-		**2006	MP3 Web Application**
-		As a member of a team of 3 students, I developed an MP3 Web application using Java. The application’s main features were retrieving a list of MP3 files from a URL, sorting the files into a list, creating a play list, saving the files, and playing the individual MP3s.
+		<p>
+			**2006	MP3 Web Application**<br />
+			As a member of a team of 3 students, I developed an MP3 Web application using Java. The application’s main features were retrieving a list of MP3 files from a URL, sorting the files into a list, creating a play list, saving the files, and playing the individual MP3s.
+		</p>
 	</div>
 </div>
 
 <div class="resume-box">
 	<h2>Awards</h2>
 	<div class="resume-info">
-		**2005	Honor’s List**, University of Virginia
-		**2005	Presidential Scholar**, Northern Virginia Community College
-		**2004	Dean's List**, Northern Virginia Community College
+		<p>
+			**2005	Honor’s List**, University of Virginia<br />
+			**2005	Presidential Scholar**, Northern Virginia Community College<br />
+			**2004	Dean's List**, Northern Virginia Community College
+		</p>
 	</div>
 </div>
 
 <div class="resume-box">
 	<h2>Technical Skills</h2>
 	<div class="resume-info">
-		**Programming Languages:**  Java, C, C++, C#, Ruby, Python, JavaScript, PHP, VHDL, x86 Assembly
-		**Tools and Applications:**  Eclipse, FPGA Advantage, Mathcad, MATLAB, PSpice, Visual Studio
+		<p>
+			**Programming Languages:**  C, C++, C#, Java, JavaScript, Python, PHP, Ruby, VHDL, x86 Assembly<br />
+			**Tools and Applications:**  Eclipse, FPGA Advantage, Mathcad, MATLAB, PSpice, Visual Studio<br />
+			**Development Methodologies:**  Agile, Scrum, Test Driven Development, Behavior Driven Development
+		</p>
 	</div>
 </div>
