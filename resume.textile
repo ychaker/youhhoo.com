@@ -32,7 +32,7 @@ title: Youssef Chaker - Resume
 			</p>
 		
 			<p>
-				**Which Ruby CMS Should I Use?** "http://whichrubycmsshouldiuse.com":http://whichrubycmsshouldiuse.com<<br />
+				**Which Ruby CMS Should I Use?** "http://whichrubycmsshouldiuse.com":http://whichrubycmsshouldiuse.com<br />
 				Personal project where I set out to explore Ruby CMS products; shared my findings with the rest of the open source community
 			</p>
 
