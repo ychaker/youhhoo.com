@@ -6,8 +6,7 @@ title: Youssef Chaker
 
 <div id='brief' class='blue'>
 	<div id='info' class='white'>
-
-div(headshot). !/images/headshot.png(Head Shot Image)!
+		<div class="headshot"> !/images/headshot.png(Head Shot Image)! </div>
 
 p. **Youssef Chaker** 
 
@@ -33,7 +32,7 @@ p. "I am what I am"
 
 p. "Say what you mean and mean what you say"
 
-p. "Your pain is the breaking of the shell that encloses your understanding... It is the bitter potion by which the physician within you heals your sick self. Therefore trust the physician, and drink his remedy in silence and tranquility..."
+<p>"Your pain is the breaking of the shell that encloses your understanding... It is the bitter potion by which the physician within you heals your sick self. Therefore trust the physician, and drink his remedy in silence and tranquility..."</p>
 	</div>
 	<div id="tweets" class='white'>
 		<h2>!/images/twitter_64.png(Twitter Profile)!:http://www.twitter.com/ychaker Tweets</h2>
