@@ -7,8 +7,8 @@ title: Youssef Chaker - Resume
 	<h2>Download PDF Versions</h2>
 	<div class="resume-info">
 		<p>
-			"Work Centric Resume (Work Centric Resume)":/files/resume-work.pdf <br />
-			"Education Centric Resume (Education Centric Resume)":/files/resume-education.pdf
+			"Work Centric Resume (Work Centric Resume)":/files/Resume-work.pdf <br />
+			"Education Centric Resume (Education Centric Resume)":/files/Resume-education.pdf
 		</p>
 	</div>
 </div>
