@@ -1,0 +1,25 @@
+---
+layout: post
+title: Ruby DCamp 2010
+categories: 
+- technology
+- community
+tags:
+- ruby
+- conference
+- ruby dcamp
+- unconference
+- community
+- programming
+---
+
+p. In 2008 I attended Ruby DCamp, put together by Evan Light, and it was probably the best thing to ever happen to my career. I learnt a lot about what a community could be, and the power behind that. I saw first hand how people can be excited and enthusiastic to help someone new. It seemed like the people in the Ruby community, and specifically those who attend Ruby DCamp, are more interested in helping others than anything else.
+
+p. Two years later, I made sure I was back to Ruby DCamp to be around those same people who are definitely the reason why I have been excited about what I do. In 2008, it was held at a hotel (just like any other conference), but for the past couple of years, Evan has taken it up a notch and has been hosting the conference at a national park. That by itself created one of the best atmosphere for people to come together and make something special.
+
+p. Again, the community proved itself to be amazing. I learned so much. The biggest benefit was from the conversations and discussions that went on either in one of the cabins or outside in the picnic area. I attempted to take some notes, or at least write down some of the things that I should definitely look into (and you should to). The notes are available on github at: <a href="http://github.com/ychaker/RubyDCamp2010">http://github.com/ychaker/RubyDCamp2010</a>.
+
+p. A few things that I want to make sure happen after this conference:
+* I pick up development on the solr admin plugin/radiant extension
+* I contribute to an open source project (__rush__ is a good contender that was discussed during some of the sessions)
+* I participate in some sort of mentoring program

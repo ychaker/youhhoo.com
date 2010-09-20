@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Site Migrated to Jekyll
-categories: 
-- jekyll
+categories:
 - site
+tags:
+- jekyll
+- design
 ---
 
 p. When I first built my web site, I wanted a bit of practice building and deploying a Rails application so I used my personal website as an excuse. But as you might have guessed, it was overkill and I tried to make the site do more than it needed to just to server a different purpose. The over complication also made it undesirable to update the content. It was time for a change and I knew it. 

@@ -4,7 +4,7 @@
  <title>Youssef Chaker (youhhoo.com)</title>
  <link href="http://www.youhhoo.com/atom.xml" rel="self"/>
  <link href="http://www.youhhoo.com/"/>
- <updated>2010-09-07T11:44:47-04:00</updated>
+ <updated>2010-09-19T23:23:13-04:00</updated>
  <id>http://www.youhhoo.com/</id>
  <author>
    <name>Youssef Chaker</name>
@@ -13,10 +13,46 @@
  
  
  <entry>
+   <title>Ruby DCamp 2010</title>
+   <link href="http://www.youhhoo.com/technology/community/2010/09/19/ruby-dcamp-2010.html"/>
+   <updated>2010-09-19T00:00:00-04:00</updated>
+   <id>http://www.youhhoo.com/technology/community/2010/09/19/ruby-dcamp-2010</id>
+   <content type="html">&lt;p&gt;In 2008 I attended Ruby DCamp, put together by Evan Light, and it was probably the best thing to ever happen to my career. I learnt a lot about what a community could be, and the power behind that. I saw first hand how people can be excited and enthusiastic to help someone new. It seemed like the people in the Ruby community, and specifically those who attend Ruby DCamp, are more interested in helping others than anything else.&lt;/p&gt;
+
+
+	&lt;p&gt;Two years later, I made sure I was back to Ruby DCamp to be around those same people who are definitely the reason why I have been excited about what I do. In 2008, it was held at a hotel (just like any other conference), but for the past couple of years, Evan has taken it up a notch and has been hosting the conference at a national park. That by itself created one of the best atmosphere for people to come together and make something special.&lt;/p&gt;
+
+
+	&lt;p&gt;Again, the community proved itself to be amazing. I learned so much. The biggest benefit was from the conversations and discussions that went on either in one of the cabins or outside in the picnic area. I attempted to take some notes, or at least write down some of the things that I should definitely look into (and you should to). The notes are available on github at: &lt;a href=&quot;http://github.com/ychaker/RubyDCamp2010&quot;&gt;http://github.com/ychaker/RubyDCamp2010&lt;/a&gt;.&lt;/p&gt;
+
+
+	&lt;p&gt;A few things that I want to make sure happen after this conference:
+	&lt;ul&gt;
+	&lt;li&gt;I pick up development on the solr admin plugin/radiant extension&lt;/li&gt;
+		&lt;li&gt;I contribute to an open source project (&lt;i&gt;rush&lt;/i&gt; is a good contender that was discussed during some of the sessions)&lt;/li&gt;
+		&lt;li&gt;I participate in some sort of mentoring program&lt;/li&gt;
+	&lt;/ul&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>More Tweaks to the Design</title>
+   <link href="http://www.youhhoo.com/site/2010/09/19/new-tweaks.html"/>
+   <updated>2010-09-19T00:00:00-04:00</updated>
+   <id>http://www.youhhoo.com/site/2010/09/19/new-tweaks</id>
+   <content type="html">&lt;p&gt;The site has been under &lt;i&gt;Jekyll&lt;/i&gt; for a while, but I have not updated it at all. I definitely enjoyed setting it up. I liked writing the script to generate the tag cloud. And I enjoyed having full control of my site. But I have not had time to do anything more with it.&lt;/p&gt;
+
+
+	&lt;p&gt;Today I decided to make certain changes that will make the site more appealing. I think I wasn&amp;#8217;t completely happy with the layout and look and didn&amp;#8217;t feel motivated to maintain it and write blog posts or update it.&lt;/p&gt;
+
+
+	&lt;p&gt;Surprisingly, a very simple and small change has made things more appealing. I stripped out some of the unnecessary &lt;i&gt;divs&lt;/i&gt; wrapping around more &lt;i&gt;divs&lt;/i&gt; for no reason, and layers of colors on top of colors (grey on top of the blue which was on top of the white). Also stripping the extra content on the home page which is available on the &lt;i&gt;about me&lt;/i&gt; page, and taking out the icons and just making them simple.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
    <title>Site Migrated to Jekyll</title>
-   <link href="http://www.youhhoo.com/jekyll/site/2010/03/18/site-migrated-to-jekyll.html"/>
+   <link href="http://www.youhhoo.com/site/2010/03/18/site-migrated-to-jekyll.html"/>
    <updated>2010-03-18T00:00:00-04:00</updated>
-   <id>http://www.youhhoo.com/jekyll/site/2010/03/18/site-migrated-to-jekyll</id>
+   <id>http://www.youhhoo.com/site/2010/03/18/site-migrated-to-jekyll</id>
    <content type="html">&lt;p&gt;When I first built my web site, I wanted a bit of practice building and deploying a Rails application so I used my personal website as an excuse. But as you might have guessed, it was overkill and I tried to make the site do more than it needed to just to server a different purpose. The over complication also made it undesirable to update the content. It was time for a change and I knew it.&lt;/p&gt;
 
 

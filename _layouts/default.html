@@ -12,10 +12,6 @@
 	<body>
 		<div id='wrapper'>
 			
-			<div id='header'>
-				<h1><a href='/' title='Youssef Chaker'>Youssef Chaker</a></h1>
-			</div>
-			
 			<div id='nav' >
 				<ul>
 					<li><a href='/' title='Home Page' >Home</a>
@@ -32,7 +28,15 @@
 			
 			
 			<div id='content'>
-					{{ content }}
+				<div id='header'>
+					<h1>
+						<a href='/' title='Youssef Chaker'>
+							<img class='headshot' src='http://www.gravatar.com/avatar/3df6bf1aa7d25b1103db031458c797af.png' alt='My Pic' /> 
+							Youssef Chaker
+						</a>
+					</h1>
+				</div>
+				{{ content }}
 			</div>
 			
 			<div style='clear:both;'></div>

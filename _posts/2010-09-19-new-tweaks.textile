@@ -1,0 +1,15 @@
+---
+layout: post
+title: More Tweaks to the Design
+categories:
+- site
+tag:
+- jekyll
+- design
+---
+
+p. The site has been under __Jekyll__ for a while, but I have not updated it at all. I definitely enjoyed setting it up. I liked writing the script to generate the tag cloud. And I enjoyed having full control of my site. But I have not had time to do anything more with it.
+
+p. Today I decided to make certain changes that will make the site more appealing. I think I wasn't completely happy with the layout and look and didn't feel motivated to maintain it and write blog posts or update it.
+
+p. Surprisingly, a very simple and small change has made things more appealing. I stripped out some of the unnecessary __divs__ wrapping around more __divs__ for no reason, and layers of colors on top of colors (grey on top of the blue which was on top of the white). Also stripping the extra content on the home page which is available on the __about me__ page, and taking out the icons and just making them simple.

@@ -1,8 +1,9 @@
 @import url("reset.css");
 @import url("syntax.css");
 
-h2 { font-weight: bold; font-size: 2em; line-height: 1.1; }
-h3 { font-weight: bold; text-transform: uppercase; line-height: 2.5; }
+h1 { font-weight: bold; font-size: 2.5em; line-height: 2; }
+h2 { font-weight: bold; font-size: 2em; line-height: 1.2; }
+h3 { font-weight: bold; text-transform: uppercase; }
 
 p { margin-bottom: 10px; }
 div { margin: 0 10px;}
@@ -38,8 +39,16 @@ a:hover {
 	clear: both;
 }
 #header h1 { 
-	text-indent: -9999em; 
 	overflow: hidden; 
+	vertical-align: center;
+}
+#header a,
+#header a:hover,
+#header a:visited,
+#header a:active {
+	text-decoration: none;
+	background: transparent;
+	color: rgb(56, 117, 215);
 }
 
 .clear { clear:both; margin: 10px;}
@@ -80,38 +89,34 @@ a:hover {
 /* content */
 #content { 
 	width: 800px; 
-	float: right; 
-	background-color: rgb(56, 117, 215); /* blue */
+	float: right;
 	padding-bottom: 10px;
 }
 /* end content */
 
 /* home page */
-.headshot img {
-	background: rgb(240, 240, 240); /* white-ish */
-	width: 150px;
-	height: 150px;
+img.headshot {
+	background: transparent;
+	width: 100px;
+	height: 100px;
 	margin: 10px;
-	padding: 5px;
+	padding: 2px;
 	border: 1px solid black;
 	float: left;
 }
-#brief, #home { margin: 0; clear:both;}
-#info { background-color: rgb(240, 240, 240); /* white-ish */ float: left; width: 60%;}
-#info p { margin: 5px 5px;}
-#tweets { float: right; width: 35%; background-color: rgb(240, 240, 240); /* white-ish */}
+#tweets { float: right; width: 35%; }
 #tweets h2 img { margin-bottom: -10px;}
 #tweets li {
 	list-style-type: none;
 	font-size: 15px;
-	background: rgb(56, 117, 215); /* blue */
+	background: #2FC2EF; /* twitter blue */
 	padding: 8px 10px;
 	margin-bottom: 15px;
 }
 #tweets li:after {
 		content: "";
 		border: 8px solid transparent;
-		border-top: 8px solid rgb(56, 117, 215); /* blue */
+		border-top: 8px solid #2FC2EF; /* twitter blue */
 		border-bottom: 0;
 		width: 0;
 		height: 0;
@@ -119,26 +124,53 @@ a:hover {
 		margin: 5px 0 -15px 0;
 }
 #tweets a {
-	color: rgb(240, 240, 240); /* white-ish */
+	color: white;
 	text-decoration: none;
+}
+#tweets h2 a {
+	color: #2FC2EF; /* twitter blue */
 }
 #tweets a:hover {
-	background-color: rgb(240, 240, 240); /* white-ish */
-	color: rgb(56, 117, 215); /* blue */
+	background-color: white;
+	color: #2FC2EF; /* twitter blue */
 	text-decoration: none;
 }
-#on-the-net { 
-	clear: both;
-	margin: 0 auto;
-	width: 400px;
-	text-align: center;
+#contact {
+	width: 60%;
 }
-#on-the-net a,
-#on-the-net a:hover {
-	background-color: inherit;
-	text-decoration: none;
+#contact h3 {
+	color: white;
+	font-size: 3em;
+	margin: 5px;
 }
-#on-the-net h2 { text-align: left;}
+#twitter h3 a {
+	background-color: #2FC2EF; /* twitter blue */
+	color: white;
+}
+#facebook h3 a {
+	background-color: #3B5998; /* facebook blue */
+	color: white;
+}
+#linkedin h3 a {
+	background-color: #069; /* linkedin blue */
+	color: white;
+}
+#github h3 a {
+	background-color: #DDD; /* github grey */
+	color: white;
+}
+#lastfm h3 a {
+	background-color: #D51007; /* lastfm red */
+	color: white;
+}
+#flickr h3 a {
+	background-color: #FF0084; /* flickr red */
+	color: white;
+}
+#vimeo h3 a {
+	background-color: #2786C2; /* vimeo blue */
+	color: white;
+}
 /* end home page */
 
 /* posts page */
@@ -158,7 +190,7 @@ a:hover {
 }
 ul.date { width: 30%; float: left; margin: 0; }
 li.date { height: 45px; font-size: 1.2em; }
-ul.title { width: 60%; float: left; margin: 5px 0;}
+ul.title { width: 60%; float: left; margin: 0;}
 li.title { height: 45px; font-size: 1.2em; }
 /* end posts page */
 
